@@ -56,8 +56,7 @@ public class BiblePerDayService {
         // Invoke until will be fetched day after IMPORT_END_DATE
         while (endDate.compareTo(calendar.getTime()) >= 0) {
             // Do import
-            boolean specialOccasion = !doesNotContainSpecialOccasion(driver);
-            BiblePerDayDTO biblePerDay = getBiblePerDay(driver, specialOccasion, calendar.getTime());
+            BiblePerDayDTO biblePerDay = getBiblePerDay(driver, calendar.getTime());
             PrintUtils.printMessageWithAutoFill(biblePerDay.toString());
             biblePerDayList.add(biblePerDay);
 
@@ -71,9 +70,10 @@ public class BiblePerDayService {
         return biblePerDayList;
     }
 
-    private BiblePerDayDTO getBiblePerDay(WebDriver driver, boolean specialOccasion, Date currentDate) {
+    private BiblePerDayDTO getBiblePerDay(WebDriver driver, Date currentDate) {
         BiblePerDayDTO.Builder biblePerDayBuilder = new BiblePerDayDTO.Builder(currentDate);
 
+        boolean specialOccasion = !doesNotContainSpecialOccasion(driver);
         if (specialOccasion) {
             List<SpecialOccasionDTO> specialOccasionList = fetchSpecialOccasions(driver);
             biblePerDayBuilder.setSpecialOccasionList(specialOccasionList);
