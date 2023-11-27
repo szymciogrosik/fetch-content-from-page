@@ -8,6 +8,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
 import java.util.List;
+import java.util.Optional;
 
 public class PageUtils {
 
@@ -35,12 +36,36 @@ public class PageUtils {
                 .until(ExpectedConditions.visibilityOfAllElementsLocatedBy(by));
     }
 
+    public static Optional<WebElement> findOptionalWebElementByAndWait(WebElement baseElement, By by) {
+        try {
+            return Optional.of(PageUtils.findWebElementByAndWait(baseElement, by));
+        } catch (RuntimeException e) {
+            if (e.getMessage().contains("Cannot find")) {
+                return Optional.empty();
+            } else {
+                throw e;
+            }
+        }
+    }
+
     public static WebElement findWebElementByAndWait(WebElement element, By by) {
         List<WebElement> webElements = findWebElementsByAndWait(element, by);
         if (webElements.size() == 1) {
             return webElements.get(0);
         } else {
             throw new RuntimeException("Fund multiple matching objects (" + webElements.size() + ") in the tag ");
+        }
+    }
+
+    public static Optional<List<WebElement>> findOptionalWebElementsByAndWait(WebElement baseElement, By by) {
+        try {
+            return Optional.of(PageUtils.findWebElementsByAndWait(baseElement, by));
+        } catch (RuntimeException e) {
+            if (e.getMessage().contains("Cannot find")) {
+                return Optional.empty();
+            } else {
+                throw e;
+            }
         }
     }
 

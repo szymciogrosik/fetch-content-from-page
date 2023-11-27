@@ -24,6 +24,7 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
+import java.util.Optional;
 
 public class BiblePerDayService {
 
@@ -32,8 +33,8 @@ public class BiblePerDayService {
     private static final int CHECK_TIMEOUT_MILLIS = (int) Speed.MEDIUM.getDurationMillis();
     private static final int IMPLICITLY_TIMEOUT_SECONDS = 1;
 
-    private static final String START_DATE = "27.11.";
-    private static final String END_DATE = "27.11.";
+    private static final String START_DATE = "2.3.";
+    private static final String END_DATE = "31.12.";
 
     public List<BiblePerDayDTO> downloadContentForYear(int year) {
         Date startDate = DateUtils.parse(START_DATE + year);
@@ -139,44 +140,26 @@ public class BiblePerDayService {
             final String title = PageUtils.findWebElementByAndWait(element, By.className("ocasion-title")).getText();
             specialOccasionBuilder.setTitle(title);
 
-            WebElement wholeSpecialOccasionDiv;
-            try {
-                wholeSpecialOccasionDiv = PageUtils.findWebElementByAndWait(element, By.className("ocasion-trans"));
-            } catch (RuntimeException e) {
-                if (e.getMessage().contains("Cannot find")) {
-                    continue;
-                } else {
-                    throw e;
-                }
+            Optional<WebElement> wholeSpecialOccasionDiv = PageUtils.findOptionalWebElementByAndWait(element, By.className("ocasion-trans"));
+            // Special occasion dv can be empty, then skip next elements
+            if (wholeSpecialOccasionDiv.isEmpty()) {
+                continue;
             }
 
-            String occasionString = "";
-            try {
-                occasionString = PageUtils.findWebElementByAndWait(wholeSpecialOccasionDiv, By.cssSelector("div .ocasion-subtitle")).getText();
-            } catch(TimeoutException | StaleElementReferenceException e) {
-                // Ignore
-            } catch (RuntimeException e) {
-                if (!e.getMessage().contains("Cannot find")) {
-                    throw e;
-                }
-            }
+            Optional<WebElement> occasionWebElement = PageUtils.findOptionalWebElementByAndWait(wholeSpecialOccasionDiv.get(), By.cssSelector("div .ocasion-subtitle"));
+            String occasionString = occasionWebElement.isPresent() ? occasionWebElement.get().getText() : StringUtils.EMPTY;
             Occasion occasion = detectOccasion(occasionString);
             specialOccasionBuilder.setOccasion(occasion);
 
             if (!Occasion.NONE.equals(occasion)) {
-                final String mainQuote = PageUtils.findWebElementByAndWait(wholeSpecialOccasionDiv, By.cssSelector("div div.front-sup-container div.frontContainer div p.frontSource")).getText();
+                final String mainQuote = PageUtils.findWebElementByAndWait(wholeSpecialOccasionDiv.get(), By.cssSelector("div div.front-sup-container div.frontContainer div p.frontSource")).getText();
                 specialOccasionBuilder.setMainQuote(mainQuote);
             }
 
-            List<WebElement> occasionSubDivList = new ArrayList<>();
-            try {
-                // Field can be optional f.e. 3.3.2023
-                occasionSubDivList = PageUtils.findWebElementsByAndWait(wholeSpecialOccasionDiv, By.cssSelector("div .addition-container"));
-            } catch (RuntimeException e) {
-                if (!e.getMessage().contains("Cannot find")) {
-                    throw e;
-                }
-            }
+            // Field can be empty f.e. 3.3.2023
+            List<WebElement> occasionSubDivList =
+                    PageUtils.findOptionalWebElementsByAndWait(wholeSpecialOccasionDiv.get(), By.cssSelector("div .addition-container"))
+                             .orElse(new ArrayList<>());
 
             fillOccasionRepeatable(occasionSubDivList, specialOccasionBuilder);
 
@@ -231,6 +214,18 @@ public class BiblePerDayService {
         }
     }
 
+    private Occasion detectOccasion(String occasion) {
+        if ("Hasło dnia:".equals(occasion)) {
+            return Occasion.DAY;
+        } else if ("Hasło tygodnia:".equals(occasion)) {
+            return Occasion.WEEK;
+        } else if (StringUtils.EMPTY.equals(occasion)) {
+            return Occasion.NONE;
+        } else  {
+            throw new RuntimeException("Unknown occasion: '" + occasion + "'");
+        }
+    }
+
     private List<String> getSermonTextList(WebElement webElement) {
         return PageUtils.findWebElementsByAndWait(webElement, By.cssSelector("div.addition-list-container p.addition-list-text-pointer"))
                         .stream().map(WebElement::getText).toList();
@@ -256,18 +251,6 @@ public class BiblePerDayService {
             throw new RuntimeException("EList cannot be empty!");
         }
         values.forEach(this::validateIfNotEmpty);
-    }
-
-    private Occasion detectOccasion(String occasion) {
-        if ("Hasło dnia:".equals(occasion)) {
-            return Occasion.DAY;
-        } else if ("Hasło tygodnia:".equals(occasion)) {
-            return Occasion.WEEK;
-        } else if (StringUtils.EMPTY.equals(occasion)) {
-            return Occasion.NONE;
-        } else  {
-            throw new RuntimeException("Unknown occasion: '" + occasion + "'");
-        }
     }
 
     private boolean doesNotContainSpecialOccasion(WebDriver driver) {
