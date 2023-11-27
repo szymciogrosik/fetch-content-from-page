@@ -10,14 +10,15 @@ import java.util.List;
 
 public class Main {
 
-    public static final String FILE_NAME = "BPD_2023.json";
+    public static final int YEAR = 2023;
+    public static final String FILE_NAME = "BPD_" + YEAR + ".json";
 
     public static void main(String...args) {
         BiblePerDayService biblePerDayService = new BiblePerDayService();
-        List<BiblePerDayDTO> biblePerDayList = biblePerDayService.downloadContentForYear(2023);
+        List<BiblePerDayDTO> biblePerDayList = biblePerDayService.downloadContentForYear(YEAR);
 
         String jsonString = JsonUtils.parse(biblePerDayList);
-        FileUtils.writeToFile(Collections.singletonList(jsonString), "FILE_NAME");
+        FileUtils.writeToFile(Collections.singletonList(jsonString), FILE_NAME);
     }
 
 }
