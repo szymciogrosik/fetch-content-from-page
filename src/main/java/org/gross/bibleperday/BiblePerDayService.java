@@ -33,7 +33,7 @@ public class BiblePerDayService {
     private static final int CHECK_TIMEOUT_MILLIS = (int) Speed.MEDIUM.getDurationMillis();
     private static final int IMPLICITLY_TIMEOUT_SECONDS = 1;
 
-    private static final String START_DATE = "2.3.";
+    private static final String START_DATE = "27.11.";
     private static final String END_DATE = "31.12.";
 
     public List<BiblePerDayDTO> downloadContentForYear(int year) {

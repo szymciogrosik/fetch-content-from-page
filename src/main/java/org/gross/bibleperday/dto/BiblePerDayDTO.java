@@ -1,7 +1,5 @@
 package org.gross.bibleperday.dto;
 
-import org.gross.utils.DateUtils;
-
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Date;
@@ -19,8 +17,10 @@ public class BiblePerDayDTO implements Serializable {
 
     private final List<SpecialOccasionDTO> specialOccasionList;
 
+    private final ContemplationDTO contemplationDTO;
+
     private BiblePerDayDTO(Date date, String firstStandard, String secondStandard, String firstAdditional, String secondAdditional,
-            String quoteNotFromBible, String quoteNotFromBibleReference, List<SpecialOccasionDTO> specialOccasionList
+            String quoteNotFromBible, String quoteNotFromBibleReference, List<SpecialOccasionDTO> specialOccasionList, ContemplationDTO contemplationDTO
     ) {
         this.date = date;
         this.firstStandard = firstStandard;
@@ -30,6 +30,7 @@ public class BiblePerDayDTO implements Serializable {
         this.quoteNotFromBible = quoteNotFromBible;
         this.quoteNotFromBibleReference = quoteNotFromBibleReference;
         this.specialOccasionList = specialOccasionList;
+        this.contemplationDTO = contemplationDTO;
     }
 
     public Date getDate() {
@@ -64,12 +65,16 @@ public class BiblePerDayDTO implements Serializable {
         return specialOccasionList;
     }
 
+    public ContemplationDTO getContemplationDTO() {
+        return contemplationDTO;
+    }
+
     @Override
     public String toString() {
-        return "BiblePerDayDTO{" + "date=" + DateUtils.present(date) + ", firstStandard='" + firstStandard + '\'' + ", secondStandard='" + secondStandard + '\'' +
+        return "BiblePerDayDTO{" + "date=" + date + ", firstStandard='" + firstStandard + '\'' + ", secondStandard='" + secondStandard + '\'' +
                 ", firstAdditional='" + firstAdditional + '\'' + ", secondAdditional='" + secondAdditional + '\'' + ", quoteNotFromBible='" +
                 quoteNotFromBible + '\'' + ", quoteNotFromBibleReference='" + quoteNotFromBibleReference + '\'' + ", specialOccasionList=" +
-                specialOccasionList + '}';
+                specialOccasionList + ", contemplationDTO=" + contemplationDTO + '}';
     }
 
     public static class Builder {
@@ -83,6 +88,8 @@ public class BiblePerDayDTO implements Serializable {
         private String quoteNotFromBible = "";
         private String quoteNotFromBibleReference = "";
         private List<SpecialOccasionDTO> specialOccasionList = new ArrayList<>();
+
+        private ContemplationDTO contemplationDTO;
 
         public Builder(Date date) {
             this.date = date;
@@ -123,8 +130,13 @@ public class BiblePerDayDTO implements Serializable {
             return this;
         }
 
+        public Builder setContemplationDTO(ContemplationDTO contemplationDTO) {
+            this.contemplationDTO = contemplationDTO;
+            return this;
+        }
+
         public BiblePerDayDTO build() {
-            return new BiblePerDayDTO(date, firstStandard, secondStandard, firstAdditional, secondAdditional, quoteNotFromBible, quoteNotFromBibleReference, specialOccasionList);
+            return new BiblePerDayDTO(date, firstStandard, secondStandard, firstAdditional, secondAdditional, quoteNotFromBible, quoteNotFromBibleReference, specialOccasionList, contemplationDTO);
         }
 
     }
