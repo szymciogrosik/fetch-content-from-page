@@ -34,12 +34,7 @@ public class BiblePerDayService {
     private static final int CHECK_TIMEOUT_MILLIS = (int) Speed.MEDIUM.getDurationMillis();
     private static final int IMPLICITLY_TIMEOUT_SECONDS = 1;
 
-    private static final String START_DATE = "1.12.";
-    private static final String END_DATE = "3.12.";
-
-    public List<BiblePerDayDTO> downloadContentForYear(int year) {
-        Date startDate = DateUtils.parse(START_DATE + year);
-        Date endDate = DateUtils.parse(END_DATE + year);
+    public List<BiblePerDayDTO> downloadContentForYear(Date startDate, Date endDate) {
 
         WebDriverManager.chromedriver().setup();
 
@@ -84,7 +79,6 @@ public class BiblePerDayService {
 
         fetchStandardElements(driver, specialOccasion, biblePerDayBuilder);
 
-        sleep(QUICK_CHECK_TIMEOUT_MILLIS);
         boolean contemplation = !doesNotContainContemplation(driver);
         if (contemplation) {
             biblePerDayBuilder.setContemplationDTO(fetchContemplation(driver));
@@ -103,12 +97,11 @@ public class BiblePerDayService {
         builder.setBibleReference(bibleRef);
 
         WebElement contemplationElement = contemplationElements.get(1);
-        List<String> contemplationTextList = PageUtils.findWebElementsByAndWait(contemplationElement, By.cssSelector(".frontContainer #text-transition p "))
-                                                      .stream().map(WebElement::getText).toList();
-        builder.setTextList(contemplationTextList);
 
-        WebElement contemplationRefDivElement = contemplationElements.get(1);
-        WebElement contemplationRefElement = PageUtils.findWebElementByAndWait(contemplationRefDivElement, By.cssSelector(".frontContainer div:nth-child(2) p"));
+        String contemplationText = PageUtils.findWebElementByAndWait(contemplationElement, By.cssSelector(".frontContainer div:nth-child(1)")).getText();
+        builder.setText(contemplationText);
+
+        WebElement contemplationRefElement = PageUtils.findWebElementByAndWait(contemplationElement, By.cssSelector(".frontContainer div:nth-child(2) p"));
         unfoldReference(contemplationRefElement);
         String contemplationRefText = contemplationRefElement.getText();
         builder.setTextReference(contemplationRefText);
@@ -298,7 +291,7 @@ public class BiblePerDayService {
 
     private boolean doesNotContainContemplation(WebDriver driver) {
         try {
-            return quickCountElements(driver, By.className("contemplation-container")) == 0;
+            return mediumCountElements(driver, By.className("contemplation-container")) == 0;
         } catch (TimeoutException | StaleElementReferenceException e) {
             return true;
         }
@@ -307,6 +300,11 @@ public class BiblePerDayService {
     private int quickCountElements(WebDriver driver, By by) {
         sleep(QUICK_CHECK_TIMEOUT_MILLIS);
         return PageUtils.findWebElementsByAndWait(driver, by, 5).size();
+    }
+
+    private int mediumCountElements(WebDriver driver, By by) {
+        sleep(CHECK_TIMEOUT_MILLIS);
+        return PageUtils.findWebElementsByAndWait(driver, by, CHECK_TIMEOUT_MILLIS).size();
     }
 
     private void moveToSpecificDate(WebDriver driver, Date targetDate, Speed speed) {
