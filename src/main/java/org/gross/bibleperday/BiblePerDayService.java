@@ -107,11 +107,18 @@ public class BiblePerDayService {
                                                       .stream().map(WebElement::getText).toList();
         builder.setTextList(contemplationTextList);
 
-        WebElement contemplationRefElement = contemplationElements.get(1);
-        String contemplationRefText = PageUtils.findWebElementByAndWait(contemplationRefElement, By.cssSelector(".frontContainer div:nth-child(2) p")).getText();
+        WebElement contemplationRefDivElement = contemplationElements.get(1);
+        WebElement contemplationRefElement = PageUtils.findWebElementByAndWait(contemplationRefDivElement, By.cssSelector(".frontContainer div:nth-child(2) p"));
+        unfoldReference(contemplationRefElement);
+        String contemplationRefText = contemplationRefElement.getText();
         builder.setTextReference(contemplationRefText);
 
         return builder.build();
+    }
+
+    private void unfoldReference(WebElement webElement) {
+        webElement.click();
+        sleep(QUICK_CHECK_TIMEOUT_MILLIS);
     }
 
     private void fetchAdditionalElements(WebDriver driver, BiblePerDayDTO.Builder biblePerDayBuilder) {
