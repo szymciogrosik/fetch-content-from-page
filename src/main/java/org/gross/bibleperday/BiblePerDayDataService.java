@@ -9,6 +9,8 @@ import org.gross.bibleperday.enums.MoveDate;
 import org.gross.bibleperday.enums.Occasion;
 import org.gross.bibleperday.enums.Speed;
 import org.gross.utils.DateUtils;
+import org.gross.utils.FileUtils;
+import org.gross.utils.JsonUtils;
 import org.gross.utils.PageUtils;
 import org.gross.utils.PrintUtils;
 import org.openqa.selenium.By;
@@ -23,19 +25,19 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.time.Duration;
 import java.util.ArrayList;
 import java.util.Calendar;
+import java.util.Collections;
 import java.util.Date;
 import java.util.List;
 import java.util.Optional;
 
-public class BiblePerDayService {
+public class BiblePerDayDataService {
 
     private static final String LINK = "https://biblianacodzien.pl/";
     private static final int QUICK_CHECK_TIMEOUT_MILLIS = 100;
     private static final int CHECK_TIMEOUT_MILLIS = (int) Speed.MEDIUM.getDurationMillis();
     private static final int IMPLICITLY_TIMEOUT_SECONDS = 1;
 
-    public List<BiblePerDayDTO> downloadContentForYear(Date startDate, Date endDate) {
-
+    public void downloadContentForDates(int year, int firstMonth, int lastMonth, int firstDayMonth, int lastDayMonth) {
         WebDriverManager.chromedriver().setup();
 
         WebDriver driver  = new ChromeDriver();
@@ -44,7 +46,19 @@ public class BiblePerDayService {
         // Open page
         driver.navigate().to(LINK);
 
+        for (int month = firstMonth; month <= lastMonth; month++) {
+            List<BiblePerDayDTO> biblePerDayList = fetchOnePeriod(
+                    driver, getStartDate(firstDayMonth, month, year), getEndDate(firstDayMonth, lastDayMonth, month, year));
+            String jsonString = JsonUtils.parse(biblePerDayList);
+            FileUtils.writeToFile(Collections.singletonList(jsonString), getFileName(month, year));
+        }
+
+        driver.quit();
+    }
+
+    private List<BiblePerDayDTO> fetchOnePeriod(WebDriver driver, Date startDate, Date endDate) {
         moveToSpecificDate(driver, startDate, Speed.FAST);
+
         Calendar calendar = Calendar.getInstance();
         calendar.setTime(getCurrentDate(driver));
 
@@ -60,10 +74,30 @@ public class BiblePerDayService {
             calendar.add(Calendar.DATE, 1);
             moveToSpecificDate(driver, calendar.getTime(), Speed.MEDIUM);
         }
-
-        driver.quit();
-
         return biblePerDayList;
+    }
+
+    private static Date getStartDate(int firstDayOfTheMonth, int month, int year) {
+        return getDate(firstDayOfTheMonth, month, year);
+    }
+
+    private static Date getEndDate(int firstDayOfTheMonth, int lastDayOfTheMonth, int month, int year) {
+        if (lastDayOfTheMonth != 0) {
+            return getDate(lastDayOfTheMonth, month, year);
+        }
+
+        Calendar calendar = Calendar.getInstance();
+        calendar.setTime(getStartDate(firstDayOfTheMonth, month, year));
+        int lastDayInMonth = calendar.getActualMaximum(Calendar.DAY_OF_MONTH);;
+        return getDate(lastDayInMonth, month, year);
+    }
+
+    private static Date getDate(int day, int month, int year) {
+        return DateUtils.parse(day + "." + month + "." + year);
+    }
+
+    private static String getFileName(int month, int year) {
+        return "BPD_" + month + "_" + year + ".json";
     }
 
     private BiblePerDayDTO getBiblePerDay(WebDriver driver, Date currentDate) {
