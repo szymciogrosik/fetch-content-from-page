@@ -1,14 +1,16 @@
 package org.gross.bibleperday.dto;
 
+import java.util.List;
+
 public class ContemplationDTO {
 
     private final String bibleReference;
-    private final String text;
+    private final List<String> textList;
     private final String textReference;
 
-    private ContemplationDTO(String bibleReference, String text, String textReference) {
+    private ContemplationDTO(String bibleReference, List<String> textList, String textReference) {
         this.bibleReference = bibleReference;
-        this.text = text;
+        this.textList = textList;
         this.textReference = textReference;
     }
 
@@ -16,8 +18,8 @@ public class ContemplationDTO {
         return bibleReference;
     }
 
-    public String getText() {
-        return text;
+    public List<String> getText() {
+        return textList;
     }
 
     public String getTextReference() {
@@ -26,12 +28,12 @@ public class ContemplationDTO {
 
     @Override
     public String toString() {
-        return "ContemplationDTO{" + "bibleReference='" + bibleReference + '\'' + ", text='" + text + '\'' + ", textReference='" + textReference + '\'' + '}';
+        return "ContemplationDTO{" + "bibleReference='" + bibleReference + '\'' + ", text='" + textList + '\'' + ", textReference='" + textReference + '\'' + '}';
     }
 
     public static class Builder {
         private String bibleReference;
-        private String text;
+        private List<String> textList;
         private String textReference;
 
         public Builder setBibleReference(String bibleReference) {
@@ -39,8 +41,8 @@ public class ContemplationDTO {
             return this;
         }
 
-        public Builder setText(String text) {
-            this.text = text;
+        public Builder setTextList(List<String> textList) {
+            this.textList = textList;
             return this;
         }
 
@@ -50,7 +52,7 @@ public class ContemplationDTO {
         }
 
         public ContemplationDTO build() {
-            return new ContemplationDTO(bibleReference, text, textReference);
+            return new ContemplationDTO(bibleReference, textList, textReference);
         }
 
     }

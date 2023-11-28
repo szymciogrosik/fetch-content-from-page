@@ -3,6 +3,7 @@ package org.gross.bibleperday;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.commons.lang3.StringUtils;
 import org.gross.bibleperday.dto.BiblePerDayDTO;
+import org.gross.bibleperday.dto.ContemplationDTO;
 import org.gross.bibleperday.dto.SpecialOccasionDTO;
 import org.gross.bibleperday.enums.MoveDate;
 import org.gross.bibleperday.enums.Occasion;
@@ -33,8 +34,8 @@ public class BiblePerDayService {
     private static final int CHECK_TIMEOUT_MILLIS = (int) Speed.MEDIUM.getDurationMillis();
     private static final int IMPLICITLY_TIMEOUT_SECONDS = 1;
 
-    private static final String START_DATE = "27.11.";
-    private static final String END_DATE = "31.12.";
+    private static final String START_DATE = "1.12.";
+    private static final String END_DATE = "3.12.";
 
     public List<BiblePerDayDTO> downloadContentForYear(int year) {
         Date startDate = DateUtils.parse(START_DATE + year);
@@ -83,7 +84,34 @@ public class BiblePerDayService {
 
         fetchStandardElements(driver, specialOccasion, biblePerDayBuilder);
 
+        sleep(QUICK_CHECK_TIMEOUT_MILLIS);
+        boolean contemplation = !doesNotContainContemplation(driver);
+        if (contemplation) {
+            biblePerDayBuilder.setContemplationDTO(fetchContemplation(driver));
+        }
+
         return biblePerDayBuilder.build();
+    }
+
+    private ContemplationDTO fetchContemplation(WebDriver driver) {
+        ContemplationDTO.Builder builder = new ContemplationDTO.Builder();
+        WebElement contemplation = PageUtils.findWebElementByAndWait(driver, By.className("contemplation-container"));
+        List<WebElement> contemplationElements = PageUtils.findWebElementsByAndWait(contemplation, By.className("front-sup-container"));
+
+        WebElement bibleElement = contemplationElements.get(0);
+        String bibleRef = PageUtils.findWebElementByAndWait(bibleElement, By.cssSelector(".frontContainer div p.frontSource")).getText();
+        builder.setBibleReference(bibleRef);
+
+        WebElement contemplationElement = contemplationElements.get(1);
+        List<String> contemplationTextList = PageUtils.findWebElementsByAndWait(contemplationElement, By.cssSelector(".frontContainer #text-transition p "))
+                                                      .stream().map(WebElement::getText).toList();
+        builder.setTextList(contemplationTextList);
+
+        WebElement contemplationRefElement = contemplationElements.get(1);
+        String contemplationRefText = PageUtils.findWebElementByAndWait(contemplationRefElement, By.cssSelector(".frontContainer div:nth-child(2) p")).getText();
+        builder.setTextReference(contemplationRefText);
+
+        return builder.build();
     }
 
     private void fetchAdditionalElements(WebDriver driver, BiblePerDayDTO.Builder biblePerDayBuilder) {
@@ -255,15 +283,23 @@ public class BiblePerDayService {
 
     private boolean doesNotContainSpecialOccasion(WebDriver driver) {
         try {
-            return countSpecialOccasions(driver) == 0;
+            return quickCountElements(driver, By.className("ocasion-container")) == 0;
         } catch (TimeoutException | StaleElementReferenceException e) {
             return true;
         }
     }
 
-    private int countSpecialOccasions(WebDriver driver) {
+    private boolean doesNotContainContemplation(WebDriver driver) {
+        try {
+            return quickCountElements(driver, By.className("contemplation-container")) == 0;
+        } catch (TimeoutException | StaleElementReferenceException e) {
+            return true;
+        }
+    }
+
+    private int quickCountElements(WebDriver driver, By by) {
         sleep(QUICK_CHECK_TIMEOUT_MILLIS);
-        return PageUtils.findWebElementsByAndWait(driver, By.className("ocasion-container"), 5).size();
+        return PageUtils.findWebElementsByAndWait(driver, by, 5).size();
     }
 
     private void moveToSpecificDate(WebDriver driver, Date targetDate, Speed speed) {
