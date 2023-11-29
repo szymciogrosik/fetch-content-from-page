@@ -30,7 +30,7 @@ import java.util.Date;
 import java.util.List;
 import java.util.Optional;
 
-public class BiblePerDayDataService {
+public class BiblePerDayDownloadService {
 
     private static final String LINK = "https://biblianacodzien.pl/";
     private static final int QUICK_CHECK_TIMEOUT_MILLIS = 100;
