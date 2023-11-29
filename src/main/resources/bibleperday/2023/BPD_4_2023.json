@@ -1,0 +1,541 @@
+[
+	{
+		"date": "01-04-2023",
+		"firstStandard": "1 Sm 12,22",
+		"secondStandard": "2 Tm 2,13",
+		"firstAdditional": "Obj 14,1-3(4-5)",
+		"secondAdditional": "Mt 26,57-68",
+		"quoteNotFromBible": "Swojego ludu nigdy Bóg zaprawdę nie odstąpił; żadnemu nigdy z wiernych sług swej łaski nie poskąpił; rękoma matki wiedzie nas i czujnie strzeże w każdy czas. Cześć, cześć naszemu Bogu!",
+		"quoteNotFromBibleReference": "Johann J. Schütz †1690, Śpiewnik ewangelicki 605, 5",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "02-04-2023",
+		"firstStandard": "Jr 31,13",
+		"secondStandard": "Mt 5,4",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Kim jest ten kto daje szczęście? Ten kto pokój daje nam? Kim jest ten kto mnie pociesza, gorzki w słodki zmienia smak?",
+		"quoteNotFromBibleReference": "Dean Salyn",
+		"specialOccasionList": [
+			{
+				"occasion": "WEEK",
+				"title": "6. Pasyjna – Niedziela Palmowa",
+				"mainQuote": "J 3,14b-15",
+				"psalm": "Ps 69,2-4.8-10.21b.22.30",
+				"worshipSongs": [
+					"Wejdź już do nas 166",
+					"Wzgardzony i opuszczony 168"
+				],
+				"apostolicLesson": "Flp 2,5-11",
+				"sermonTextList": [
+					"J 12,12-19"
+				],
+				"oldTestament": "Iz 50,4-9",
+				"gospel": ""
+			}
+		],
+		"contemplationDTO": {
+			"bibleReference": "J 12,19",
+			"text": "Niedziela Palmowa to początek Wielkiego Tygodnia, którego finałem będzie wielkanocne zmartwychwstanie. Chrystus Pan, choć upokorzony, sponiewierany, opluty i zabity – zgodnie z proroctwami – udowadnia światu swoją boskość. Nic ani nikt nie jest w stanie go powstrzymać. Faryzeusze, pewnie nie wiedząc o tym, wypowiadają „prorocze” zdanie, które do dziś zachowuje aktualność. Ludzie w różny sposób – intelektualnie, zbrojnie, praktycznie – próbują „uciszyć” Jezusa i Jego Ewangelię.\nPrawdą jest, że nie cały świat idzie za Jezusem. Prawdą jest też, że może się wydawać, szczególnie w Europie, że chrześcijaństwo jest w odwrocie. W Niedzielę Palmową warto zmienić myślenie – wtedy też się wydawało, że czas Chrystusa się kończy, a ten czas tak naprawdę się zaczynał. Nie poddawajmy się i nie składajmy broni – stańmy do walki o ludzkie serca poprzez Słowo Ewangelii.",
+			"textReference": "Mirosław Czyż"
+		}
+	},
+	{
+		"date": "03-04-2023",
+		"firstStandard": "Ps 16,8 (BE)",
+		"secondStandard": "Hbr 12,2",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Biblia daje lepszy, obiektywniejszy pogląd na ludzi i ich sprawy, na świat i jego stosunki, na narody i ich dzieje. Ona uczy patrzeć na wszystko pod kątem wieczności. Rozszerza horyzonty myślowe człowieka, daje możność patrzenia w dal, pozwala garnąć wzrokiem przeszłość i przyszłość.",
+		"quoteNotFromBibleReference": "bp Karol Kotula †1968",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "04-04-2023",
+		"firstStandard": "Jl 2,21",
+		"secondStandard": "Łk 19,37-38",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Chcę pląsać z radości i śpiewać Mu pieśń. Chcę w sercu Go nieść, bo znam o Nim wieść, a blask Jego chwały uwalnia mnie po to, by żyć. Wzniosę swój głos, by chwalić Go i wiem, że On słyszy mnie.",
+		"quoteNotFromBibleReference": "śpiewnik Będę śpiewał i grał 19, 1",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "05-04-2023",
+		"firstStandard": "Ps 33,5",
+		"secondStandard": "2 Kor 8,9",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Dzisiaj więc zacznijmy czynić dobro, ponieważ do tej pory nic dobrego jeszcze nie zrobiliśmy.",
+		"quoteNotFromBibleReference": "Franciszek z Asyżu †1226",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "06-04-2023",
+		"firstStandard": "1 Mż 8,22",
+		"secondStandard": "Łk 22,19-20",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "O błogosławione ciało! Skarbem wiernych tyś się stało, sprawiedliwych pocieszeniem, ufnym w Tobie – pokrzepieniem. O krwi przenajświętsza, droga, coś przemogła z piekła wroga, racz oczyścić nas od złego i stwórz ducha w nas stałego!",
+		"quoteNotFromBibleReference": "Jan Hus †1415, Śpiewnik ewangelicki 405, 3-4",
+		"specialOccasionList": [
+			{
+				"occasion": "DAY",
+				"title": "Wielki Czwartek – Dzień Ustanowienia Wieczerzy Pańskiej",
+				"mainQuote": "Ps 111,4",
+				"psalm": "Ps 111",
+				"worshipSongs": [
+					"Podnieśmy wszyscy społem 407",
+					"Zbliżmy się do Chrystusa Stołu 413"
+				],
+				"apostolicLesson": "1 Kor 11,(17-22)23-26(27-29.33-34a)",
+				"sermonTextList": [
+					"Łk 22,39-46"
+				],
+				"oldTestament": "2 Mż 12,1-4(5)6-8(9)10-14",
+				"gospel": ""
+			}
+		],
+		"contemplationDTO": null
+	},
+	{
+		"date": "07-04-2023",
+		"firstStandard": "Ps 34,9",
+		"secondStandard": "Łk 23,42-43",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Pan Bóg jest mą siłą i obroną miłą! Stać bezpiecznie może, gdy ma Ciebie, Boże, ma dusza. Jestem w ręce Bożej, śmiercią się nie trwożę, bać się nie mam czego, Pan już moce złego pokonał.",
+		"quoteNotFromBibleReference": "ks. Jerzy Trzanowski †1637, Śpiewnik ewangelicki 694, 1.3",
+		"specialOccasionList": [
+			{
+				"occasion": "DAY",
+				"title": "Wielki Piątek – Dzień Ukrzyżowania Pana Jezusa",
+				"mainQuote": "J 3,16",
+				"psalm": "Ps 22,2-6.12.16.19-20",
+				"worshipSongs": [
+					"Baranek niesie brzemię win 112",
+					"O głowo, coś zraniona 142",
+					"Na Golgotę, duszo, śpiesz 137"
+				],
+				"apostolicLesson": "",
+				"sermonTextList": [
+					"Kol 1,13-20"
+				],
+				"oldTestament": "Iz 52,13-15;53,1-12",
+				"gospel": "J 19,16-30"
+			}
+		],
+		"contemplationDTO": {
+			"bibleReference": "Kol 1,19-20",
+			"text": "Ten dzień powagi i smutku rodzi wiele refleksji. Warto w związku z tym zadać sobie pytanie: czy mnie to dotyczy? Czy pogrążona troską o byt powszedni doceniam „upodobanie” Boga? Czy wierzę w to, że wydarzenie Golgoty zmienia nie tylko historię świata, ale mnie samą? Przecież jestem słabym, kruchym, a może rozbitym w drobny mak naczyniem!? Tak się czujesz? – ktoś zapyta. Ja… często tak.\nJest taka japońska sztuka, nazywa się kintsugi. To sztuka sklejania rozbitej porcelany złotem. Dzięki tej sztuce ratowania porcelany powstają cenne, unikatowe okazy. Dlaczego o tym wspominam? Dla chrześcijan tym spoiwem, bezcennym kruszcem – jest krew Jezusa Chrystusa. Jestem sklejona w całość dzięki krwi Pana Jezusa. To ratuje życie naczyniu, którym jestem. Tylko w mocy oczyszczającej krwi Pana Jezusa mogę realnie podejść do Słowa: „W nim zamieszkała cała pełnia boskości, żeby wszystko pojednało się z nim dzięki przywróceniu pokoju przez krew krzyża jego”. Tylko w Nim i z Nim mogę unieść ciężar własnego życia i dostrzec to, że Bóg jest i działa.",
+			"textReference": "Aleksandra Błahut-Kowalczyk"
+		}
+	},
+	{
+		"date": "08-04-2023",
+		"firstStandard": "Ps 40,3",
+		"secondStandard": "1 P 3,18-19",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Wiara jest nadzieją na wyzwolenie z najcięższego więzienia, w jakie człowiek może zostać wtrącony, z więzienia własnego ja, z opętania sobą i rozpaczliwego krążenia wokół siebie.",
+		"quoteNotFromBibleReference": "ks. Tomáš Halík",
+		"specialOccasionList": [
+			{
+				"occasion": "DAY",
+				"title": "Wielka Sobota",
+				"mainQuote": "Ef 4,10",
+				"psalm": "Ps 88,2-7.11-13",
+				"worshipSongs": [
+					"O Jezu, bądź pochwalony 143",
+					"Dziękuję Ci za śmierć Twoją 118",
+					"Kiedy Pana pochowali 131"
+				],
+				"apostolicLesson": "1 P 3,18-22",
+				"sermonTextList": [
+					"J 19,(31-37)38-42"
+				],
+				"oldTestament": "Ez 37,1-14",
+				"gospel": ""
+			}
+		],
+		"contemplationDTO": null
+	},
+	{
+		"date": "09-04-2023",
+		"firstStandard": "Ps 3,6",
+		"secondStandard": "Mk 16,9-10",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Minęła noc, wstań serce me, bo dzień poczyna świtać! Mój duchu, ze snu obudź się, idź Zbawiciela witać. Bo dziś otworzył śmierci drzwi i żywy jest po wszystkie dni swym wiernym ku radości.",
+		"quoteNotFromBibleReference": "Lorenz Lorenzen †1748, Śpiewnik ewangelicki 182, 1",
+		"specialOccasionList": [
+			{
+				"occasion": "WEEK",
+				"title": "1. Dzień Świąt Zmartwychwstania Pańskiego",
+				"mainQuote": "Obj 1,18",
+				"psalm": "Ps 118,14-24",
+				"worshipSongs": [
+					"Chrystus był w śmierci mocy 172",
+					"Kiedy rankiem 180"
+				],
+				"apostolicLesson": "",
+				"sermonTextList": [
+					"1 Kor 15,1-11"
+				],
+				"oldTestament": "1 Sm 2,1-8a",
+				"gospel": "Mk 16,1-8"
+			},
+			{
+				"occasion": "NONE",
+				"title": "Jutrznia lub rezurekcja",
+				"mainQuote": "",
+				"psalm": "",
+				"worshipSongs": [],
+				"apostolicLesson": "Kol 3,1-4",
+				"sermonTextList": [
+					"Iz 26,13-14(15-18)19"
+				],
+				"oldTestament": "",
+				"gospel": "Mt 28,1-10"
+			}
+		],
+		"contemplationDTO": {
+			"bibleReference": "Iz 26,19",
+			"text": "Co roku w wielkanocny poranek w kościele ewangelickim w Mysłowicach punktualnie o szóstej rano rozpoczyna się nabożeństwo. W regionie to chyba pierwsze ewangelickie nabożeństwo w Święto Zmartwychwstania Pańskiego. Miasto jeszcze śpi, wszędzie szaro i niepewnie. Pierwsze uderzenie dzwonu, potem następne i kolejne dają świadectwo, że Pan zmartwychwstał. Zupełnie inaczej o tej porze brzmi średniowieczna pieśń „Chrystus Pan wstał z martwych, po swych mękach twardych” (ŚE 173). A jeszcze ciekawiej robi się w wtedy, gdy w trakcie nabożeństwa zaczyna wschodzić słońce, które oświetla zorientowany na wschód ołtarzowy witraż z Chrystusem Zmartwychwstałym. O tej porze chyba najmocniej zabrzmią też słowa proroka, że niemożliwe stanie się możliwe, bo przecież Chrystus żyje! Alleluja!",
+			"textReference": "Adam Malina"
+		}
+	},
+	{
+		"date": "10-04-2023",
+		"firstStandard": "2 Mż 14,14",
+		"secondStandard": "1 Kor 15,57",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Bo oręż naszej walki nie jest z tego świata, lecz w Duchu ma moc, w Duchu ma moc. Ogrom Jego łaski i potęga miłości ponad wszystko są, ponad wszystko są. Gdy Jezusa wielbimy dziś i jedność jest wśród nas, mamy zwycięstwo, bo On walczy sam.",
+		"quoteNotFromBibleReference": "John Chisum, Gary Sadler, śpiewnik Będę śpiewał i grał 82",
+		"specialOccasionList": [
+			{
+				"occasion": "DAY",
+				"title": "2. Dzień Świąt Zmartwychwstania Pańskiego",
+				"mainQuote": "Obj 1,18",
+				"psalm": "Ps 118,14-24",
+				"worshipSongs": [
+					"Szli do Emaus dwaj uczniowie 196",
+					"Wesoły nam dziś dzień 199"
+				],
+				"apostolicLesson": "1 Kor 15,50-58",
+				"sermonTextList": [
+					"Łk 24,13-35"
+				],
+				"oldTestament": "Iz 25,6-9",
+				"gospel": ""
+			}
+		],
+		"contemplationDTO": {
+			"bibleReference": "Łk 24,16",
+			"text": "Wśród opowiadań włoskiego pisarza Bruno Ferrery można znaleźć takie, w którym rabin pyta, kiedy dokładnie następuje chwila, gdy kończy się noc, a zaczyna dzień. Jeden z rozmówców odpowiada: „Wtedy, gdy da się odróżnić psa od owcy”. Inny: „Gdy można odróżnić drzewo daktylowe od drzewa figowego”. Jednak żadna z odpowiedzi nie jest właściwa. W końcu rabin mówi: „Wtedy, gdy patrząc na twarz jakiejkolwiek osoby, rozpoznajesz w niej brata lub siostrę. W przeciwnym razie w twoim sercu panuje noc”.\nSłowa z Ewangelii o drodze do Emaus uczą nas innej prawdy: noc śmierci, również wiecznej śmierci, kończy się wówczas, gdy zobaczysz Jezusa i twoje serce zaczyna bić nowy rytmem – rytmem wiary.",
+			"textReference": "MCz"
+		}
+	},
+	{
+		"date": "11-04-2023",
+		"firstStandard": "Ps 91,9",
+		"secondStandard": "2 Kor 1,5",
+		"firstAdditional": "J 20,1-10",
+		"secondAdditional": "Rz 12,1-8",
+		"quoteNotFromBible": "Niech wierność Twą wysławiam, co ciągle się odnawia; niech rękę sławię Twoją, co wszystkie rany goi! Racz nadal z nami mieszkać! Gdy chwila przyjdzie ciężka, bądź nam w swej łaskawości krynicą cnej radości!",
+		"quoteNotFromBibleReference": "ks. Paweł Gerhardt †1676, Śpiewnik ewangelicki 99, 4-5",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "12-04-2023",
+		"firstStandard": "Iz 45,12",
+		"secondStandard": "Jk 1,17",
+		"firstAdditional": "J 20,11-18",
+		"secondAdditional": "Rz 12,9-16",
+		"quoteNotFromBible": "Z gór wysoko zaczyna się, płynie jak obłoki ożywiając step. Tam, w dolinach słychać rzeki szum, rzeki wody żywej docierają tu!",
+		"quoteNotFromBibleReference": "Andy Park, śpiewnik Będę śpiewał i grał 176, 1",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "13-04-2023",
+		"firstStandard": "Ne 9,31",
+		"secondStandard": "J 14,19",
+		"firstAdditional": "J 21,1-14",
+		"secondAdditional": "Rz 12,17-21",
+		"quoteNotFromBible": "Oby Pan nadal prowadził nas do źródeł miłosierdzia, do ogrodów cierpliwości i ozdabiał nas wieńcami wspaniałomyślności. Niech przenika do naszych serc niczym ożywcze tchnienie, niosące Jego zamysły, aby poprowadzić nas drogami, po których dotąd nie stąpaliśmy ze strachu czy niepewności. Wiemy bowiem, że Pan chce, abyśmy kroczyli radośnie, raźnym krokiem, gdyż jesteśmy Bożymi dziećmi.",
+		"quoteNotFromBibleReference": "Hanns Dieter Hüsch †2005",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "14-04-2023",
+		"firstStandard": "Jr 23,5",
+		"secondStandard": "Hbr 2,15",
+		"firstAdditional": "Łk 24,36-47",
+		"secondAdditional": "Rz 13,1-7",
+		"quoteNotFromBible": "Zmartwychwstań Jezu, w sercu moim, skrusz kamień grzechu, co w nim tkwi. Zamiast grobowych, czarnych cieni niech Twoje światło we mnie lśni.",
+		"quoteNotFromBibleReference": "Leopold Staff †1957",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "15-04-2023",
+		"firstStandard": "Hi 9,4",
+		"secondStandard": "Rz 9,20",
+		"firstAdditional": "Łk 24,1-12",
+		"secondAdditional": "Rz 13,8-14",
+		"quoteNotFromBible": "Ty wywracasz do góry nogami moje wygodnictwo. Panie, potrafisz zachwiać moją wiarą w siebie, śmiejesz się z mojej niestosownej dumy, niweczysz moje plany, marzenia i ambicje. Kiedy już to wszystko wydaje się stracone, na nowo wszystko stwarzasz w swojej mądrości i wielkiej miłości, tak, jakbyś nie miał niczego innego do zrobienia, Panie, Boże wszechświata.",
+		"quoteNotFromBibleReference": "abp Hélder Câmara †1999",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "16-04-2023",
+		"firstStandard": "Ps 99,5",
+		"secondStandard": "Dz 4,31",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "W nabożeństwie nie powinno się dziać nic innego, jak tylko to, że nasz umiłowany Pan rozmawia z nami przez swoje Święte Słowo, my zaś z nim – przez modlitwę i pieśni pochwalne.",
+		"quoteNotFromBibleReference": "Marcin Luter †1546",
+		"specialOccasionList": [
+			{
+				"occasion": "WEEK",
+				"title": "1. po Wielkanocy (Quasimodogeniti – Jak nowo narodzone niemowlęta. 1 P 2,2)",
+				"mainQuote": "1 P 1,3",
+				"psalm": "Ps 116,1-9.13",
+				"worshipSongs": [
+					"Przed Boga tron pośpieszmy wznieść 193"
+				],
+				"apostolicLesson": "1 P 1,3-9",
+				"sermonTextList": [
+					"1 Mż 32,23-32"
+				],
+				"oldTestament": "",
+				"gospel": "J 20,19-20(21-23)24-29"
+			}
+		],
+		"contemplationDTO": {
+			"bibleReference": "1 Mż 32,26",
+			"text": "Modlitwa Jakuba nad potokiem Jabbok w Niedzielę Quasimodogeniti nie przypomina, w moim odczuciu, ufnej, wręcz słodkiej modlitwy małego dziecka. To modlitwa człowieka po przejściach; człowieka, który ma w pamięci swe kłamstwa, oszustwa względem brata i ojca, ucieczkę z domu przed zemstą bliźniaka, lata służby u wuja i lata tęsknoty. To miłość zmusza Jakuba do walki z Bogiem. Chęć odzyskania Ezawa i życie w przebaczeniu stają się siłą napędową tej niezwykłej modlitwy. Jak pisze szwedzki pastor, Tomas Sjödin, „nie puszczę cię” oznacza raczej „nie opuszczaj mnie, Boże!” czy „nigdy nie pozostawiaj mnie samego”. Jedyne, co ma w życiu znaczenie, to Boże błogosławieństwo. Człowiek zostaje zmuszony nie tylko do rachunku sumienia, lecz także do rozrachunku z żywym Bogiem. Również sobie samej mówię: odwagi!",
+			"textReference": "Aleksandra Błahut-Kowalczyk"
+		}
+	},
+	{
+		"date": "17-04-2023",
+		"firstStandard": "Jr 51,50",
+		"secondStandard": "Ef 2,19",
+		"firstAdditional": "1 J 5,1-5",
+		"secondAdditional": "Rz 14,1-12",
+		"quoteNotFromBible": "Boże, modlimy się o odwagę, aby stawiać czoło przyczynom, dla których ludzie są zmuszani do opuszczenia ojczyzny. Jest ich wiele, to wojny, katastrofy naturalne, szkody wywołane zmianami klimatu, kryzysy gospodarcze. Modlimy się o poważne podejście do tych zagrożeń i wytrwałość w poszukiwaniu rozwiązań. Boże, pomóż nam, abyśmy byli też świadomi odpowiedzialności za siebie nawzajem i hojni w trosce o innych.",
+		"quoteNotFromBibleReference": "modlitwa z Francji",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "18-04-2023",
+		"firstStandard": "So 3,15",
+		"secondStandard": "2 Tm 1,7",
+		"firstAdditional": "Hi 42,7-13(14-17)",
+		"secondAdditional": "Rz 14,13-23",
+		"quoteNotFromBible": "Litościwy Panie Jezu Chryste, przyciągaj nas do siebie, albowiem jeśli Ty nie poprowadzisz, nie możemy za Tobą podążać; daj nam silnego i ochoczego ducha, serce nieustraszone mimo wszelkich przeciwności, aby wierzyć i czynić to, co właściwe. Udziel nam niezłomnej nadziei, abyśmy przez wzgląd na Ciebie wiele mogli znieść.",
+		"quoteNotFromBibleReference": "Jan Hus †1415",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "19-04-2023",
+		"firstStandard": "Za 8,13",
+		"secondStandard": "2 Kor 3,5",
+		"firstAdditional": "Iz 66,6-13(14)",
+		"secondAdditional": "Rz 15,1-6",
+		"quoteNotFromBible": "Boże, źródło życia, tchnienie naszej tęsknoty, zaczątku naszego jestestwa, pobłogosław nas światłem swojej teraźniejszości, które odeprze nasze lęki. Pobłogosław nas, abyśmy stali się błogosławieństwem i torowali drogę pokoju delikatnymi rękoma, słuchającym sercem, otwartymi oczyma i odważnymi krokami.",
+		"quoteNotFromBibleReference": "Katja Süß",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "20-04-2023",
+		"firstStandard": "2 Krl 19,34 (BE)",
+		"secondStandard": "Łk 12,32",
+		"firstAdditional": "1 P 2,1-10",
+		"secondAdditional": "Rz 15,7-13",
+		"quoteNotFromBible": "Nie bój się, bo jestem z tobą, mówi Pan! Jam cię odkupił, twoje imię znam. Tyś dzieckiem Mym, choćbyś musiał przez wodę, przez ogień przejść, sam będę cię strzegł. Jam Pan, twój Bóg, Jam Pan, twój Bóg. Nie możesz utonąć, nie spłoniesz.",
+		"quoteNotFromBibleReference": "Phil Pringle, śpiewnik Będę śpiewał i grał 79",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "21-04-2023",
+		"firstStandard": "2 Mż 20,16",
+		"secondStandard": "Ef 4,29",
+		"firstAdditional": "Obj 7,13-17",
+		"secondAdditional": "Rz 15,14-21",
+		"quoteNotFromBible": "Powinniśmy Boga bać się i kochać Go, abyśmy drugiego człowieka perfidnie nie okłamywali, nie zdradzali, nie plotkowali o nim ani nie naruszali jego dobrego imienia, ale go bronili przed oskarżeniami, dobrze o nim mówili i wszystko zwracali ku dobremu.",
+		"quoteNotFromBibleReference": "Marcin Luter †1546, Mały katechizm",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "22-04-2023",
+		"firstStandard": "Ps 39,5",
+		"secondStandard": "2 Kor 5,1",
+		"firstAdditional": "Dz 8,26-39",
+		"secondAdditional": "Rz 15,22-33",
+		"quoteNotFromBible": "Tak, jak jesienny liść cicho opada z drzewa, tak chciałabym odejść z tego świata, kiedy czas nadejdzie. Chcę być lekka, nie trzymać się kurczowo, a opadając, cieszyć się, kierując się ku Tobie.",
+		"quoteNotFromBibleReference": "Antje Sabine Naegeli",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "23-04-2023",
+		"firstStandard": "Jr 23,24",
+		"secondStandard": "Hbr 4,13",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "W ciemności nie ukryję się, przed Tobą jawne życie me. Noc jak biały dzień, boś Ty światłem jest, co rozjaśnia mroku cień. Słyszysz głos mój, gdy wołam do Ciebie: Panie przyjdź, zabierz smutek mój bym wiarą przyjąć mógł grzechów moich odpuszczenie.",
+		"quoteNotFromBibleReference": "R. Nogowczyk, M. Dyka, śpiewnik Będę śpiewał i grał 161",
+		"specialOccasionList": [
+			{
+				"occasion": "WEEK",
+				"title": "2. po Wielkanocy (Misericordias Domini – Pełna jest ziemia łaski Pana. Ps 33,5)",
+				"mainQuote": "J 10,11a.27-28a",
+				"psalm": "Ps 23",
+				"worshipSongs": [
+					"Mój wiekuisty Pasterz 602"
+				],
+				"apostolicLesson": "",
+				"sermonTextList": [
+					"1 P 2,21b-25"
+				],
+				"oldTestament": "Ez 34,1.2(3-9)10-16.31",
+				"gospel": "J 10,11-16(27-30)"
+			}
+		],
+		"contemplationDTO": {
+			"bibleReference": "1 P 2,21.25",
+			"text": "Czasem warto połączyć dwa oddalone od siebie wersety, aby pojawiła się ciekawa myśl. W dodatku w pełni usprawiedliwiona logicznie i teologicznie. Z jednej strony mamy przykład samego Zbawiciela, który cierpiał dla naszego zbawienia i pozostawił wzorzec, który powinniśmy naśladować. Natomiast na końcu pojawia nam się wyjaśnienie naszego statusu i wskazanie na konieczność szukania wzorców dobrego życia. Wskazanie jest proste – zabłąkani jak owce, pogubieni na tym świecie, potrzebujemy nawrócenia do prawdziwego Pasterza i Obrońcy.\nChrystus cierpi i swoją postawą daje przykład godny naśladowania. Patrzmy na Niego, na Dobrego Pasterza, a nie będziemy się ciągle gubić.",
+			"textReference": "Adam Malina"
+		}
+	},
+	{
+		"date": "24-04-2023",
+		"firstStandard": "Ps 130,6",
+		"secondStandard": "Jud 21",
+		"firstAdditional": "J 10,1-10",
+		"secondAdditional": "Rz 16,1-16",
+		"quoteNotFromBible": "Ozdób moje serce, Panie, Twoją obecnością; zmień je w swoje mieszkanie! Ty jesteś gościem, którego oczekuję, przyjacielem, który ma u mnie zostać. Przystroję swój dom tęsknotą i pragnieniem, wówczas blask niebios rozświetli moje mieszkanie.",
+		"quoteNotFromBibleReference": "Jan XXIII",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "25-04-2023",
+		"firstStandard": "Ps 112,4",
+		"secondStandard": "2 Kor 4,17-18",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Bóg nie pomaga nam tylko przez jeden dzień, by potem zostawić nas na lodzie w środku jakiegoś doświadczenia. On pragnie nas prowadzić do celu.",
+		"quoteNotFromBibleReference": "Jan Kalwin †1564",
+		"specialOccasionList": [
+			{
+				"occasion": "DAY",
+				"title": "Dzień ewangelisty Marka",
+				"mainQuote": "Iz 52,7",
+				"psalm": "",
+				"worshipSongs": [
+					"Apostołów dziś wspomnijmy 244",
+					"Zbudź, Panie, ducha ojców wiary 541"
+				],
+				"apostolicLesson": "Dz 15,36-41",
+				"sermonTextList": [],
+				"oldTestament": "",
+				"gospel": "Łk 10,1-9"
+			}
+		],
+		"contemplationDTO": null
+	},
+	{
+		"date": "26-04-2023",
+		"firstStandard": "Jr 33,11",
+		"secondStandard": "Tt 2,11",
+		"firstAdditional": "J 17,20-26",
+		"secondAdditional": "Prz 1,1-7",
+		"quoteNotFromBible": "Tylko Oblubieniec wie, kto naprawdę jest w Nim zakochany. W dniu wesela znajdzie ich, wniesie przez próg, przez Żywota bramy. Jezus, Oblubieńcem naszym jest, a Kościół świętą panną, którą zdobył Swoją krwią.",
+		"quoteNotFromBibleReference": "Aleksander Macha, śpiewnik Będę śpiewał i grał 92, 2",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "27-04-2023",
+		"firstStandard": "Iz 44,21",
+		"secondStandard": "Rz 11,1",
+		"firstAdditional": "Ef 4,11-16",
+		"secondAdditional": "Prz 1,8-19",
+		"quoteNotFromBible": "Ty, wierny Boże, na zawsze związałeś się ze swoim ludem izraelskim i obiecałeś mu wyzwolenie oraz powrót do domu. My wszyscy żyjemy dzięki Twojemu miłosierdziu i radujemy się z Twojej wierności.",
+		"quoteNotFromBibleReference": "",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "28-04-2023",
+		"firstStandard": "1 Krl 20,11 (BE)",
+		"secondStandard": "Ef 4,23",
+		"firstAdditional": "Ez 34,23-31",
+		"secondAdditional": "Prz 1,20-33",
+		"quoteNotFromBible": "Błogosławiony jest człowiek pokój niosący dokoła, słowom Chrystusa wierzący, których nic zmienić nie zdoła. Pokój zostawiam wam, pokój swoją daję wam, nie tak jak daje dzisiaj świat – powiedział do nas Pan.",
+		"quoteNotFromBibleReference": "Zofia Jasnota, Śpiewnik ewangelicki 841, 4",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "29-04-2023",
+		"firstStandard": "5 Mż 26,10-11",
+		"secondStandard": "1 Tm 6,17-18",
+		"firstAdditional": "J 14,1-6",
+		"secondAdditional": "Prz 2,1-22",
+		"quoteNotFromBible": "Dobrego uczynku można dokonać nawet wtedy, kiedy nie czujemy się dobrzy i nie czerpiemy z niego żadnej przyjemności, bo dobroć jest po prostu rzeczą słuszną.",
+		"quoteNotFromBibleReference": "Clive Staples Lewis †1963",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "30-04-2023",
+		"firstStandard": "1 Mż 28,16",
+		"secondStandard": "Łk 24,32",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Chrystus zmartwychwstał! I ty, człowiecze, zmartwychwstań z otchłani grzechu, wykąp się w blasku, co z nieba ciecze, zaczerpnij życia w wiosny oddechu.",
+		"quoteNotFromBibleReference": "Artur Oppman †1931",
+		"specialOccasionList": [
+			{
+				"occasion": "WEEK",
+				"title": "3. po Wielkanocy (Jubilate – Radośnie wysławiajcie Boga. Ps 66,1)",
+				"mainQuote": "2 Kor 5,17",
+				"psalm": "Ps 66,1-9",
+				"worshipSongs": [
+					"Wesel się serdecznie 198",
+					"Wesoły nam dziś dzień 199"
+				],
+				"apostolicLesson": "Dz 17,22-34",
+				"sermonTextList": [
+					"J 16,16-23a"
+				],
+				"oldTestament": "1 Mż 1,1-4a(4b-25)26-28(29-30) 31a(31b);2,1-4a",
+				"gospel": ""
+			}
+		],
+		"contemplationDTO": {
+			"bibleReference": "J 16,20",
+			"text": "Wraz z rozwojem psychologii po II wojnie światowej, dostrzegamy coraz silniej, że człowiek działa nie tylko w oparciu o intelekt, czyli rozum, ale także o emocje – serce, a ściślej – różne miejsca w naszym ciele, gdzie kumulują się emocje. W odniesieniu do ludzkich zachowań mówi się o kompetencjach twardych – bazujących na wiedzy, oraz kompetencjach miękkich – wynikających z emocji, takich jak: empatia, koleżeńskość, współpraca w grupie.\nTakże w perspektywie biblijnej uczymy się nazywać emocje. Dziś mamy do czynienia z dwiema ważnymi: smutkiem i radością. Obie są obecne w naszym życiu, na różnych etapach i w różnym natężeniu. Jezus obiecuje, że smutek ostatecznie przemieni się w radość – nie tylko w perspektywie życia wiecznego. Wiem, że niejeden z nas mógłby to potwierdzić w kontekście swego doczesnego życia.",
+			"textReference": "Mirosław Czyż"
+		}
+	}
+]

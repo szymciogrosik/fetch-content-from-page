@@ -1,0 +1,512 @@
+[
+	{
+		"date": "01-01-2023",
+		"firstStandard": "Ps 42,3",
+		"secondStandard": "Mt 7,8",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "U progu, na rozdrożu stoję, co rok przyniesie nowy, nie wiem nic. Bez Ciebie dalej iść się boję, o, prowadź mię światłością swoich lic! Jezusie, prowadź mię na wąski ślad, bo mnie ze sobą w zgubę porwie świat.",
+		"quoteNotFromBibleReference": "Śpiewnik ewangelicki 103,2",
+		"specialOccasionList": [
+			{
+				"occasion": "WEEK",
+				"title": "1. po Narodzeniu Pańskim",
+				"mainQuote": "J 1,14b",
+				"psalm": "Ps 71,1-3.12.14-18",
+				"worshipSongs": [
+					"Pochwalon, Jezu Chryste, bądź 71",
+					"Chrześcijanie, wysławiajcie 39"
+				],
+				"apostolicLesson": "1 J 1,1-4",
+				"sermonTextList": [
+					"Iz 49,13-16"
+				],
+				"oldTestament": "",
+				"gospel": "Łk 2 (22-24)25-38(39.40)"
+			},
+			{
+				"occasion": "NONE",
+				"title": "Święto nadania Zbawicielowi imienia Jezus",
+				"mainQuote": "",
+				"psalm": "",
+				"worshipSongs": [],
+				"apostolicLesson": "",
+				"sermonTextList": [
+					"Kol 2,6-13"
+				],
+				"oldTestament": "1 Mż 17,1-5(6-8)9-13(23-27)",
+				"gospel": "Łk 2,21"
+			},
+			{
+				"occasion": "DAY",
+				"title": "Nowy Rok",
+				"mainQuote": "Hbr 13,8",
+				"psalm": "Ps 8,2-10",
+				"worshipSongs": [
+					"Pójdźmy z podziękowaniem 99",
+					"Imię Jezus 787",
+					"Jezu, hasłem być nam chciej 94"
+				],
+				"apostolicLesson": "Jk 4,13-15",
+				"sermonTextList": [
+					"Łk 4,16-21"
+				],
+				"oldTestament": "Joz 1,1-9",
+				"gospel": ""
+			}
+		],
+		"contemplationDTO": {
+			"bibleReference": "Łk 4,16",
+			"text": "Jedno zdanie, a tyle w nim akcji. Po prostu: dzieje się! Przychodzi – w miejsce, gdzie się wychował powstaje, czyta. Kto? Pan Jezus. Gdzie? W Nazarecie. W synagodze. Co czyta? Proroka Izajasza. A jak komentuje? Mówi o wypełnieniu się Pisma. Ale też szczerze ostrzega o wzgardzie, jakiej każdy prorok doświadcza wśród swoich. To dobre Słowo Boże na Nowy Rok? Tak, bo odpowiada rzeczywistości. Nie jest łatwo, brak pozytywnych perspektyw, realia są brutalne. Lecz są też drogowskazy, jak kamienie przydrożne, których należy trzymać się. To właśnie Boże Słowo.\nI aktywność, działanie. I świadomość trudu, i braku aplauzu. Grunt, żeby otrząsnąć się z bierności, wstać, czytać, trzymać się tego, co mówi Pan Jezus. Żeby iść naprzód, nie zwątpić w Bożą ochronę, bez względu na okoliczności realizować hasło, tak mi bliskie: „Dawać serce Bogu, a ręce ludziom”.",
+			"textReference": "Aleksandra Błahut-Kowalczyk"
+		}
+	},
+	{
+		"date": "02-01-2023",
+		"firstStandard": "Jr 31,20",
+		"secondStandard": "Ef 2,4-5",
+		"firstAdditional": "Joz 24,1-2a.13-18.25-26",
+		"secondAdditional": "1 Mż 1,1-13",
+		"quoteNotFromBible": "Objawił nam swe cele, cudowne prawa, sądy swe, miłości dał tak wiele, litością nas otoczyć chce. Nie gniewa się na wieki, nie karze naszych win, lecz w łasce swojej wielkiej przebacza Boży Syn. Dobrocią wszystkich darzy, co Pana boją się, zwycięża grzechy nasze i w dal odrzuca je.",
+		"quoteNotFromBibleReference": "ks. Johann Gramann †1541, Śpiewnik ewangelicki 584,2",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "03-01-2023",
+		"firstStandard": "Ps 119,154",
+		"secondStandard": "2 Tes 3,3",
+		"firstAdditional": "2 Mż 2,1-10",
+		"secondAdditional": "1 Mż 1,14-25",
+		"quoteNotFromBible": "Gdy Słowo Boże jest przy mnie – na obczyźnie odnajduję swoją drogę, w niesprawiedliwości swoją sprawiedliwość, w niepewności swoje oparcie, w pracy swoją siłę, a w cierpieniu cierpliwość.",
+		"quoteNotFromBibleReference": "ks. Dietrich Bonhoeffer †1945",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "04-01-2023",
+		"firstStandard": "1 Krl 19,7",
+		"secondStandard": "Hbr 12,12-13",
+		"firstAdditional": "1 Mż 21,1-7",
+		"secondAdditional": "1 Mż 1,26 – 2,4a",
+		"quoteNotFromBible": "Dziękować Ci, Panie, chcę, dziękować, boś świętym jest, dziękować, boś Jezusa Syna swego nam dał. A dziś słaby powie: Mam Twą moc, biedny powie: Wszystko mam, bo Panie Ty, to dałeś nam, Ty sam.",
+		"quoteNotFromBibleReference": "Śpiewnik ewangelicki 590",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "05-01-2023",
+		"firstStandard": "Ps 71,17",
+		"secondStandard": "Łk 2,29-31",
+		"firstAdditional": "1 Mż 9,8-11(12-13)",
+		"secondAdditional": "1 Mż 2,4b-17",
+		"quoteNotFromBible": "Ten, kto się starzeje, osiąga niedzielę życia. Wówczas można odpocząć. Do tego momentu należy dobrze wykorzystywać czas, robiąc zapasy mądrości, zdrowia i innych skarbów. Ostatecznym celem życia jest pokój w starości.",
+		"quoteNotFromBibleReference": "Jan Amos Komeński †1670",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "06-01-2023",
+		"firstStandard": "2 Krn 32,24-25",
+		"secondStandard": "1 P 5,5",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Wybacz Panie, dumę mą, pewność siebie, wolę złą. Przytul mnie do piersi swej tego dnia. Chroń mnie bym nie zbłądził znów, daj sił bym znów powiedzieć mógł: „Niech będzie, Ojcze, wola Twa”.",
+		"quoteNotFromBibleReference": "Jack Shuler",
+		"specialOccasionList": [
+			{
+				"occasion": "DAY",
+				"title": "Święto Epifanii",
+				"mainQuote": "1 J 2,8",
+				"psalm": "Ps 72,1-3.10-12.17b-19",
+				"worshipSongs": [
+					"Jak pięknie nam jutrzenka lśni 105",
+					"Mędrcy świata 109"
+				],
+				"apostolicLesson": "",
+				"sermonTextList": [
+					"2 Kor 4,3-6"
+				],
+				"oldTestament": "Iz 60,1-6",
+				"gospel": "Mt 2,1-12"
+			}
+		],
+		"contemplationDTO": {
+			"bibleReference": "2 Kor 4,6",
+			"text": "Ciemność a światłość. Grzech i zło, a dobro i łaska. Chaos i nicość a Chrystus i chwała Boża. Dwa światy, które do siebie w żaden sposób nie pasują i dobrze oddają opozycję między Bogiem a światem grzechu. Mogłoby się wydawać, że te dwie rzeczywistości nie mają żadnego punktu stycznego, bo dobry Bóg nie może brudzić się złem tego świata. A jednak stało się inaczej, bo On ten świat ukochał i postanowił go zmienić. Tak jak na początku stworzenia pojawiła się warunkująca wszelkie życie światłość, tak w Chrystusie Światłość ta ukazała pełnię swojej mocy. W jej blasku świat i my wyglądamy inaczej. Światłość Chrystusa ma być trwałym elementem naszego życia. Czy patrząc na nas można ją jednak dostrzec?",
+			"textReference": "Adam Malina"
+		}
+	},
+	{
+		"date": "07-01-2023",
+		"firstStandard": "Ps 113,3",
+		"secondStandard": "Rz 15,5-6 (BE)",
+		"firstAdditional": "Tt 2,11-14",
+		"secondAdditional": "1 Mż 2,18-25",
+		"quoteNotFromBible": "Panie, prosimy Cię, abyś pośród tej pogmatwanej, skłóconej, udręczonej ludzkości naszych czasów na nowo rozpościerał swą chwałę, dając poznanie Twojego zmiłowania tym, którzy Cię wzywają i tym, którzy w ciemnościach podążają swoimi własnymi ścieżkami. Poza Tobą nie mamy innego wspomożyciela.",
+		"quoteNotFromBibleReference": "Karl Barth †1968",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "08-01-2023",
+		"firstStandard": "5 Mż 15,10",
+		"secondStandard": "Łk 6,38",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Nie o to chodzi, aby być szczęśliwym, lecz by uszczęśliwiać innych. Nie o to chodzi, by być kochanym, lecz by kochać i być dla innych błogosławieństwem. Nie o to chodzi, by samemu używać, lecz by udzielać innym. (…) Nie o to chodzi, by Bóg czynił naszą wolę, lecz byśmy Jego wolę czynili.",
+		"quoteNotFromBibleReference": "Matka Ewa †1930",
+		"specialOccasionList": [
+			{
+				"occasion": "WEEK",
+				"title": "1. po Epifanii – Święto Chrztu Pańskiego",
+				"mainQuote": "Rz 8,14",
+				"psalm": "Ps 89,2-5.27-30",
+				"worshipSongs": [
+					"O najmilszy Zbawicielu 813"
+				],
+				"apostolicLesson": "Rz 12,1-8",
+				"sermonTextList": [
+					"J 1,29-34"
+				],
+				"oldTestament": "Iz 42,1-9",
+				"gospel": ""
+			}
+		],
+		"contemplationDTO": {
+			"bibleReference": "J 1,29b",
+			"text": "Stajemy dziś nad rzeką Jordan w Izraelu i przyglądamy się Janowi, który tłumom udziela chrztu na odpuszczenie grzechów. Nagle rozmowy się urywają. Zapada cisza. Jan spostrzega postać, której do tej pory nie spotkał.\nWypowiadając słowa o Baranku Bożym Jan Chrzciciel nawiązuje do znanej Izraelitom symboliki. Każdego roku na święto Paschy zabijano jednoroczne baranki. Miały być bez skazy. Ta czynność przypominała o przebaczeniu grzechów ze strony Boga. Nad Jordanem Jan wskazuje na Baranka bez skazy, który przyszedł zgładzić grzech całego świata. Co to znaczy? Niech inspiracją będzie obraz nawiązujący do pewnej firmy, która produkuje gładzie gipsowe. Ustawiono jej flagowy produkt na chropowatej powierzchni, a w środku umieszczono białego baranka, który stosuje gładź i wyrównuje podłogę. To jest właśnie dzieło Jezusa: wygładzić, wyrównać wszelką chropowatość i nierówność, jaka pojawiła się na świecie w wyniku grzechu.",
+			"textReference": "Mirosław Czyż"
+		}
+	},
+	{
+		"date": "09-01-2023",
+		"firstStandard": "2 Mż 23,1",
+		"secondStandard": "Flp 4,8",
+		"firstAdditional": "Dz 10,37-48",
+		"secondAdditional": "1 Mż 3,1-13",
+		"quoteNotFromBible": "Panie, spraw, aby Kościół był zgodny z Twoją prawdą! Pośród intryg, przeinaczeń i kłamstw pomóż nam odnajdywać Twoją prawdę i głosić ją niewzruszenie.",
+		"quoteNotFromBibleReference": "Lothar Zenetti †2019",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "10-01-2023",
+		"firstStandard": "2 Mż 3,11-12",
+		"secondStandard": "Mt 10,16",
+		"firstAdditional": "Łk 18,15-17",
+		"secondAdditional": "1 Mż 3,14-24",
+		"quoteNotFromBible": "Nie przestawaj, Panie nasz i Boże, wspierać nas i całego świata swoim dobrym słowem, aby wiara rozprzestrzeniała się wśród wszystkich ludzi, a moc Twojego miłosierdzia przeważała tam, gdzie możni się zapominają, a słabi są zapominani, gdzie woła się o życie i błaga o łaskę. Panie, zmiłuj się!",
+		"quoteNotFromBibleReference": "Eberhard Jüngel †2021",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "11-01-2023",
+		"firstStandard": "Ps 6,10",
+		"secondStandard": "Mt 6,6",
+		"firstAdditional": "Rz 8,26-30",
+		"secondAdditional": "1 Mż 4,1-16",
+		"quoteNotFromBible": "W doświadczenia ciężkich chwilach czy ty modlisz się? Gdy twa dusza w bólu tonie, czy do nieba wznosisz dłonie, skąd Bóg balsam śle? Jakąż moc Pan dał w modlitwie, którą możesz brać co dzień! Gdy więc słabniesz w życia bitwie, klęknij, pomódl się!",
+		"quoteNotFromBibleReference": "Śpiewnik ewangelicki 872,3",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "12-01-2023",
+		"firstStandard": "5 Mż 10,12",
+		"secondStandard": "1 J 2,5",
+		"firstAdditional": "Ef 1,3-10",
+		"secondAdditional": "1 Mż 4,17-26",
+		"quoteNotFromBible": "Spoglądać w górę, sięgać myślą poza granice widzialnego świata i wznosić się wyżej, zawsze wyżej.",
+		"quoteNotFromBibleReference": "Ludwik Pasteur †1895",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "13-01-2023",
+		"firstStandard": "Iz 44,8",
+		"secondStandard": "2 Kor 5,20",
+		"firstAdditional": "Łk 12,49-53",
+		"secondAdditional": "1 Mż 6,1-4",
+		"quoteNotFromBible": "Panie, zachowaj mnie od pokusy, by ulegać ludziom i władzom. Daj, abym Tobie jedynie był posłuszny. Spraw, abym na mojej drodze wyraźnie widział, że nie własnymi sprawami się zajmuję, ale że jestem Twoim posłańcem.",
+		"quoteNotFromBibleReference": "ks. Lindolfo Weingärtner †2018",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "14-01-2023",
+		"firstStandard": "Ps 139,16",
+		"secondStandard": "Mt 6,25",
+		"firstAdditional": "Mt 4,12-17",
+		"secondAdditional": "1 Mż 6,5-22",
+		"quoteNotFromBible": "Ty, zanim sam zrodziłem się, oddałeś mi się w niebie, na własność swą wybrałeś mnie, nim sam poznałem siebie. Nim ręką mi nadałeś kształt, wiedziałeś, jak mi Ciebie brak, więc chciałeś moim zostać.",
+		"quoteNotFromBibleReference": "ks. Paweł Gerhardt †1676, Śpiewnik ewangelicki 74,2",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "15-01-2023",
+		"firstStandard": "Prz 21,3",
+		"secondStandard": "Jk 2,26",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Stwórz ze mnie człowieka, który szuka tego, co zgubione, który trwa przy uciśnionych, który nie odwraca się od drugiego człowieka w jego niedoli. Spraw, abym był cierpliwy, miłosierny i czujny, bądź moją modlitwą.",
+		"quoteNotFromBibleReference": "Huub Oosterhuis",
+		"specialOccasionList": [
+			{
+				"occasion": "WEEK",
+				"title": "2. po Epifanii",
+				"mainQuote": "J 1,16",
+				"psalm": "Ps 105,1-8",
+				"worshipSongs": [
+					"Radośnie śpiewajmy 80",
+					"Radość jest w Tobie 817"
+				],
+				"apostolicLesson": "1 Kor 2,1-10",
+				"sermonTextList": [
+					"2 Mż 33,18-23"
+				],
+				"oldTestament": "",
+				"gospel": "J 2,1-11"
+			}
+		],
+		"contemplationDTO": {
+			"bibleReference": "2 Mż 33,21-23",
+			"text": "Obietnica obecności Pana jest tęsknotą człowieka od wieków. Mojżesz miał to szczęście, że mógł być blisko Boga. W dodatku z całą troską Wszechmocnego został on osłonięty, ochroniony, obdarzony przywilejem zobaczenia Pana – ale jednak wyłącznie z oddali, z tyłu. My mamy szczęście – a uświadamia to z całą mocą poepifanijny czas – możemy spotkać Boga w Jezusie Chrystusie, w nowo narodzonym, który objawił się poganom. I w Zmartwychwstałym. I to twarzą w twarz. I to dzięki Jego Słowu. Oto nasze miejsce przy Nim. Nie w rozpadlinie skalnej, ale na szczycie skały, którą jest nasz Pan.",
+			"textReference": "Aleksandra Błahut-Kowalczyk"
+		}
+	},
+	{
+		"date": "16-01-2023",
+		"firstStandard": "Ps 71,23",
+		"secondStandard": "Kol 1,11-12",
+		"firstAdditional": "5 Mż 5,1-7(8-21)",
+		"secondAdditional": "1 Mż 7,1-16",
+		"quoteNotFromBible": "Mów do mnie, Panie, w jasnych dniach radości, gdy cudne szczęście moje wita progi, kiedy wesele w domu moim gości – uśmiech niebiański wśród ciernistej drogi. Mów, Panie, mów, niech Cię Twój sługa słyszy w gwarze radosnym i w promiennej ciszy. Mów, Panie, mów, niech Cię Twój sługa słyszy.",
+		"quoteNotFromBibleReference": "Katarzyna Tosio †1959, Śpiewnik ewangelicki 684,4",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "17-01-2023",
+		"firstStandard": "Ps 119,11",
+		"secondStandard": "2 Tm 1,14",
+		"firstAdditional": "Mk 2,23-28",
+		"secondAdditional": "1 Mż 7,17-24",
+		"quoteNotFromBible": "Niech, co czytam, w pamięć wdrożę, a co każesz, czynię rad, gdy Twe Słowo mnie wspomoże, wiary mi nie wydrze świat; wtedy też uczynki me z wiarą zgadzać będą się.",
+		"quoteNotFromBibleReference": "ks. Benjamin Schmolck †1737, Śpiewnik ewangelicki 387,5",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "18-01-2023",
+		"firstStandard": "2 Mż 15,13",
+		"secondStandard": "1 P 3,18",
+		"firstAdditional": "Rz 9,31-10,8",
+		"secondAdditional": "1 Mż 8,1-12",
+		"quoteNotFromBible": "Wszyscy pobłądziliśmy jak owce; każdy z nas się zwrócił ku swej drodze, lecz Pan na Niego kładł winy nas wszystkich! Wszyscy winni, wszyscy potępieni, wszyscy chwały Bożej pozbawieni, pośród bezbożnych nasz grób, ale teraz: Alleluja! Ten, co za nas umarł, wstał trzeciego dnia dla zbawienia nas! Alleluja! Po prawicy Ojca siadł sprawiedliwy Sędzia!",
+		"quoteNotFromBibleReference": "Jakub Blycharz",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "19-01-2023",
+		"firstStandard": "Hi 28,24",
+		"secondStandard": "Mt 18,14",
+		"firstAdditional": "Dz 15,22-31",
+		"secondAdditional": "1 Mż 8,13-22",
+		"quoteNotFromBible": "Ojcze wszystkich dzieci, Zachowawco całego świata, który cierpliwie znosisz grzeszników. Ty, który prowadzisz słabych i utrzymujesz ich, codziennie okazujesz dobro, zawsze błogosławisz, wszystkich kochasz, widzisz, prowadzisz, znasz, obficie obdarzasz wszelkim dobrem. Ojcze, ześlij odwagę słabym i światło w każde ciemne serce.",
+		"quoteNotFromBibleReference": "Johann Caspar Lavater †1801",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "20-01-2023",
+		"firstStandard": "3 Mż 25,14",
+		"secondStandard": "2 Kor 8,21",
+		"firstAdditional": "Ga 5,1-6",
+		"secondAdditional": "1 Mż 9,1-17",
+		"quoteNotFromBible": "Pomóż nam uczciwie traktować siebie nawzajem, szanować i wspierać się w pracy. Ty sam bądź miarą i celem wszystkich naszych działań.",
+		"quoteNotFromBibleReference": "z liturgii Wspólnoty Braterskiej",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "21-01-2023",
+		"firstStandard": "Hi 1,21",
+		"secondStandard": "Rz 13,14",
+		"firstAdditional": "5 Mż 33,1-4(7.12-16)",
+		"secondAdditional": "1 Mż 9,18-28",
+		"quoteNotFromBible": "Weź, Jezusie, życie me, w ręce Twe oddaję je! Weź mój czas i każdy dzień do ostatnich życia tchnień. Weź miłości mojej zdrój, wszystkie rany serca zgój, abym kiedyś wiecznie miał w społeczności Twojej dział.",
+		"quoteNotFromBibleReference": "Frances R. Havergal †1879, Śpiewnik ewangelicki 765,1.6",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "22-01-2023",
+		"firstStandard": "Jr 10,6",
+		"secondStandard": "1 Kor 3,11",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Boże, Twoje imię od zawsze mieszkało na tej ziemi i utrzymywało nas, obiecywało i znaczyło tak wiele. Jednak to w życiu i śmierci Jezusa Chrystusa ostatecznie objawiłeś, kim jesteś. W Nim znajdujemy Ciebie, naszego Ojca, on jest całym Słowem i całą obietnicą.",
+		"quoteNotFromBibleReference": "Huub Oosterhuis",
+		"specialOccasionList": [
+			{
+				"occasion": "WEEK",
+				"title": "3. po Epifanii",
+				"mainQuote": "Łk 13,29",
+				"psalm": "Ps 86,1-2.5-11",
+				"worshipSongs": [
+					"Wszelki naród, wszelkie plemię 626",
+					"Zjednoczył nas 573"
+				],
+				"apostolicLesson": "",
+				"sermonTextList": [
+					"Rz 1,13-17"
+				],
+				"oldTestament": "2 Krl 5,(1-8)9-15(16-18)19a",
+				"gospel": "Mt 8,5-13"
+			}
+		],
+		"contemplationDTO": {
+			"bibleReference": "Rz 1,15",
+			"text": "Czasem wydaje nam się, że „nasz” sposób wyrażania wiary jest tą najbardziej właściwą formą chrześcijaństwa. Nie dotyczy to tylko „naszego” wyznania czy Kościoła, ale także poszczególnych regionów czy kręgów pobożnościowych. Takie wyobrażenia mogą się odnosić do całych narodów czy państw.\nPaweł wie, że nie można ograniczać się do swoich wyobrażeń i przyzwyczajeń. Chrystusa trzeba zwiastować wszystkim, wszędzie i w różny sposób.",
+			"textReference": "Adam Malina"
+		}
+	},
+	{
+		"date": "23-01-2023",
+		"firstStandard": "Ps 25,20",
+		"secondStandard": "Mt 7,25 (BE)",
+		"firstAdditional": "Dz 16,9-15",
+		"secondAdditional": "1 Mż 11,1-9",
+		"quoteNotFromBible": "Tylko Ty, Panie, jesteś fundamentem. Nie musimy się bać. Gdy nadejdą burze, my będziemy trwać, bo Ty zbawiłeś nas.",
+		"quoteNotFromBibleReference": "Don Harris, śpiewnik Będę śpiewał i grał 182",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "24-01-2023",
+		"firstStandard": "Ps 91,9",
+		"secondStandard": "J 14,1",
+		"firstAdditional": "Rz 15,7-13",
+		"secondAdditional": "1 Mż 11,27 - 12,9",
+		"quoteNotFromBible": "My wierzymy w Boga Ojca. My wierzymy w Syna moc. My wierzymy w Duchu Świętym i że życie mamy w Nim. My wierzymy w śmierć na krzyżu. My wierzymy, że zwyciężył zło. My wierzymy w zmartwychwstanie i że Pan powróci znów.",
+		"quoteNotFromBibleReference": "zespół Newsboys",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "25-01-2023",
+		"firstStandard": "Prz 11,19",
+		"secondStandard": "Mt 5,6",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Słońce prawdy, wzejdź wśród nas, świeć w naszego życia czas. Wkrocz w Kościoła swego próg, aby świat to widzieć mógł. Wysłuchaj nas!",
+		"quoteNotFromBibleReference": "Christian David †1751, Śpiewnik ewangelicki 565,1",
+		"specialOccasionList": [
+			{
+				"occasion": "DAY",
+				"title": "Dzień nawrócenia apostoła Pawła",
+				"mainQuote": "Iz 52,7",
+				"psalm": "",
+				"worshipSongs": [
+					"Apostołów dziś wspomnijmy 244",
+					"Zbudź, Panie, ducha ojców wiary 541"
+				],
+				"apostolicLesson": "Dz 9,1-19a",
+				"sermonTextList": [],
+				"oldTestament": "",
+				"gospel": "Mt 19,27-30"
+			}
+		],
+		"contemplationDTO": null
+	},
+	{
+		"date": "26-01-2023",
+		"firstStandard": "Ps 4,8",
+		"secondStandard": "Rz 14,17",
+		"firstAdditional": "Dz 13,42-52",
+		"secondAdditional": "1 Mż 13,1-18",
+		"quoteNotFromBible": "Jednym z kwiatów życia jest radość. Tak jak kwiecie jest ozdobą mieszkania, ołtarza, ogrodu, przydroża, jak kwiat jest miły dla swej barwy, woni, kształtu, linii – tak radość umila naszą dolę, los, życie. (…) Jest radość wzniosła, szlachetna, której źródłem i mocą jest wesele i uniesienie duszy. Bywa radość doczesna, ziemska i potrącająca o struny wieczności.",
+		"quoteNotFromBibleReference": "ks. Tadeusz Wojak †2000",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "27-01-2023",
+		"firstStandard": "Ps 1,3",
+		"secondStandard": "Flp 1,9-11",
+		"firstAdditional": "Kol 1,(21-23)24-29",
+		"secondAdditional": "1 Mż 14,1-16",
+		"quoteNotFromBible": "Boże, pomóż mi rozpoznawać dziś Twoją miłość w moim życiu i działać na jej podstawie. Pomóż mi miłować bliźniego niezależnie od jego przynależności kulturowej, etnicznej czy religijnej. Przyjmij moją modlitwę i spraw, aby przyniosła owoce sprawiedliwości.",
+		"quoteNotFromBibleReference": "grupa robocza Kościołów chrześcijańskich w Niemczech",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "28-01-2023",
+		"firstStandard": "1 Sm 17,45",
+		"secondStandard": "Rz 12,2",
+		"firstAdditional": "Obj 15,1-4",
+		"secondAdditional": "1 Mż 14,17-24",
+		"quoteNotFromBible": "Nie pozwólcie, aby świat, który jest wokół was, kształtował was na swoje podobieństwo.",
+		"quoteNotFromBibleReference": "ks. John Bertram Phillips †1982",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "29-01-2023",
+		"firstStandard": "Ps 80,20",
+		"secondStandard": "Łk 1,78-79",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Ty wiesz, co jest przed nami. Znasz góry, które musimy jeszcze przenieść. Wiesz o przeciwnościach, które nas wyczerpują. I Ty nas wyzwolisz, i wreszcie w każdej ciemności zajaśnieje Twoje światło.",
+		"quoteNotFromBibleReference": "Christoph Blumhardt †1919",
+		"specialOccasionList": [
+			{
+				"occasion": "WEEK",
+				"title": "Ostatnia po Epifanii",
+				"mainQuote": "Iz 60,2",
+				"psalm": "Ps 97",
+				"worshipSongs": [
+					"Jedyny Synu Boży 107"
+				],
+				"apostolicLesson": "2 Kor 4,6-10",
+				"sermonTextList": [
+					"Mt 17,1-9"
+				],
+				"oldTestament": "2 Mż 3,1-8a(8b-9)10(11-12)13-14(15)",
+				"gospel": ""
+			}
+		],
+		"contemplationDTO": {
+			"bibleReference": "Mt 17,9",
+			"text": "Uczniowie – Piotr, Jakub i Jan – doświadczyli właśnie przemienienia Jezusa w obecności Mojżesza i Eliasza. Wiele kłopotu sprawia interpretacja całego wydarzenia oraz obecności tych, a nie innych bohaterów. Apostołowie przeżyli wielkie uniesienie. Mówiąc kolokwialnie: doznali mocnego duchowego doładowania. Byli jak filmowy Asterix po wypiciu cudownego napoju. Nic więc dziwnego, że chcieli jeszcze dłużej zostać na szczycie. Lecz Jezus wie, że misja zdobywania serc wydarza się na dole, wśród ludzi. Dodatkowo przykazuje uczniom, by nic o tym nie mówili do czasu zmartwychwstania.\nLubię rozmawiać z ludźmi, którzy weszli na duchowy szczyt – nagłe nawrócenie, koncert uwielbienia, uzdrowienie, cud. Mają w sobie tyle entuzjazmu. Jednak w kontekście dzisiejszych słów nie jest ważne, czy ten duchowy szczyt ma 2499, czy 1220, czy 242 metry. Istotne jest, żeby zejść z góry do ludzi, do codzienności. Tam należy przybliżać Boga, inspirując do duchowego rozwoju.",
+			"textReference": "Mirosław Czyż"
+		}
+	},
+	{
+		"date": "30-01-2023",
+		"firstStandard": "Joz 24,17",
+		"secondStandard": "Mt 28,20",
+		"firstAdditional": "2 Kor 3,(9-11)12-18",
+		"secondAdditional": "1 Mż 15,1-21",
+		"quoteNotFromBible": "Wyruszcie bez mapy i GPS-u pamiętając, że Boga należy znaleźć w drodze, a nie dopiero na mecie. Nie próbujcie szukać go według starodawnych recept. Dajcie się Mu znaleźć w codzienności życia.",
+		"quoteNotFromBibleReference": "Madeleine Delbrêl",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "31-01-2023",
+		"firstStandard": "Ps 102,28",
+		"secondStandard": "Obj 1,4",
+		"firstAdditional": "J 1,43-51",
+		"secondAdditional": "1 Mż 16,1-16",
+		"quoteNotFromBible": "Ponad pytaniami i problemami przemijającego czasu świeci nieprzemijająca wieczna Boska Prawda, którą co roku na nowo słyszymy i coraz lepiej poznajemy. Ponad czynami ludzkimi, dobrymi i złymi, które wypełniają roczniki dziejów, Bóg nam obwieszcza swoje wielkie czyny, przez które temu światu daruje zbawienie.",
+		"quoteNotFromBibleReference": "ks. Otton Krenz †1962",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	}
+]

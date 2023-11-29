@@ -1,0 +1,488 @@
+[
+	{
+		"date": "01-07-2023",
+		"firstStandard": "Jr 11,20 (BE)",
+		"secondStandard": "Mt 6,10",
+		"firstAdditional": "Rz 8,1-6",
+		"secondAdditional": "1 Mż 46,28-34",
+		"quoteNotFromBible": "Grzech uderza w sam rdzeń naszej osobowości. Niszczy tę rzeczywistość, od której zależy nasz prawdziwy charakter, naszą tożsamość i nasze szczęście: zasadnicze, podstawowe skierowanie całej naszej istoty ku Bogu. Zostaliśmy stworzeni, aby chcieć, czego On chce, poznać to, co On zna, i kochać to, co On kocha. A istotą grzechu jest wola robienia tego, czego Bóg nie chce, poznania tego, czego On nie zna i kochania tego, co Mu jest przeciwne.",
+		"quoteNotFromBibleReference": "Thomas Merton †1968",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "02-07-2023",
+		"firstStandard": "Ps 119,64",
+		"secondStandard": "Mt 7,12",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Kiedy ziemia jest pełna Twojej dobroci, Panie, mój Boże, Twoje przykazania nie są trudne: dobroć względem bliźniego, dobroć dla żywych istot i ziemi. Niech przykład Twojej dobroci wyznacza to, jak żyję.",
+		"quoteNotFromBibleReference": "",
+		"specialOccasionList": [
+			{
+				"occasion": "WEEK",
+				"title": "4. po Trójcy Świętej",
+				"mainQuote": "Ga 6,2",
+				"psalm": "Ps 42,2-6",
+				"worshipSongs": [
+					"O, Panie, Boże mój 873"
+				],
+				"apostolicLesson": "",
+				"sermonTextList": [
+					"1 P 3,8-17"
+				],
+				"oldTestament": "1 Mż 50,15-21",
+				"gospel": "Łk 6,36-42"
+			},
+			{
+				"occasion": "DAY",
+				"title": "Dzień nawiedzenia Marii Panny",
+				"mainQuote": "Ga 4,4",
+				"psalm": "Ps 113",
+				"worshipSongs": [
+					"Oddajcie Panu, Bogu cześć 612",
+					"Magnificat 601"
+				],
+				"apostolicLesson": "1 Tm 3,16",
+				"sermonTextList": [],
+				"oldTestament": "Iz 11,1-5",
+				"gospel": "Łk 1,39-48(49-55)56"
+			}
+		],
+		"contemplationDTO": {
+			"bibleReference": "1 P 3,9",
+			"text": "Wydaje się to takie proste. Dajesz dobro, otrzymujesz dobro. Wciąż dajesz dobro. Wciąż odbierasz dobro. I nazywasz to błogosławieństwem. Ale przeważnie dzieje się inaczej. Siejesz dobro, dostajesz za to cięgi albo co najmniej spotykasz się z niezrozumieniem lub kpiną. Apostoł Piotr, w ślad za Słowem i czynem Pana Jezusa, mówi o czynieniu dobra pomimo wszystko, o błogosławieniu nawet w zetknięciu się z obelgą i krzywdą. Nazywa to drogą, która gwarantuje odziedziczenie błogosławieństwa. Myślę, że to jest właśnie ta wąska i trudna droga, którą chcemy iść za Panem Jezusem lojalnie uprzedzającym swych naśladowców: „Jeśli świat was nienawidzi, wiedzcie, że mnie wpierw niż was znienawidził” (J 15,18). Na nienawiść i niesprawiedliwość odpowiedzieć jak Pan Jezus błogosławieństwem – to nasze zadanie nie tylko na dziś. Błogosławić więc, błogosławić, nieustannie błogosławić!",
+			"textReference": "Aleksandra Błahut-Kowalczyk"
+		}
+	},
+	{
+		"date": "03-07-2023",
+		"firstStandard": "Ps 103,2",
+		"secondStandard": "1 Tes 5,18",
+		"firstAdditional": "Łk 5,17-26",
+		"secondAdditional": "1 Mż 47,1-12",
+		"quoteNotFromBible": "Oddaję Tobie, Panie, cześć i szczere dziękowanie, żeś mnie cierpliwie raczył wieść, okazał zmiłowanie. A dziś w tym uroczystym dniu wysławiać pragnę łaskę Twą, żeś dotąd mi pomagał.",
+		"quoteNotFromBibleReference": "Ämilie J. von Schwarzburg-Rudolstadt †1706, Śpiewnik ewangelicki 578, 2",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "04-07-2023",
+		"firstStandard": "Iz 26,3",
+		"secondStandard": "2 Kor 1,21",
+		"firstAdditional": "Mt 18,15-20",
+		"secondAdditional": "1 Mż 47,27-31",
+		"quoteNotFromBible": "Jezus przyniósł światu pokój, którego świat dać nie może, bo go nie zna. Jezus wniesie ten pokój i do domu twego, jeśli Słowo i Duch Jego będą w nim panowały.",
+		"quoteNotFromBibleReference": "ks. Jan Motyka †2006",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "05-07-2023",
+		"firstStandard": "Ml 3,6",
+		"secondStandard": "Łk 1,50",
+		"firstAdditional": "1 Kor 12,19-26",
+		"secondAdditional": "1 Mż 48,1-22",
+		"quoteNotFromBible": "Zmierzch i świtanie Ty dajesz, Panie, pod Twoją troską i pieczą boską błogosławiony jest dzienny nasz znój. Gdy spać idziemy, tuż przy nas Cię wiemy; ledwie noc minie, gdy świta, znów płynie dla nas miłości i łaski Twej zdrój.",
+		"quoteNotFromBibleReference": "ks. Paweł Gerhardt †1676, Śpiewnik górnośląski 368, 4",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "06-07-2023",
+		"firstStandard": "Ps 25,1-2",
+		"secondStandard": "Łk 19,3",
+		"firstAdditional": "Dz 4,32-37",
+		"secondAdditional": "1 Mż 49,1-28",
+		"quoteNotFromBible": "Kościół będzie zachowany nie dzięki naszym przodkom czy naszym potomkom, ale dzięki Temu, który był, który jest i który będzie, i który mówi: „Ja jestem z wami przez wszystkie dni, aż do skończenia świata”.",
+		"quoteNotFromBibleReference": "Marcin Luter †1546",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "07-07-2023",
+		"firstStandard": "Ps 90,8",
+		"secondStandard": "Mt 6,12",
+		"firstAdditional": "Flp 2,1-5",
+		"secondAdditional": "1 Mż 49,29 - 50,14",
+		"quoteNotFromBible": "Wiem, też, że dziś zawiniłem, Ojcze miłosierdzia Ty, racz łaskawie, w czem zgrzeszyłem, odpuszczenie zesłać mi. Wierzę kornie, że Twój Syn przez ofiary swojej czyn wszelki grzeszny czyn przeważył i zbawieniem nas obdarzył.",
+		"quoteNotFromBibleReference": "ks. Johann Rist †1667, Śpiewnik ewangelicki 516, 3",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "08-07-2023",
+		"firstStandard": "Prz 10,7",
+		"secondStandard": "Hbr 6,12 (BE)",
+		"firstAdditional": "Ga 6,1-5",
+		"secondAdditional": "1 Mż 50,15-26",
+		"quoteNotFromBible": "To nie ja uprządłem nić ani nie utkałem materiału, który noszę na swoim ciele. Nie zrobiłem butów, a jedynie kroki. Nie nauczyłem się zarzynać, orać i siać, a mimo to nie doświadczyłem głodu. Ten, kto na mnie patrzy, nie dostrzega tych wielu osób, które mnie żywią, uczą, odziewają, które mnie kochały, troszczyły się o mnie i wspierały mnie. Jednemu krokowi towarzyszy wiele innych kroków. Jednemu dziękczynieniu towarzyszy wiele myśli.",
+		"quoteNotFromBibleReference": "Arnim Juhre †2015",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "09-07-2023",
+		"firstStandard": "Jr 30,20 (BE)",
+		"secondStandard": "Flp 2,1-2",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Kiedy nasze życie jest odpowiedzią na to, że Bóg umiłował świat, Boży lud wzrasta w tym czasie łaski ku wieczności.",
+		"quoteNotFromBibleReference": "Gerhard Bauer",
+		"specialOccasionList": [
+			{
+				"occasion": "WEEK",
+				"title": "5. po Trójcy Świętej",
+				"mainQuote": "Ef 2,8",
+				"psalm": "Ps 73,1-3.8-10.23-26.28",
+				"worshipSongs": [
+					"Chwal, dziękuj Bogu 526",
+					"Zbudź, Panie, ducha ojców wiary 541"
+				],
+				"apostolicLesson": "1 Kor 1,18-25",
+				"sermonTextList": [
+					"J 1,35-51"
+				],
+				"oldTestament": "1 Mż 12,1-4a",
+				"gospel": ""
+			}
+		],
+		"contemplationDTO": {
+			"bibleReference": "J 1,38-39",
+			"text": "Dziesiąta godzina dnia, czyli czwarta po południu. Dobra pora na kawę albo spotkanie ze znajomymi. O tej porze zaczęła się też historia życia z Jezusem dla dwóch pierwszych apostołów – Andrzeja i Jana. Fakt, znali to środowisko, interesowali się kwestiami religijnymi, można rzec, że byli dobrze przygotowani do tego, co miało nadejść. Ale gdy już spotkali właśnie Jego, to nie bardzo wiedzieli co robić. I zrobili rzecz najprostszą, czyli poszli za Jezusem, do końca nie będąc świadomi, co z tego wyniknie. Dlatego zadali dosyć niezwykłe pytanie: „Gdzie mieszkasz?”, i otrzymali zachęcająca odpowiedź: „Pójdźcie i zobaczycie”. Tak się to zaczęło. Zobaczyli, gdzie Jezus mieszka, odkryli kim On jest.\nPotem jeden z nich, Andrzej odszukał swojego brata Piotra. I już było ich trzech. Potem kolejni uczniowie powiększali to grono, przychodziły nowe pokolenia, świat się zmieniał, a Jezus wciąż zaprasza do wspólnego życia.",
+			"textReference": "Adam Malina"
+		}
+	},
+	{
+		"date": "10-07-2023",
+		"firstStandard": "Ps 95,6",
+		"secondStandard": "1 Tm 1,17",
+		"firstAdditional": "Jr 20,7-11",
+		"secondAdditional": "Mt 4,18-22",
+		"quoteNotFromBible": "Modlić się oznacza: dziwić się, radować się, wyznawać, jakiego mamy Boga i Zbawiciela, padać przed Nim i uwielbiać Go.",
+		"quoteNotFromBibleReference": "Mikołaj L. von Zinzendorf †1760",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "11-07-2023",
+		"firstStandard": "Kz 3,22",
+		"secondStandard": "Kol 3,17",
+		"firstAdditional": "Ez 2,3-8a",
+		"secondAdditional": "Mt 4,23-25",
+		"quoteNotFromBible": "Można się modlić, nie używając głosu, na przykład kiedy prowadzi się pług, dziękując przy tym dobroci Bożej i z czcią podziwiając potęgę wszechmocnego Boga w ziemi i ziarnie.",
+		"quoteNotFromBibleReference": "Ulrich Zwingli †1531",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "12-07-2023",
+		"firstStandard": "Jl 2,17",
+		"secondStandard": "Tt 2,14",
+		"firstAdditional": "Ga 1,13-24",
+		"secondAdditional": "Mt 5,1-12",
+		"quoteNotFromBible": "Patrz łaskawie na swój lud, skłoń ku swemu się stworzeniu! Prowadź go do życia wód, by nie zginął w utrudzeniu; a gdy przetrwa życia znój, niech majestat ujrzy Twój!",
+		"quoteNotFromBibleReference": "ks. Ignaz Franz †1790, Śpiewnik ewangelicki 369, 4",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "13-07-2023",
+		"firstStandard": "1 Mż 37,22",
+		"secondStandard": "1 Tes 5,15",
+		"firstAdditional": "Dz 15,4-12",
+		"secondAdditional": "Mt 5,13-20",
+		"quoteNotFromBible": "Widzimy, że ludzie cierpią nędzę, ich godność bywa wyszydzana, grozi im przemoc. Niektórych ran nie widać. Musimy rozpoznać to, co przemawia przez milczące znaki. Daj nam rozprzestrzeniać pokój i sprawiedliwość, żyć miłością i przynosić przebaczenie. Daj nam działać przeciw wojnie i przemocy, śpiewając na chwałę Bożego imienia.",
+		"quoteNotFromBibleReference": "Susanne Brandt",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "14-07-2023",
+		"firstStandard": "5 Mż 14,2",
+		"secondStandard": "1 Tes 5,5",
+		"firstAdditional": "Rz 9,14-23(24-26)",
+		"secondAdditional": "Mt 5,21-26",
+		"quoteNotFromBible": "Ty, Panie, wydobywasz dźwięk z ciszy i światło z ciemności. Ty z miłością spoglądasz na świat, który stworzyłeś. Ale to nie wszystko. Posyłasz swojego Syna, który idzie z nami – człowiek, tak jak my. Wyciągasz swoją rękę ku nam. Obiecujesz swojego Ducha i uzdrawiasz narody.",
+		"quoteNotFromBibleReference": "modlitwa wspólnoty Iona w Szkocji",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "15-07-2023",
+		"firstStandard": "1 Mż 31,42",
+		"secondStandard": "1 Kor 15,58",
+		"firstAdditional": "2 Kor 12,1-10",
+		"secondAdditional": "Mt 5,27-32",
+		"quoteNotFromBible": "Niech Bóg będzie z Tobą, kiedy nastanie wieczór, abyś mógł z wdzięcznością spojrzeć na radości i trudności mijającego dnia i mieć pewność, że nic nie wydarzyło się na próżno.",
+		"quoteNotFromBibleReference": "Christa Spilling-Nöker",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "16-07-2023",
+		"firstStandard": "Iz 25,8",
+		"secondStandard": "J 16,20",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Być szczęśliwym, znaczy widzieć przed sobą ciąg dalszy. Inaczej się żyje, gdy się nasz trud, nasze życiowe radości i smutki, nasze osiągnięcia i porażki widzi w perspektywie przeprowadzki z doczesnego do wiecznego mieszkania, niż gdy się żadnej nie ma nadziei.",
+		"quoteNotFromBibleReference": "bp Andrzej Wantuła †1976",
+		"specialOccasionList": [
+			{
+				"occasion": "WEEK",
+				"title": "6. po Trójcy Świętej",
+				"mainQuote": "Iz 43,1",
+				"psalm": "Ps 139,1-16.23-24",
+				"worshipSongs": [
+					"O Ojcze, Synu, Duchu Święty 393"
+				],
+				"apostolicLesson": "Rz 6,3-8(9-11)",
+				"sermonTextList": [
+					"Iz 43,1-7"
+				],
+				"oldTestament": "",
+				"gospel": "Mt 28,16-20"
+			}
+		],
+		"contemplationDTO": {
+			"bibleReference": "Iz 43,2",
+			"text": "Ciekawe są treści życzeń, które sobie nawzajem składamy: „Wszystkiego dobrego” albo „Wszystkiego najlepszego” – choć wiadomo, że nie tylko dobre i najlepsze spotyka nas w życiu. „Stóweczki” – choć mało prawdopodobne jest osiągnięcie tego wieku. Są one dosyć nierealistyczne, odbiegające od codziennych doświadczeń. Może wypowiadamy te życzenia, ponieważ chcielibyśmy, aby się spełniły, jednak nie mamy na to prawie żadnego wpływu.\nBóg, który nas stworzył i który nas kocha, w swoich życzeniach mówi nam prawdę. Księdze Izajasza przedstawia obrazowo, że w życiu pójdziemy przez wody i przez ogień, a więc czekają nas różne zawirowania i trudności. I do każdego takiego realnego życzenia dodaje słowa: „Będę z tobą”. On, Bóg, dotrzymuje obietnic i urzeczywistnia życzenia. Doświadczyłeś już tego w swoim życiu? Ufasz Mu?",
+			"textReference": "Mirosław Czyż"
+		}
+	},
+	{
+		"date": "17-07-2023",
+		"firstStandard": "Oz 8,12 (BE)",
+		"secondStandard": "Mt 7,24",
+		"firstAdditional": "2 Mż 14,15-22",
+		"secondAdditional": "Mt 5,33-37",
+		"quoteNotFromBible": "Boże, skłaniaj nas ku temu, abyśmy chcieli zadomowić się w Piśmie Świętym. Daj, abyśmy poznali z niego, jak Twoja sprawiedliwość i miłosierdzie wzbogacają społeczność z ludźmi, których kochamy i z tymi, którzy są nam obcy, a nawet z tymi, których nie znosimy.",
+		"quoteNotFromBibleReference": "bp Maria Jepsen",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "18-07-2023",
+		"firstStandard": "Ps 150,2",
+		"secondStandard": "Rz 1,20",
+		"firstAdditional": "1 Mż 32,23-32(33)",
+		"secondAdditional": "Mt 5,38-48",
+		"quoteNotFromBible": "Chwal Go kiedy nowy dzień brzaskiem budzi się i gdy niebo pełne gwiazd w górze iskrzy się. Wszystko stworzył Słowem Swym, On początkiem jest i dlatego śpiewać chcę memu Panu pieśń!",
+		"quoteNotFromBibleReference": "Hans Christian Jochimsen",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "19-07-2023",
+		"firstStandard": "Ps 74,2",
+		"secondStandard": "Mt 18,20",
+		"firstAdditional": "Dz 16,23-34",
+		"secondAdditional": "Mt 6,1-4",
+		"quoteNotFromBible": "Gromadko mała Bożych sług, choć się na ciebie zawziął wróg i pragnie twej niedoli, choć zgnębić Ciebie zamiar ma, nie lękaj się, Bóg pomoc da, na zgubę nie pozwoli.",
+		"quoteNotFromBibleReference": "bp Jakob Fabricius 1632, Śpiewnik ewangelicki 260, 1",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "20-07-2023",
+		"firstStandard": "Ps 62,8",
+		"secondStandard": "Łk 8,48",
+		"firstAdditional": "Mt 18,1-6",
+		"secondAdditional": "Mt 6,5-15",
+		"quoteNotFromBible": "Dziękuję, Boże, że mogę być Twoją córką, która nie ma niczego oprócz chwiejącej się wiary i swojego często zniechęconego serca. Po dniach i nocach pełnych trudów, które kosztowały mnie zbyt wiele sił, jesteś tu. Zapraszasz mnie do nowej wiary i troskliwie mnie pocieszasz.",
+		"quoteNotFromBibleReference": "Veronika Ullmann",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "21-07-2023",
+		"firstStandard": "2 Krn 5,13-14",
+		"secondStandard": "Obj 21,2.23",
+		"firstAdditional": "1 J 5,6-10",
+		"secondAdditional": "Mt 6,16-18",
+		"quoteNotFromBible": "Blasku chwały Bożej Ty, światło z światła narodzone! Spraw, by serca ku Twej czci w górę były podniesione. W modłach, w pieniach naszych Panie, swoje miej upodobanie",
+		"quoteNotFromBibleReference": "ks. Tobias Clausnitzer †1684, Śpiewnik ewangelicki 295, 3",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "22-07-2023",
+		"firstStandard": "Iz 25,9",
+		"secondStandard": "Hbr 11,1",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Tylko jedna wiara i tylko jeden Bóg. Wiele drogowskazów, tylko jedna droga. Wiele drogowskazów, lecz nie ma wielu dróg. Kto nie boi się wierzyć, że się uda. Kto wie, że wiara czyni cuda. Kto nie boi się wierzyć, że się uda. Ja nie! Ja wierzę wiara czyni cuda!",
+		"quoteNotFromBibleReference": "zespół TGD",
+		"specialOccasionList": [
+			{
+				"occasion": "DAY",
+				"title": "Dzień Marii Magdaleny",
+				"mainQuote": "Iz 52,7",
+				"psalm": "",
+				"worshipSongs": [
+					"Apostołów dziś wspomnijmy 244",
+					"Zbudź, Panie, ducha ojców wiary 541"
+				],
+				"apostolicLesson": "2 Kor 5,14-17",
+				"sermonTextList": [],
+				"oldTestament": "Pnp 8,6-7",
+				"gospel": "J 20,1.11-18"
+			}
+		],
+		"contemplationDTO": null
+	},
+	{
+		"date": "23-07-2023",
+		"firstStandard": "Ps 5,13",
+		"secondStandard": "1 J 5,18 (BE)",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Boże, daj mi wzrastać. Bądź mi bliski. Chroń moje myśli. Zdejmij troski z moich barków. Pozwól mi odczuwać swoje serce. Dodaj mi sił na ten tydzień. Nie zostawiaj mnie dziś samego. I błogosław mi.",
+		"quoteNotFromBibleReference": "modlitwa z Loccum w Niemczech",
+		"specialOccasionList": [
+			{
+				"occasion": "WEEK",
+				"title": "7. po Trójcy Świętej",
+				"mainQuote": "Ef 2,19",
+				"psalm": "Ps 107,1-9",
+				"worshipSongs": [
+					"Niech będzie Najwyższemu cześć 605"
+				],
+				"apostolicLesson": "",
+				"sermonTextList": [
+					"Dz 2,41-47"
+				],
+				"oldTestament": "2 Mż 16,2.3.11-18",
+				"gospel": "J 6,1-15"
+			}
+		],
+		"contemplationDTO": {
+			"bibleReference": "Dz 2,42",
+			"text": "Ten werset to prawdziwe wyzwanie. Idealny obraz prazboru w Jerozolimie kontra realny obraz Kościoła powszechnego XXI wieku! Jaką ramą objąć te tak krzykliwie kontrastujące ze sobą przestrzenie? Tylko dwubarwną wstęgą. Dwuczłonową. Jedna nosi imię Łaska, druga: Miłość Boga. Tylko z przeświadczeniem, że tę poranioną i raniącą wspólnotę, która tworzy Kościół – obejmuje łaska i miłość Boża – jestem w stanie unieść ów idealny obraz pierwszego zboru. Czy jesteśmy w stanie starać się żyć podobnie? W szacunku do Słowa i tęsknocie za Nim, w potrzebie bycia razem, w możliwie najczęstszej komunii z Ciałem i Krwią Pana Jezusa? W potrzebie modlitwy, nawet takiej, gdy jest to tylko, albo aż ciche trwanie w obecności Zbawiciela, wedle Jego zapewnienia: „Albowiem, gdzie są dwaj lub trzej zgromadzeni w imię moje, tam jestem pośród nich” (Mt 18,20)?",
+			"textReference": "Aleksandra Błahut-Kowalczyk"
+		}
+	},
+	{
+		"date": "24-07-2023",
+		"firstStandard": "Ps 23,3",
+		"secondStandard": "J 10,14",
+		"firstAdditional": "J 6,47-51",
+		"secondAdditional": "Mt 6,24-34",
+		"quoteNotFromBible": "Będzie pasł stado jak pasterz, weźmie owce na swoje ramiona, ochroni je, przeprowadzi sam, chore uleczy, słabym doda sił.",
+		"quoteNotFromBibleReference": "śpiewnik Będę śpiewał i grał 6",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "25-07-2023",
+		"firstStandard": "Ps 35,18",
+		"secondStandard": "Ef 5,19 (BE)",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Gdyby nasze usta były pełne pieśni niczym morze, a nasze języki radosnych okrzyków niczym szumu fal; gdyby nasze oczy były błyszczące jak słońce i księżyc, nasze ręce rozpostarte niczym skrzydła orłów na niebie, a nasze nogi niczym rącze jelenie – nie jesteśmy w stanie wystarczająco Ci dziękować.",
+		"quoteNotFromBibleReference": "modlitwa żydowska",
+		"specialOccasionList": [
+			{
+				"occasion": "DAY",
+				"title": "Dzień apostoła Jakuba Starszego",
+				"mainQuote": "Iz 52,7",
+				"psalm": "",
+				"worshipSongs": [
+					"Apostołów dziś wspomnijmy 244",
+					"Zbudź, Panie, ducha ojców wiary 541"
+				],
+				"apostolicLesson": "Rz 8,28-29",
+				"sermonTextList": [],
+				"oldTestament": "",
+				"gospel": "Mt 20,20-23"
+			}
+		],
+		"contemplationDTO": null
+	},
+	{
+		"date": "26-07-2023",
+		"firstStandard": "1 Mż 3,8",
+		"secondStandard": "1 J 4,18",
+		"firstAdditional": "Dz 10,(21-23)24-36",
+		"secondAdditional": "Mt 7,7-11",
+		"quoteNotFromBible": "Jak kwiat jaśminu motylego, który rośnie wzdłuż strumieni i potrzebuje świeżej wody, aby ukazać swoje piękno, tak my potrzebujemy miłości Boga i strumienia Jego mądrości. Wyznajemy, że często nie przyjmowaliśmy zaproszenia do otwarcia się na Bożą miłość. Razem prosimy o przebaczenie.",
+		"quoteNotFromBibleReference": "modlitwa z Kuby",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "27-07-2023",
+		"firstStandard": "Iz 43,11",
+		"secondStandard": "J 17,3",
+		"firstAdditional": "1 Kor 10,16.17",
+		"secondAdditional": "Mt 7,12-23",
+		"quoteNotFromBible": "Istota Ewangelii polega na tym, że kto wierzy w Chrystusa, temu mają być wybaczone jego grzechy.",
+		"quoteNotFromBibleReference": "Marcin Luter †1546",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "28-07-2023",
+		"firstStandard": "Ps 97,10",
+		"secondStandard": "Mt 6,24",
+		"firstAdditional": "Łk 22,14-20",
+		"secondAdditional": "Mt 7,24-29",
+		"quoteNotFromBible": "Nic nie da się zdobyć siłą. Dlatego wolę postępować łagodnie. Jeżeli podniosę głos, to tylko wtedy, gdy będę wyrażał pochwałę. Jeżeli zacisnę pięść, to tylko w chwili modlitwy. Jeżeli czegoś zażądam, to tylko od samego siebie.",
+		"quoteNotFromBibleReference": "Max Lucado",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "29-07-2023",
+		"firstStandard": "Ps 77,3",
+		"secondStandard": "Mt 26,38-39",
+		"firstAdditional": "Obj 19,4-9",
+		"secondAdditional": "Mt 8,1-4",
+		"quoteNotFromBible": "Niech ufam Twojej mocy w najgorszy czas. Ty wiedziesz i wśród nocy do celu nas. Za rękę weź mnie, Panie i prowadź sam, aż dusza moja stanie u niebios bram.",
+		"quoteNotFromBibleReference": "Julie Hausmann †1901, Śpiewnik ewangelicki 713, 3",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "30-07-2023",
+		"firstStandard": "Ps 119,26",
+		"secondStandard": "1 J 5,15",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Rozum, zmysły, duszę, ciało i cokolwiek tylko mam, łasce Twej powierzam śmiało, bo Twą wierność dobrze znam. Pod Twą tarczą przetrwać chcę – przyjmij, Ojcze, dziecię swe.",
+		"quoteNotFromBibleReference": "Heinrich Albert †1651, Śpiewnik ewangelicki 482, 6",
+		"specialOccasionList": [
+			{
+				"occasion": "WEEK",
+				"title": "8. po Trójcy Świętej",
+				"mainQuote": "Ef 5,8-9",
+				"psalm": "Ps 48,2.3a.9-15",
+				"worshipSongs": [
+					"Chrześcijaninie, zbudź się, wstań 721"
+				],
+				"apostolicLesson": "Ef 5,8b-14",
+				"sermonTextList": [
+					"Mt 5,13-16"
+				],
+				"oldTestament": "Iz 2,1-5",
+				"gospel": ""
+			}
+		],
+		"contemplationDTO": {
+			"bibleReference": "Mt 5,13",
+			"text": "Pięknie zastawiony stół, przynoszone potrawy rozbudzają kulinarną wyobraźnię. Jednak rzeczywistość może nas rozczarować. Jedzenie bez smaku, ni słodkie, ni słone albo o jakimś dziwnym, nienaturalnym zapachu.\nJedną z najważniejszych przypraw jest sól, która doskonale podkreśla smak potraw i dzięki zawartości wielu pierwiastków mineralnych posiada właściwości nawadniające organizm. Gdy Jezus mówi: „Wy jesteście solą ziemi” to stawia sprawę jasno – jako chrześcijanie jesteśmy solą. Nie apeluje do nas, że mamy nią być, ale stwierdza, że nią jesteśmy. Nasza obecność ma powodować, że życie wokół nas staje się lepsze, „smaczniejsze”. Ale żeby tak było, trzeba być solą, a nie substancją solopodobną. Choć w reklamach wyrobów spożywczych można oszukać oczy przyszłych konsumentów, to jednak rozstrzygające jest skosztowanie produktu. Być solą ziemi – to znaczy być chrześcijaninem, który po prostu żyje z Jezusem, bez kombinowania i udawania. Smacznego!",
+			"textReference": "Adam Malina"
+		}
+	},
+	{
+		"date": "31-07-2023",
+		"firstStandard": "Ps 25,7",
+		"secondStandard": "J 3,7",
+		"firstAdditional": "Mt 7,7-12",
+		"secondAdditional": "Mt 8,5-13",
+		"quoteNotFromBible": "Panie, czy to możliwe, żeby narodził się na nowo ktoś, kto przekroczył już połowę swojego życia? Ty tak powiedziałeś, a dla mnie stało się to rzeczywistością. Spadł ze mnie ciężar długiego życia pełnego win i cierpienia. Ach, żadne serce nie zdoła wyrazić tego, co przygotowałeś tym, którzy Cię kochają.",
+		"quoteNotFromBibleReference": "Edyta Stein †1942",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	}
+]

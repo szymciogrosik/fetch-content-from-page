@@ -1,8 +1,6 @@
-package org.gross;
+package org.gross.bibleperday;
 
-import org.gross.bibleperday.BiblePerDayDataService;
-
-public class Main {
+public class FetchData {
 
     public static final int FIRST_DAY_OF_THE_MONTH = 1;
     public static final int LAST_DAY_OF_THE_MONTH = 0; // 0 means that the end day of the month

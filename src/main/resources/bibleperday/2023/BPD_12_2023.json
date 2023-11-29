@@ -1,0 +1,594 @@
+[
+	{
+		"date": "01-12-2023",
+		"firstStandard": "Jr 9,6",
+		"secondStandard": "Mk 13,13",
+		"firstAdditional": "Hbr 13,10-16",
+		"secondAdditional": "Iz 40,1-11",
+		"quoteNotFromBible": "Życiem naszym rządź, Jezu, przy nas bądź! Gdy po cierniach każesz kroczyć, racz opieką nas otoczyć. Po upływie dni otwórz niebios drzwi.",
+		"quoteNotFromBibleReference": "bp Mikołaj L. Zinzendorf †1760, Śpiewnik ewangelicki 758, 4",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "02-12-2023",
+		"firstStandard": "Ps 31,10",
+		"secondStandard": "Mt 8,25-26 (BE)",
+		"firstAdditional": "Obj 21,10-14.21-27",
+		"secondAdditional": "Iz 40,12-31",
+		"quoteNotFromBible": "Spojrzyj na Jezusa, gdy cię gniecie krzyż, u nóg Jego spoczniesz, tam się śmiało zbliż! Słuchaj, jak cię woła: „Stół gotowy już”, spojrzyj na Jezusa, Jemu szczerze służ!",
+		"quoteNotFromBibleReference": "ks. Henry Burton †1930, Śpiewnik ewangelicki 756, 4",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "03-12-2023",
+		"firstStandard": "Za 1,17",
+		"secondStandard": "Łk 2,25",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Pocieszycielu, radość swą ześlij z nieba, wszak Dobry ją obiecał nam. Przerwij milczenie w imię Syna – Słowa – Chleba. Najświętsze Tchnienie, wołaj nas!",
+		"quoteNotFromBibleReference": "Jakub Blycharz, zespół niemaGOtu",
+		"specialOccasionList": [
+			{
+				"occasion": "WEEK",
+				"title": "1. w Adwencie",
+				"mainQuote": "Za 9,9",
+				"psalm": "Ps 24",
+				"worshipSongs": [
+					"Przyjdź, narodów zbawienie 21",
+					"Zbawca ludów 30"
+				],
+				"apostolicLesson": "Rz 13,8-12",
+				"sermonTextList": [
+					"Ps 24"
+				],
+				"oldTestament": "",
+				"gospel": "Mt 21,1-11"
+			}
+		],
+		"contemplationDTO": {
+			"bibleReference": "Ps 24,9-10",
+			"text": "Ten psalm na początek adwentu brzmi jak hymn tryumfalny przy wejściu do domu Bożego. Wręcz słychać głośną, przejmującą grę puzonistów, szmer wstającego tłumu, można poczuć podekscytowanie ogółu wiernych. Bramy są otwarte na oścież. Wszystko jest gotowe.\nCzy wszystko gotowe? Czy serca są przygotowane? Życie uporządkowane? A może niewygodne sprawy znów zamiecione zostały pod dywan? Maska na twarzy, czy szczere łzy skruchy? Pokój wewnętrzny, czy rozbicie? Gość, który przybywa zna prawdę. On, Król chwały, Pan Zastępów, wszystko wie. Pan uroczyście wkracza do świątyni. „Albo czy nie wiecie, że ciało wasze jest świątynia Ducha Świętego, który jest w was i którego macie od Boga, i że nie należycie też do siebie samych? Drogoście bowiem kupieni. Wysławiajcie tedy Boga w ciele waszym” (1 Kor 6,19-20). Ten werset, jak papierek lakmusowy, weryfikuje stan gotowości człowieka na czas adwentu.",
+			"textReference": "Aleksandra Błahut-Kowalczyk"
+		}
+	},
+	{
+		"date": "04-12-2023",
+		"firstStandard": "Iz 41,10",
+		"secondStandard": "Mt 21,15",
+		"firstAdditional": "1 P 1,(8.9)10-13",
+		"secondAdditional": "Iz 41,8-20",
+		"quoteNotFromBible": "O Boże, Siło bezsilnych, wybrałeś sobie takich świadków, których głos nie jest słyszany. Daj i nam odwagę, aby trwać przy ogłaszaniu Twoich dzieł w mocy Jezusa Chrystusa.",
+		"quoteNotFromBibleReference": "Janet Morley",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "05-12-2023",
+		"firstStandard": "Ps 65,4",
+		"secondStandard": "Ga 4,4-5",
+		"firstAdditional": "Hbr 10,32-39",
+		"secondAdditional": "Iz 42,1-9",
+		"quoteNotFromBible": "Nie przyszedłeś, aby sądzić, Boże, ale by szukać tego, co zgubione i uwolnić to, co leżało pojmane przez winę i strach. Weź nas takimi, jakimi jesteśmy, z całą grzeszną przeszłością. Jesteś przecież większy niż nasze serce, większy niż wszystkie winy, jesteś Stwórcą nowej przyszłości, Bogiem miłości.",
+		"quoteNotFromBibleReference": "Huub Oosterhuis",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "06-12-2023",
+		"firstStandard": "Iz 60,20",
+		"secondStandard": "J 1,14",
+		"firstAdditional": "Kol 1,9-14",
+		"secondAdditional": "Iz 43,1-7",
+		"quoteNotFromBible": "On dobrotliwy jest i praw, łagodny Sędzia naszych spraw, świętością Mu jaśnieje skroń, a miłosierdzie świadczy dłoń. To z pokolenia Judy Lew! Zanućcie więc radosny śpiew: O Zbawco, chwalim Cię za wielkie czyny Twe.",
+		"quoteNotFromBibleReference": "ks. Georg Weissel †1635, Śpiewnik ewangelicki 18, 2",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "07-12-2023",
+		"firstStandard": "Sdz 10,10",
+		"secondStandard": "Łk 1,76-77 (BE)",
+		"firstAdditional": "1 Tes 5,1-6",
+		"secondAdditional": "Iz 43,8-13",
+		"quoteNotFromBible": "Nie chciej lekceważyć grzechów twoich dlatego, że są małe, ale bój się, że są liczne, bo i krople deszczu są malutkie, a jednak napełniają rzeki, a później poruszają kamienie młyńskie i drzewa z korzeniami niosą.",
+		"quoteNotFromBibleReference": "Cezary z Arles †542",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "08-12-2023",
+		"firstStandard": "Iz 43,18-19",
+		"secondStandard": "Mt 13,31",
+		"firstAdditional": "Ez 37,24-28",
+		"secondAdditional": "Iz 43,14-28",
+		"quoteNotFromBible": "Zmartwychwstanie Jezusa było fundamentem wiary jego uczniów, ostoją ich życia i nadziei, gwarancją ich zbawienia i życia wiecznego. Przez jego zmartwychwstanie oni sami stali się nowymi ludźmi. Opowiadanie o zmartwychwstaniu Jezusa Chrystusa i wiara w Zmartwychwstałego budziły wszędzie nowe życie.",
+		"quoteNotFromBibleReference": "bp Karol Kotula †1968",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "09-12-2023",
+		"firstStandard": "Ps 30,4",
+		"secondStandard": "J 5,25",
+		"firstAdditional": "Flp 1,3-11",
+		"secondAdditional": "Iz 44,1-5",
+		"quoteNotFromBible": "Ach, czegoś nie uczynił, bym pocieszenie miał! Gdym za to, com przewinił, przed gniewem Bożym drżał. Grzech raju mnie pozbawił, gdzie nie ma trwóg i łez, Tyś, Zbawco, mnie wybawił, mej nędzy kładąc kres.",
+		"quoteNotFromBibleReference": "ks. Paweł Gerhardt †1676, Śpiewnik ewangelicki 11, 3",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "10-12-2023",
+		"firstStandard": "5 Mż 3,24 (BE)",
+		"secondStandard": "1 Kor 12,6",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Któż jest taki jak Ty, Panie? Kto jest w stanie dorównać Ci? Któż jest taki jak Ty, Panie? Święty, wzniosły, jedyny Bóg. (…) Bo imię Jego Odkupiciel, pełen łaski odwieczny Bóg.",
+		"quoteNotFromBibleReference": "Michał Kupczyk, zespół Exodus 15",
+		"specialOccasionList": [
+			{
+				"occasion": "WEEK",
+				"title": "2. w Adwencie",
+				"mainQuote": "Łk 21,28",
+				"psalm": "Ps 80,2-7.15-20",
+				"worshipSongs": [
+					"Powstańcie, chrześcijanie 19",
+					"Chrystus Pan w swym przyjściu pierwszym 5"
+				],
+				"apostolicLesson": "",
+				"sermonTextList": [
+					"Obj 3,7-13"
+				],
+				"oldTestament": "Iz 35,3-10",
+				"gospel": "Łk 21,25-33"
+			}
+		],
+		"contemplationDTO": {
+			"bibleReference": "Obj 3,8.11",
+			"text": "Dwa zdania, pochodzące z Księgi Objawienia Jana, choć nie znajdują się obok siebie, to jednak bardzo dobrze się uzupełniają. Pierwsze z nich brzmi w sumie prosto i naturalnie, ale zawiera w sobie niepokojące stwierdzenie – Bóg nas zna, i to o wiele lepiej niż my sami siebie znamy. On nie patrzy na to, co każdy widzi, ale patrzy na serce, na nasze dobre, ale także na nie najlepsze strony. I tu zaczyna się problem, ale też i jego rozwiązanie, sprowadzające się do szczerości i pokory przed Bogiem. Jeśli więc w ten sposób spojrzymy na to stwierdzenie, to nie musi ono oznaczać, że jesteśmy na przegranej pozycji. Skoro Bóg nam przebaczył i obdarza zbawieniem, to my w odpowiedzi powinniśmy składać dobre świadectwo naszej wiary. To będzie oznaczać, że Jego przyjście będzie spotkaniem z dobrym Bogiem, bez lęku i trwogi. Skoro On mówi, że wkrótce przyjdzie, my możemy tylko dodać: Przyjdź, Panie Jezu.",
+			"textReference": "Adam Malina"
+		}
+	},
+	{
+		"date": "11-12-2023",
+		"firstStandard": "Ps 38,10",
+		"secondStandard": "1 J 5,14",
+		"firstAdditional": "Iz 25,1-5",
+		"secondAdditional": "Iz 44,6-20",
+		"quoteNotFromBible": "Dziś pewność mam, że w przyszły czas mnie, Zbawco, nie zawiedziesz! Bym z Tobą, w Tobie w każdy raz, wieczności miał nadzieję. Daj, bym Twym żłóbkiem mógł się stać, przyjdź do mnie, Jezu, by mi dać radości swoich wiele!",
+		"quoteNotFromBibleReference": "ks. Paweł Gerhardt †1676, Śpiewnik ewangelicki 74, 7",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "12-12-2023",
+		"firstStandard": "1 Mż 2,3",
+		"secondStandard": "Flp 4,7",
+		"firstAdditional": "Obj 2,1-7",
+		"secondAdditional": "Iz 44,21-28",
+		"quoteNotFromBible": "Pokój jest jak chleb połamany i podzielony – pomnaża się.",
+		"quoteNotFromBibleReference": "Augustyn z Hippony †430",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "13-12-2023",
+		"firstStandard": "Ps 139,4",
+		"secondStandard": "1 Kor 4,5",
+		"firstAdditional": "2 Kor 5,1-10",
+		"secondAdditional": "Iz 45,1-8",
+		"quoteNotFromBible": "Panie, zachowaj mnie od potrzeby powiedzenia czegoś przy każdej nadarzającej się okazji. Uwolnij mnie od czerpania przyjemności z kierowania sprawami innych ludzi. Naucz mnie być osobą refleksyjną, pomocną, ale nie dominującą. Naucz mnie tej cudownej mądrości, że mogę się mylić. Sprawiaj, abym była tak miła, jak to możliwe.",
+		"quoteNotFromBibleReference": "Teresa z Ávili †1582",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "14-12-2023",
+		"firstStandard": "Ps 97,11",
+		"secondStandard": "Mt 25,1-2",
+		"firstAdditional": "Jr 31,1-7",
+		"secondAdditional": "Iz 45,9-17",
+		"quoteNotFromBible": "Oto oblubieniec nadchodzi! Wyjdźmy Mu na spotkanie i zapalmy nasze lampy jak światła na ciemnych ścieżkach. Pan nadchodzi, noc umyka daleko, bramy są dla nas, pokładających nadzieję w Chrystusie, otwarte. Czeka nas święto radości.",
+		"quoteNotFromBibleReference": "Jan Amos Komeński †1670",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "15-12-2023",
+		"firstStandard": "Ps 107,23-24.31",
+		"secondStandard": "Dz 28,1-2",
+		"firstAdditional": "Łk 22,66-71",
+		"secondAdditional": "Iz 45,18-25",
+		"quoteNotFromBible": "Dobry Boże, w tym roku znowu dałeś nam przeżyć kilka cudów i zachowałeś nas, kiedy byliśmy w drodze. Dziękujemy Ci przede wszystkim za ludzi, którzy w cudowny sposób nam sprzyjali.",
+		"quoteNotFromBibleReference": "",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "16-12-2023",
+		"firstStandard": "Jl 2,19",
+		"secondStandard": "Mt 14,19-20",
+		"firstAdditional": "1 Tes 4,13-18",
+		"secondAdditional": "Iz 46,1-13",
+		"quoteNotFromBible": "Warto, byś nabrał zwyczaju okazywania wdzięczności, dziękowania z całego serca za najmniejszą rzecz.",
+		"quoteNotFromBibleReference": "Teresa z Lisieux †1897",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "17-12-2023",
+		"firstStandard": "4 Mż 23,19",
+		"secondStandard": "2 Kor 1,18-19",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Każdego dnia ogłosić chcę, że nadzieją Jezus! Wielka jest wierność Twa. Wielka jest wierność Twa. Podnoszę wzrok, zadziwia mnie jak wielka wierność Twa.",
+		"quoteNotFromBibleReference": "zespół Hillsong Worship",
+		"specialOccasionList": [
+			{
+				"occasion": "WEEK",
+				"title": "3. w Adwencie",
+				"mainQuote": "Iz 40,3.10",
+				"psalm": "Ps 85,2-8",
+				"worshipSongs": [
+					"Z powagą przygotujcie 29"
+				],
+				"apostolicLesson": "1 Kor 4,1-5",
+				"sermonTextList": [
+					"Mt 11,2-10"
+				],
+				"oldTestament": "Iz 40,1-11",
+				"gospel": ""
+			}
+		],
+		"contemplationDTO": {
+			"bibleReference": "Mt 11,3",
+			"text": "Pytania są w życiu ważne. Mawiamy przecież: „Kto pyta, nie błądzi” albo „Nie ma głupich pytań”. Jeśli ktoś zadaje pytanie, to znaczy, że czegoś nie wie, czegoś poszukuje, chce odnaleźć rozwiązanie. Zaczyna się w wieku około 3 lat – istna lawina znaków zapytania wylewa się z ust dziecka, które jest ciekawe świata.\nMartwię się o osoby, które nie zadają pytań. Okazują brak zainteresowania czymkolwiek – są apatyczne i bierne. Ale bardziej obawiam się osób, które nie zadają pytań, bo wszystko wiedzą. Sam wielokrotnie stawiam pytania. Również na mojej drodze wiary pojawiają się rozdroża, gdzie piętrzą się wątpliwości. Dziś zastanawiam się, ile osób zadało to samo pytanie odnośnie Jezusa, co Jan Chrzciciel?\nJan przez całe swoje publiczne nauczanie opowiadał o Chrystusie. Był tak pewien przyjścia Baranka Bożego, że jego wiara znalazła wyraz w płomiennym zwiastowaniu, które przyciągało tłumy. Jednak nawet on, gdy był w więzieniu, stracił grunt pod nogami, poddając w wątpliwość osobę Jezusa.\nAdwent to dobry moment, by porozmyślać. Odważmy się zapytać samych siebie o wiarę.",
+			"textReference": "Mirosław Czyż"
+		}
+	},
+	{
+		"date": "18-12-2023",
+		"firstStandard": "Dn 2,21",
+		"secondStandard": "Łk 1,52",
+		"firstAdditional": "2 Kor 1,18-22",
+		"secondAdditional": "Iz 49,1-6",
+		"quoteNotFromBible": "Stwórco! My Twoje stworzenia, chwałę Twoją świętą głosim: Czym jesteśmy, Twe zdarzenia. Pozwoliłeś prosić, prosim. Łaska Twoja daje, bierzem. Dasz czy weźmiesz, zawsześ Panem. Daj użytek, daj go w mierze, to jest najszczęśliwszym stanem.",
+		"quoteNotFromBibleReference": "Ignacy Krasicki †1735",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "19-12-2023",
+		"firstStandard": "Ps 34,16",
+		"secondStandard": "Rz 12,12",
+		"firstAdditional": "Iz 11,10-13",
+		"secondAdditional": "Iz 49,7-17",
+		"quoteNotFromBible": "Panie, muszę się w swoim życiu liczyć z ograniczeniami. Nie potrafię robić tego wszystkiego, co wielu innych umie. Ty jednak w swojej wyjątkowej miłości szukałeś mnie i znalazłeś. Pomóż mi stale na nowo przyjmować swoje życie i w Twojej mocy stawiać mu czoła. Dziękuję Ci z całego serca.",
+		"quoteNotFromBibleReference": "Gunter Lange",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "20-12-2023",
+		"firstStandard": "Ps 103,2-3",
+		"secondStandard": "1 J 4,10",
+		"firstAdditional": "Jr 30,8-11a",
+		"secondAdditional": "Iz 50,4-11",
+		"quoteNotFromBible": "Taką miłością Tyś nas umiłował, Zbawco jedyny, gdyś przez swoje rany wieczne zbawienie grzesznym nam zgotował, do zgody wiodąc lud przez Cię wybrany.",
+		"quoteNotFromBibleReference": "Śpiewnik ewangelicki 783, 4",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "21-12-2023",
+		"firstStandard": "Ez 37,14",
+		"secondStandard": "2 Kor 3,17",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Zaufaj drogom nowym, gdzie Bóg posyła cię, zaprasza swoim Słowem, czas nowy zbliża się. Kto pójdzie, ma nadzieję na wieczny Boży dzień, tam jasna przestrzeń dnieje, bramy otwarły się.",
+		"quoteNotFromBibleReference": "ks. Klaus P. Hertzsch †2015, Śpiewnik ewangelicki 775, 3",
+		"specialOccasionList": [
+			{
+				"occasion": "DAY",
+				"title": "Dzień apostoła Tomasza",
+				"mainQuote": "Iz 52,7",
+				"psalm": "",
+				"worshipSongs": [
+					"Apostołów dziś wspomnijmy 244",
+					"Zbudź, Panie, ducha ojców wiary 541"
+				],
+				"apostolicLesson": "2 Kor 4,1-6",
+				"sermonTextList": [],
+				"oldTestament": "",
+				"gospel": "J 14,1-6 lub J 20,19-29"
+			}
+		],
+		"contemplationDTO": null
+	},
+	{
+		"date": "22-12-2023",
+		"firstStandard": "1 Sm 12,15",
+		"secondStandard": "Jk 1,25",
+		"firstAdditional": "Obj 22,(12-14)16.17.20.21",
+		"secondAdditional": "Iz 51,9-16",
+		"quoteNotFromBible": "Niechaj jedni słuchają drugich i uczą się jedni od drugich. Niechaj zapanuje dialog i współpraca w dążeniu do tego, by ci, którzy przyjdą po nas, zastali świat, w którym można i warto żyć.",
+		"quoteNotFromBibleReference": "ks. Alfred Jagucki †2004",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "23-12-2023",
+		"firstStandard": "Oz 6,6",
+		"secondStandard": "Rz 13,10",
+		"firstAdditional": "Iz 7,10-14",
+		"secondAdditional": "Iz 52,1-12",
+		"quoteNotFromBible": "Miłość ma dwie nogi, wyrastają one z miłości Boga i z miłości do ludzi. Nie kuśtykaj, ale biegnij na nich obu aż do nieba.",
+		"quoteNotFromBibleReference": "Augustyn z Hippony †430",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "24-12-2023",
+		"firstStandard": "Iz 60,2",
+		"secondStandard": "Łk 2,15",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Mieścino mała, Betlejem, spowita w nocne mgły, ty śpisz spokojnym, cichym snem, nad tobą gwiazd rój lśni! Lecz wśród twych ulic ciemnych, jaśnieje dziwny blask, bo w tobie dziś spełniła się, zapowiedź Bożych łask. „Dziś się narodził Chrystus Pan!”. Tak brzmi anielska wieść, gdy ludzie śpią, niebiosa lśnią, śpiewając Jemu cześć. I wy, o gwiazdy, lśnijcie, miłości głosząc cud, na wysokościach Bogu cześć, a pokój na ten lud!",
+		"quoteNotFromBibleReference": "bp Phillips Brooks †1893, Śpiewnik ewangelicki 59,1-2",
+		"specialOccasionList": [
+			{
+				"occasion": "WEEK",
+				"title": "4. w Adwencie",
+				"mainQuote": "Flp 4,4.5",
+				"psalm": "Ps 102,17-23",
+				"worshipSongs": [
+					"Córko syjońska 9",
+					"Raduj się, syjoński zborze 23"
+				],
+				"apostolicLesson": "Flp 4,4-7",
+				"sermonTextList": [
+					"Iz 62,1-5"
+				],
+				"oldTestament": "",
+				"gospel": "Łk 1,26-38(39-56)"
+			},
+			{
+				"occasion": "DAY",
+				"title": "Wigilia Narodzenia Pańskiego",
+				"mainQuote": "Łk 2,10b-11",
+				"psalm": "Ps 96,1-3.7-13",
+				"worshipSongs": [
+					"Cudowna różdżka wzrosła 45"
+				],
+				"apostolicLesson": "",
+				"sermonTextList": [
+					"Ga 4,4-7"
+				],
+				"oldTestament": "Iz 9,1-6",
+				"gospel": "Łk 2,1-20"
+			}
+		],
+		"contemplationDTO": {
+			"bibleReference": "Ga 4,4",
+			"text": "Wypełnienie czasu. Co to znaczy? Zwłaszcza, gdy w Biblii można przeczytać inne tajemniczo brzmiące zdanie: „I dano niewieście dwa skrzydła wielkiego orła, aby poleciała na pustynię na miejsce swoje, gdzie ją żywią przez czas i czasy, i pół czasu, z dala od węża” (Obj 12,14). Tajemnice tych słów niech wypełni świętość wigilijnego wieczoru, świętość cichej nocy, które wcale nie oznaczają spokoju i ciszy. To czas zmierzenia się z mocą Bożej miłości okazanej w narodzeniu się Syna Bożego. I jak co roku ten czas staje się nowy. Dlaczego nowy? Bo my – ty i ja – jesteśmy w pewnym sensie nowi. Starsi, dojrzalsi, co nie oznacza, że mądrzejsi, po nowych doświadczeniach i w innej prozie życia, której oczekiwaliśmy może w zupełnie innych barwach. Tak, za każdym razem Słowo Boże jest nowe, bo człowiek słyszy je w innym kontekście, nawet w stosunku do dnia wczorajszego. A dziś, jutro będziemy celebrować cud Bożej łaski, która wciąż trwa. Małe Dziecko – Jezus – na nowo chce coś wnieść do twojego, mojego, do naszego życia, chce nas przemienić.",
+			"textReference": "Aleksandra Błahut-Kowalczyk"
+		}
+	},
+	{
+		"date": "25-12-2023",
+		"firstStandard": "Iz 38,14",
+		"secondStandard": "Łk 2,11",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Bóg oto dziś wam wszystkim śle przedziwne, miłe Dziecię swe, z Dziewicy czystej daje rad Dzieciątko, które zbawi świat. To Jezus Chrystus, Pan, nasz Bóg, On nas wyzwoli z wszelkich trwóg, On Zbawcą waszym pragnie być i wszelką z was nieprawość zmyć.",
+		"quoteNotFromBibleReference": "Marcin Luter †1546, Śpiewnik ewangelicki 54, 2-3",
+		"specialOccasionList": [
+			{
+				"occasion": "DAY",
+				"title": "1. Dzień Świąt Narodzenia PańskiegoŚwięto Narodzenia Pańskiego",
+				"mainQuote": "J 1,14",
+				"psalm": "Ps 96,1-3.7-13",
+				"worshipSongs": [
+					"Pochwalon, Jezu Chryste, bądź 71"
+				],
+				"apostolicLesson": "Tt 3,4-7",
+				"sermonTextList": [
+					"2 Mż 2,1-10"
+				],
+				"oldTestament": "",
+				"gospel": "J 1,1-5.9-14(16-18)"
+			},
+			{
+				"occasion": "DAY",
+				"title": "Pasterka i jutrznia",
+				"mainQuote": "Łk 2,10b-11",
+				"psalm": "Ps 96,1-3.7-13",
+				"worshipSongs": [
+					"Pochwalon, Jezu Chryste, bądź 71",
+					"Cicha noc, święta noc 41",
+					"Cicha noc! W górze skrzy 42"
+				],
+				"apostolicLesson": "1 Tm 3,16",
+				"sermonTextList": [
+					"Łk 2,1-20"
+				],
+				"oldTestament": "Za 2,14-17",
+				"gospel": ""
+			}
+		],
+		"contemplationDTO": {
+			"bibleReference": "Łk 2,1-2",
+			"text": "Bohaterowie wiadomości. Osoby z pierwszych stron gazet i najlepiej widocznych miejsc na portalach internetowych lub mający najwięcej obserwatorów w mediach społecznościowych. Oficjalni wielcy ludzie tego świata lub sprawujący rząd dusz nad nim, lub zwykli celebryci. Od nich zaczyna się biblijna opowieść o Narodzeniu Jezusa Chrystusa. Skoro się wydarzyła, to było trzeba ją jakoś umieścić w czasie i w miejscu, aby dla czytającego nie była literacką fikcją.\nOto nasi bohaterowie – cesarz Oktawian August (63 r.p.n.e.-14 r.n.e.), który trzy razy w okresie swego panowania przeprowadził spis obywateli Imperium Rzymskiego oraz gubernator Syrii Publiusz Sulpicjusz Kwiryniusz (51 r.p.n.e.- 21 r.n.e.). Z pewnością żaden z nich nie miał zamiaru tak zapisać się w historii ludzkości ani tym bardziej w historii zbawienia. Jednak z powodu narodzenia Zbawiciela ktoś jeszcze dzisiaj o nich pamięta. Wydawało się, że rządzą światem, a stali się zwykłymi narzędziami. Zostali zapamiętani, bo za ich czasów stało się coś, z czym nie mieli nic wspólnego. Tak działa Bóg: sprawia, że nawet cysorze nie są w stanie zaplanować naszej przyszłości. I za to Bogu niech będą dzięki!",
+			"textReference": "AM"
+		}
+	},
+	{
+		"date": "26-12-2023",
+		"firstStandard": "Iz 60,16",
+		"secondStandard": "2 Tm 1,10",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Chwałę, cześć i dziękczynienie, Tobie, Panie Jezu Chryste, wyśpiewuję dziś, bo stałeś się moim bratem i zwyciężyłeś świat. Dopomóż mi, abym zawsze chwalił Twoją dobroć – w tym czasie łaski, a potem mógł Cię chwalić i w wieczności.",
+		"quoteNotFromBibleReference": "Johann Rist †1667",
+		"specialOccasionList": [
+			{
+				"occasion": "DAY",
+				"title": "2. Dzień Świąt Narodzenia Pańskiego",
+				"mainQuote": "J 1,14",
+				"psalm": "Ps 96",
+				"worshipSongs": [
+					"Pochwalon, Jezu Chryste, bądź 71",
+					"Gdy się Chrystus rodzi 51"
+				],
+				"apostolicLesson": "",
+				"sermonTextList": [
+					"2 Kor 8,7-9"
+				],
+				"oldTestament": "Iz 7,10-14",
+				"gospel": "Mt 1,18-25"
+			},
+			{
+				"occasion": "DAY",
+				"title": "Uroczystość św. Szczepana Męczennika",
+				"mainQuote": "Ps 116,15.17",
+				"psalm": "Ps 31,2-6.8.9.16.17",
+				"worshipSongs": [
+					"Pasterzom w świętej nocy 69"
+				],
+				"apostolicLesson": "VI – Dz 6,8-15;7,(1-54)55-60; III – Obj 7,9-12(13-17)",
+				"sermonTextList": [],
+				"oldTestament": "I – 2 Krn 24,19-21; IV – Jr 26,1-13",
+				"gospel": "V – Mt 10,16-22; II – Hbr 10,32-39"
+			}
+		],
+		"contemplationDTO": {
+			"bibleReference": "Dz 7,56-57",
+			"text": "Sceneria Bożego Narodzenia pełna jest kontrastów: niepojęty Bóg przyjmuje cielesność; Król rodzi się w stajni; wielu ludzi, którzy zwykle nie pojawiają się na nabożeństwach, w tych okolicznościach chętnie bywa w kościele.\nHistoria męczennika Szczepana zdradza jeszcze jeden kontrast: gdy ktoś słowem, czynem lub swoją postawą „opowiada” o Chrystusie i życiu wiecznym, niejeden słuchacz mocniej zatyka uszy, żeby nie dopuścić światła Ewangelii do siebie. Wrogość wobec Dobrej Nowiny sprawia, że w różnych częściach globu niejeden chrześcijanin traci życie z powodu swojej wiary.\nLecz oto nadchodzi ostatni kontrast. Ci, którzy otwarli serce dla Chrystusa, spędzą z Nim wieczność. Pozostali znajdą się w przestrzeni, gdzie będzie płacz i zgrzytanie zębów. Szczepan wiedział, dokąd odchodzi, bo nie zatrzymał się w Betlejem, lecz poszedł dalej – uwierzył w śmierć i zmartwychwstanie Jezusa. Z powodu swojej głębokiej wiary wiedział, że „świąteczne chrześcijaństwo” jest sztuczne i na pokaz. Stał się prawdziwym naśladowcą Pana. Jakie wnioski my wyciągniemy z tych świąt?",
+			"textReference": "Mirosław Czyż"
+		}
+	},
+	{
+		"date": "27-12-2023",
+		"firstStandard": "Iz 44,6",
+		"secondStandard": "Mt 6,9",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Że więc nie ma dna ni miary hojny ten miłości zdrój, wznoszę przeto pełen wiary dłoń dziecięcą, Ojcze mój, prosząc Cię, byś dał mi mocy, Ciebie z wszystkich moich sił, póki tutaj będę żył, obejmować w dzień i w nocy, aż Ci u syjońskich bram wieczną cześć i miłość dam!",
+		"quoteNotFromBibleReference": "ks. Paweł Gerhardt †1676, Śpiewnik ewangelicki 588, 6",
+		"specialOccasionList": [
+			{
+				"occasion": "DAY",
+				"title": "Dzień apostoła i ewangelisty Jana",
+				"mainQuote": "Iz 52,7",
+				"psalm": "",
+				"worshipSongs": [
+					"Apostołów dziś wspomnijmy 244",
+					"Zbudź, Panie, ducha ojców wiary 541"
+				],
+				"apostolicLesson": "1 J 1,1-4(5-10)",
+				"sermonTextList": [],
+				"oldTestament": "",
+				"gospel": "J 21,20-24"
+			}
+		],
+		"contemplationDTO": null
+	},
+	{
+		"date": "28-12-2023",
+		"firstStandard": "Ps 104,14",
+		"secondStandard": "Ef 5,20",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Całe stworzenie krzyczy do nas, że powinniśmy oddawać Bogu dzięki. Gdybyśmy mieli oczy i uszy, widzielibyśmy i słyszelibyśmy, jak przemawia do nas ziarno: raduj się w Bogu, jedz i pij, używaj mnie i służ bliźniemu! Tak z nami rozmawiają wszystkie stworzenia. I niech każdy pomyśli: chcę korzystać z tego, co dał Bóg i innym z tego udzielać.",
+		"quoteNotFromBibleReference": "Marcin Luter †1546",
+		"specialOccasionList": [
+			{
+				"occasion": "DAY",
+				"title": "Dzień niewinnych dzieci",
+				"mainQuote": "Ps 116,15.17",
+				"psalm": "Ps 8,2-10",
+				"worshipSongs": [
+					"Dziateczki, dziateczki 49",
+					"Pasterzom w świętej nocy 69"
+				],
+				"apostolicLesson": "Obj 12,1-6(13-17)",
+				"sermonTextList": [],
+				"oldTestament": "Jr 31,15-17",
+				"gospel": "Mt 2,13-18"
+			}
+		],
+		"contemplationDTO": null
+	},
+	{
+		"date": "29-12-2023",
+		"firstStandard": "5 Mż 30,2-3 (BE)",
+		"secondStandard": "Mk 1,15",
+		"firstAdditional": "1 J 4,12-16a",
+		"secondAdditional": "Iz 54,1-10",
+		"quoteNotFromBible": "Nikt nie posiada Boga tak, aby na Niego nie musiał czekać. A jednak nikt by też na Niego nie czekał, gdyby nie wiedział, że On już od dawna na niego czeka.",
+		"quoteNotFromBibleReference": "ks. Dietrich Bonhoeffer †1945",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "30-12-2023",
+		"firstStandard": "1 Mż 39,9",
+		"secondStandard": "1 Tes 4,7",
+		"firstAdditional": "Iz 63,7-14",
+		"secondAdditional": "Iz 55,1-13",
+		"quoteNotFromBible": "Od słuchania o tym, co złe, przechodzi się łatwo do pełnienia zła.",
+		"quoteNotFromBibleReference": "Bazyli Wielki †379",
+		"specialOccasionList": [],
+		"contemplationDTO": null
+	},
+	{
+		"date": "31-12-2023",
+		"firstStandard": "Iz 54,7",
+		"secondStandard": "2 Tes 2,16-17",
+		"firstAdditional": "",
+		"secondAdditional": "",
+		"quoteNotFromBible": "Niech dzisiaj ciepło Twoje światło płonie, przed którym pierzchnąć musi życia noc. Daj nam wytchnienie w dzieci Twoich gronie, byśmy wysławiać mogli Twoją moc. (…) A gdy nastanie cisza upragniona, daj mi usłyszeć dzieci Twoich śpiew i niech też dusza moja utęskniona dostąpi wejścia do ojczystych stref.",
+		"quoteNotFromBibleReference": "ks. Dietrich Bonhoeffer †1945, Śpiewnik ewangelicki 100, 4-5",
+		"specialOccasionList": [
+			{
+				"occasion": "WEEK",
+				"title": "1. po Narodzeniu Pańskim",
+				"mainQuote": "J 1,14",
+				"psalm": "Ps 96",
+				"worshipSongs": [
+					"Pochwalon Jezu Chryste bądź 71",
+					"Chrześcijanie, wysławiajcie 39"
+				],
+				"apostolicLesson": "1 J 1,1-4",
+				"sermonTextList": [
+					"J 12,44-50"
+				],
+				"oldTestament": "Iz 49,13-16",
+				"gospel": ""
+			},
+			{
+				"occasion": "DAY",
+				"title": "Zakończenie roku",
+				"mainQuote": "Ps 31,16a",
+				"psalm": "Ps 121",
+				"worshipSongs": [
+					"Już cicho rok nam zbiega 95",
+					"Mą drogę znasz 869"
+				],
+				"apostolicLesson": "Rz 8,31b-39",
+				"sermonTextList": [
+					"Kz 3,1-15"
+				],
+				"oldTestament": "",
+				"gospel": "Mt 13,24-30"
+			}
+		],
+		"contemplationDTO": {
+			"bibleReference": "Kz 3,1-2",
+			"text": "Wczoraj jeszcze kwitły irysy i pachniał dziki bez, z którego kwiatów niegdyś robiłam czerwcową lemoniadę, a jesienią – z jego czarnych owoców – sok dla przeziębionych dzieci. Dziś wszystko przykrywa śnieg. Gałęzie uginają się pod jego ciężarem, niektóre nie wytrzymują nacisku i upadają z trzaskiem na ziemię. Grudniowa ciężka aura. Czas na poświąteczne ogarnięcie domu, czas na podsumowanie roku. Jaki był? Ile wniósł smutku i niepokoju, wojennych wieści i zagrożeń? Ile radości, narodzin, nowego życia? Ile pożegnań?\nJakiego Słowa uchwycić się? Kaznodzieja Salomona przychodzi z pomocą, ofiaruje pokój i podpowiada: wszystko ma swoją porę. W luterańskim domu jest wciąż taki zwyczaj, by Sylwestra, ostatni dzień roku, przeżywać nie w zabawie i przy wiwatach, lecz ze Słowem Bożym i pokorną postawą wobec minionych 365 dni. W uczuciu wdzięczności Bogu i ufnej, kreatywnej odwagi na przyszłość. Przekroczenie progu kolejnego roku jest takim rzuceniem się z ufnością w przepaść, jest skokiem wiary – jak podpowiada filozof Søren Kierkegaard – prosto w ramiona Ojca. Tego pragnę doświadczyć.",
+			"textReference": "Aleksandra Błahut-Kowalczyk"
+		}
+	}
+]
