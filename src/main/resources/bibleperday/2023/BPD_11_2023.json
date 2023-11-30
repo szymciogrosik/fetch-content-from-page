@@ -20,7 +20,7 @@
           ],
           "apostolicLesson": "Obj 7,9-12",
           "sermonTextList": [
-            "Dn 7,1-3.13-18.27"
+            "Dn 7,1-3 | Dn 7,13-18 | Dn 7,27"
           ],
           "oldTestament": "",
           "gospel": "Mt 5,1-10"
@@ -34,9 +34,9 @@
             "O, jakeście wy błogosławieni 924",
             "Dokąd mam się w troskach męczyć 670"
           ],
-          "apostolicLesson": "1 Kor 15,35-38.42-44a",
+          "apostolicLesson": "1 Kor 15,35-44",
           "sermonTextList": [
-            "Dn 12,1b-3"
+            "Dn 12,1-3"
           ],
           "oldTestament": "",
           "gospel": "J 5,24-29"
@@ -74,7 +74,7 @@
       "date": "04-11-2023",
       "firstStandard": "Iz 66,13",
       "secondStandard": "J 16,24",
-      "firstAdditional": "2 Tm 2,1-5(6)",
+      "firstAdditional": "2 Tm 2,1-6",
       "secondAdditional": "Hi 5,17-27",
       "quoteNotFromBible": "Boże, święta Mądrości, znasz nasze bóle. Widzisz nasze łzy, także te niewypłakane. Pocieszasz nas, jak pociesza matka, sprawiasz, że umiemy się pogodzić z naszymi zranieniami i winą.",
       "quoteNotFromBibleReference": "Christa Mathies",
@@ -116,8 +116,8 @@
       "date": "06-11-2023",
       "firstStandard": "Ps 77,14",
       "secondStandard": "J 16,28",
-      "firstAdditional": "2 Mż 32,15-20(21-24)",
-      "secondAdditional": "Hi 6,1-10.24-30",
+      "firstAdditional": "2 Mż 32,15-24",
+      "secondAdditional": "Hi 6,1-10 | Hi 6,24-30",
       "quoteNotFromBible": "Jedyna droga, którą wybieram dziś to Ty. Jedyna prawda, która wskaże mi jak mam żyć bez strachu i zwątpień. Za Tobą Jezu pójdę choćby mi runął świat, pobłogosławisz kiedy w ciszy zaufam ci. Nie zawiodę się.",
       "quoteNotFromBibleReference": "zespół CSM/Worship",
       "specialOccasionList": [],
@@ -127,7 +127,7 @@
       "date": "07-11-2023",
       "firstStandard": "Ez 34,23",
       "secondStandard": "Mt 9,36",
-      "firstAdditional": "Jon 1,1-16; 2,1",
+      "firstAdditional": "Jon 1,1-16 | Jon 2,1",
       "secondAdditional": "Hi 7,7-21",
       "quoteNotFromBible": "Dobry Pasterzu, w moim niepowodzeniu wypowiadasz swoje Słowo. Dotykasz mnie cicho, budzę się i z radością podążam drogą, którą mi wskazujesz.",
       "quoteNotFromBibleReference": "Hanna Hümmer †1977",
@@ -138,7 +138,7 @@
       "date": "08-11-2023",
       "firstStandard": "Ps 118,26",
       "secondStandard": "J 1,12",
-      "firstAdditional": "Jon (3,10)4,1-11",
+      "firstAdditional": "Jon 3,10 | Jon 4,1-11",
       "secondAdditional": "Hi 8,1-22",
       "quoteNotFromBible": "Pochwal, mój duchu, Mocarza i wznieś Mu śpiewanie! Z wszystkim, co życie ma, wespół zwróć doń swe błaganie; On światłem twym. Chwalmy więc sercem go swym: Amen, tak niechaj się stanie.",
       "quoteNotFromBibleReference": "Joachim Neander †1680, Śpiewnik ewangelicki 620, 5",
@@ -149,8 +149,8 @@
       "date": "09-11-2023",
       "firstStandard": "Ps 31,23",
       "secondStandard": "Rz 8,26",
-      "firstAdditional": "Mt 7,1-5(6)",
-      "secondAdditional": "Hi 9,1-15.32-35",
+      "firstAdditional": "Mt 7,1-6",
+      "secondAdditional": "Hi 9,1-15 | Hi 9,32-35",
       "quoteNotFromBible": "W otchłaniach, których żadne pocieszenie nie sięga, niech dosięgnie mnie Twoja wierność. W noce, w które wiara ustępuje, niech Twoja łaska nie odstępuje ode mnie. Kiedy nie mogę uchwycić się Twojej ręki, Ty chwyć moją w swoje ręce, przyjmij łaskawie moją duszę i doprowadź mnie do dobrego końca.",
       "quoteNotFromBibleReference": "Justus Delbrück †1945",
       "specialOccasionList": [],
@@ -180,7 +180,7 @@
           "occasion": "DAY",
           "title": "Święto Odzyskania Niepodległości",
           "mainQuote": "Prz 14,34",
-          "psalm": "Ps 85 lub Ps 80",
+          "psalm": "Ps 85 | Ps 80",
           "worshipSongs": [
             "Boże, coś Polskę 837",
             "Ojcowski dom 465",
@@ -216,8 +216,8 @@
           "sermonTextList": [
             "Rz 8,18-25"
           ],
-          "oldTestament": "Mi 4,1-5(7b)",
-          "gospel": "Łk 17,20–24(25–30)"
+          "oldTestament": "Mi 4,1-7",
+          "gospel": "Łk 17,20-30"
         }
       ],
       "contemplationDTO": {
@@ -230,7 +230,7 @@
       "date": "13-11-2023",
       "firstStandard": "Iz 50,5",
       "secondStandard": "J 10,16",
-      "firstAdditional": "1 Mż 33,1-4(5-7)8-1",
+      "firstAdditional": "1 Mż 33,1-8",
       "secondAdditional": "Hi 19,21-29",
       "quoteNotFromBible": "Boskie słowo jest słodkie dla tego, kto się go uczy, słodsze dla tego, kto uczy, a najsłodsze dla tego, kto wprowadza je w życie.",
       "quoteNotFromBibleReference": "Albert Wielki †1280",
@@ -241,7 +241,7 @@
       "date": "14-11-2023",
       "firstStandard": "Iz 57,16",
       "secondStandard": "2 Kor 5,19",
-      "firstAdditional": "Iz 57,17-19(20.21)",
+      "firstAdditional": "Iz 57,17-21",
       "secondAdditional": "Hi 31,16-40",
       "quoteNotFromBible": "Bóg pragnie zbawić ludzkie plemię i jego zguby nie chce On, więc Syna zesłał nam na ziemie, by przed niebieski wiódł nas tron; dlatego do serc naszych bram kołacze wciąż Zbawiciel sam.",
       "quoteNotFromBibleReference": "ks. Johann A. Rothe †1758, Śpiewnik ewangelicki 654, 3",
@@ -274,7 +274,7 @@
       "date": "17-11-2023",
       "firstStandard": "Iz 55,8",
       "secondStandard": "1 Kor 1,25",
-      "firstAdditional": "J 18,10.11",
+      "firstAdditional": "J 18,10-11",
       "secondAdditional": "Hi 42,1-6",
       "quoteNotFromBible": "Miej prostotę gołębia, żebyś nikogo nie oszukiwał, ale potrzebna ci także i roztropność węża, żebyś się nie dał oszukać. Roztropność bez prostoty jest złością, prostota bez roztropności głupotą.",
       "quoteNotFromBibleReference": "Hieronim ze Strydonu †420",
@@ -305,21 +305,21 @@
           "occasion": "WEEK",
           "title": "Przedostatnia roku kościelnego",
           "mainQuote": "2 Kor 5,10",
-          "psalm": "Ps 50,1.4-6.14.15.23",
+          "psalm": "Ps 50,1-6 | Ps 50,14-15 | Ps 50,23",
           "worshipSongs": [
             "Przybliża się już sądny dzień 274",
             "W sądu dzień 277"
           ],
-          "apostolicLesson": "Rz 14,(1-6)7-13",
+          "apostolicLesson": "Rz 14,1-13",
           "sermonTextList": [
             "Mt 25,31-46"
           ],
-          "oldTestament": "Hi 14,1-6(7-12)13(14)15-17",
+          "oldTestament": "Hi 14,1-17",
           "gospel": ""
         }
       ],
       "contemplationDTO": {
-        "bibleReference": "Mt 25,37.44",
+        "bibleReference": "Mt 25,37 | Mt 25,44",
         "text": "Wyobraźnia ludzka, szczególnie w czasach średniowiecza i renesansu, tworzyła różne obrazy sądu ostatecznego. Wśród nich szczególnie znana jest wizja Hansa Memlinga z 1471 roku. Jego obraz miał znaleźć się w miejscowości pod Florencją, ale został zrabowany i trafił do kościoła mariackiego w Gdańsku. Dziś możemy go podziwiać w Muzeum Narodowym w Gdańsku, bo w latach trzydziestych XX w. luterańska parafia Marii Panny w Gdańsku przekazała oryginał do muzeum.\nDziś nawet nie trzeba jechać na północ Polski – wystarczy wpisać „sąd ostateczny Memling” w wyszukiwarkę internetową i można oglądać obraz do woli. Zanim to zrobimy, proponuję przeczytać fragment Ewangelii o sądzie. Mam wrażenie, że dominującym stanem psychicznym patrzących na tryptyk Memlinga jest zdziwienie i takie samo odczucie pojawia się u bohaterów Jezusowej opowieści o sądzie ostatecznym. Wszyscy się tak uporczywie pytają, bo w swoim mniemaniu nigdy króla nie spotkali.\nMy też nie widzieliśmy nigdy Jezusa. A okazuje się, że tak wiele zależy od tego, co dla Niego uczyniliśmy, gdy Go tyle razy spotkaliśmy, nie wiedząc, że to On.",
         "textReference": "Adam Malina"
       }
@@ -329,7 +329,7 @@
       "firstStandard": "Ps 90,13",
       "secondStandard": "J 14,3",
       "firstAdditional": "Mt 25,14-20",
-      "secondAdditional": "Jud 1-16",
+      "secondAdditional": "Jud 1,1-16",
       "quoteNotFromBible": "O Jezu, zorzo duszy! Przyjdź do nas, z nieba, przyjdź! Gdy duch nasz więzy skruszy, Ty jako słońce wznijdź! O Jezu, przez swą mękę wyprowadź z boju nas; znękanym podaj rękę, zbawienia przybliż czas.",
       "quoteNotFromBibleReference": "Lorenz Lorenzen †1866, Śpiewnik ewangelicki 272, 5",
       "specialOccasionList": [],
@@ -340,7 +340,7 @@
       "firstStandard": "1 Sm 7,12",
       "secondStandard": "Dz 26,22",
       "firstAdditional": "Jr 8,4-9",
-      "secondAdditional": "Jud 17-25",
+      "secondAdditional": "Jud 1,17-25",
       "quoteNotFromBible": "Będziesz przy nas, kiedy zliczymy dni. Pokazałeś nam już w życiu tyle piękna, okazałeś tyle zachęty. Dałeś nam marzenia, spełniałeś życzenia i obdarowałeś szczęściem w swojej bliskości. Bez Ciebie jesteśmy jednak niczym. Nie sposób wyobrazić sobie serc, nieba ani ziemi bez Ciebie. Wierzymy w Ciebie, wielbimy i kochamy Cię.",
       "quoteNotFromBibleReference": "Hanns Dieter Hüsch †2005",
       "specialOccasionList": [],
@@ -350,8 +350,8 @@
       "date": "22-11-2023",
       "firstStandard": "Hi 9,2-3",
       "secondStandard": "Łk 15,18",
-      "firstAdditional": "Ez 22,23–31",
-      "secondAdditional": "Mt 24,1–14",
+      "firstAdditional": "Ez 22,23-31",
+      "secondAdditional": "Mt 24,1-14",
       "quoteNotFromBible": "Nigdy nikomu nie przebaczysz bardziej, niż Bóg już wybaczył Tobie.",
       "quoteNotFromBibleReference": "Max Lucado",
       "specialOccasionList": [],
@@ -383,7 +383,7 @@
       "date": "25-11-2023",
       "firstStandard": "2 Mż 24,7",
       "secondStandard": "Jk 1,22",
-      "firstAdditional": "2 P 3,(13)14-18",
+      "firstAdditional": "2 P 3,13-18",
       "secondAdditional": "Mt 24,32-44",
       "quoteNotFromBible": "O pochyl mnie i z gliny tej, tak na nic nieprzydatnej Ci, naczynie użyteczne stwórz, co służyć będzie Twojej czci.",
       "quoteNotFromBibleReference": "Phillip Bliss †1876, Śpiewnik ewangelicki 429, 6",
@@ -409,9 +409,9 @@
           ],
           "apostolicLesson": "",
           "sermonTextList": [
-            "2 P 3,(3-7)8-13"
+            "2 P 3,3-13"
           ],
-          "oldTestament": "Iz 65,17-19(20-22)23-25",
+          "oldTestament": "Iz 65,17-25",
           "gospel": "Mt 25,1-13"
         }
       ],
@@ -434,7 +434,7 @@
     },
     {
       "date": "28-11-2023",
-      "firstStandard": "Ps 119,130 (BE)",
+      "firstStandard": "Ps 119 | Ps 130",
       "secondStandard": "Ef 5,8",
       "firstAdditional": "Iz 35,8-10",
       "secondAdditional": "Mt 25,1-13",
