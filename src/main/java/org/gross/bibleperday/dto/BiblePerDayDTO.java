@@ -77,6 +77,29 @@ public class BiblePerDayDTO implements Serializable {
                 specialOccasionList + ", contemplationDTO=" + contemplationDTO + '}';
     }
 
+    public List<String> getBibleReferences() {
+        List<String> bibleReferences = new ArrayList<>();
+        bibleReferences.add(firstStandard);
+        bibleReferences.add(secondStandard);
+        bibleReferences.add(firstAdditional);
+        bibleReferences.add(secondAdditional);
+
+        for (SpecialOccasionDTO specialOccasion : specialOccasionList) {
+            bibleReferences.add(specialOccasion.getMainQuote());
+            bibleReferences.add(specialOccasion.getPsalm());
+            bibleReferences.add(specialOccasion.getApostolicLesson());
+            bibleReferences.addAll(specialOccasion.getSermonTextList());
+            bibleReferences.add(specialOccasion.getOldTestament());
+            bibleReferences.add(specialOccasion.getGospel());
+        }
+
+        if (contemplationDTO != null) {
+            bibleReferences.add(contemplationDTO.getBibleReference());
+        }
+
+        return bibleReferences;
+    }
+
     public static class Builder {
 
         private final Date date;

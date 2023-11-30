@@ -5,12 +5,12 @@ import org.apache.commons.lang3.StringUtils;
 import org.gross.bibleperday.dto.BiblePerDayDTO;
 import org.gross.bibleperday.dto.ContemplationDTO;
 import org.gross.bibleperday.dto.SpecialOccasionDTO;
+import org.gross.bibleperday.dto.serializer.BpdSerializer;
 import org.gross.bibleperday.enums.MoveDate;
 import org.gross.bibleperday.enums.Occasion;
 import org.gross.bibleperday.enums.Speed;
 import org.gross.utils.DateUtils;
 import org.gross.utils.FileUtils;
-import org.gross.utils.JsonUtils;
 import org.gross.utils.PageUtils;
 import org.gross.utils.PrintUtils;
 import org.openqa.selenium.By;
@@ -36,6 +36,7 @@ public class BiblePerDayDownloadService {
     private static final int QUICK_CHECK_TIMEOUT_MILLIS = 100;
     private static final int CHECK_TIMEOUT_MILLIS = (int) Speed.MEDIUM.getDurationMillis();
     private static final int IMPLICITLY_TIMEOUT_SECONDS = 1;
+    private final BpdSerializer serializer = new BpdSerializer();
 
     public void downloadContentForDates(int year, int firstMonth, int lastMonth, int firstDayMonth, int lastDayMonth) {
         WebDriverManager.chromedriver().setup();
@@ -49,7 +50,7 @@ public class BiblePerDayDownloadService {
         for (int month = firstMonth; month <= lastMonth; month++) {
             List<BiblePerDayDTO> biblePerDayList = fetchOnePeriod(
                     driver, getStartDate(firstDayMonth, month, year), getEndDate(firstDayMonth, lastDayMonth, month, year));
-            String jsonString = JsonUtils.parse(biblePerDayList);
+            String jsonString = serializer.defaultSerialize(biblePerDayList);
             FileUtils.writeToFile(Collections.singletonList(jsonString), getFileName(month, year));
         }
 
@@ -96,7 +97,7 @@ public class BiblePerDayDownloadService {
         return DateUtils.parse(day + "." + month + "." + year);
     }
 
-    private static String getFileName(int month, int year) {
+    public static String getFileName(int month, int year) {
         return "BPD_" + month + "_" + year + ".json";
     }
 
