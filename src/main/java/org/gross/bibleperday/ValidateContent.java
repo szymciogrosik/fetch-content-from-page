@@ -31,7 +31,9 @@ public class ValidateContent {
             ValidateBibleReferenceService validateService = new ValidateBibleReferenceService();
             List<String> invalidReferences = validateService.getInvalidBibleReferences(allBibleReferences);
 
-            FileUtils.writeToFile(invalidReferences, getInvalidReferencesFileName(month));
+            if (!invalidReferences.isEmpty()) {
+                FileUtils.writeToFile(invalidReferences, getInvalidReferencesFileName(month));
+            }
         }
     }
 
