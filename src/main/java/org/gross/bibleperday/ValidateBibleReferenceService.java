@@ -10,6 +10,10 @@ public class ValidateBibleReferenceService {
             Arrays.asList("Mż", "Joz", "Sdz", "Rt", "Sm", "Krl", "Krn", "Ezd", "Ne", "Est", "Hi", "Ps", "Prz", "Kz", "Pnp", "Iz", "Jr", "Tr", "Ez", "Dn", "Oz",
                           "Jl", "Am", "Ab", "Jon", "Mi", "Na", "Ha", "So", "Ag", "Za", "Ml", "Mt", "Mk", "Łk", "J", "Dz", "Rz", "Kor", "Ga", "Ef", "Flp", "Kol",
                           "Tes", "Tm", "Tt", "Flm", "Hbr", "Jk", "P", "J", "Jud", "Obj");
+    private static final String AND_SIGN = "|";
+    private static final String SPACE_SIGN = " ";
+    private static final String COMMA_SIGN = ",";
+    private static final String DASH_SIGN = "-";
 
     public List<String> getInvalidBibleReferences(List<String> allReferences) {
         List<String> invalidateReferences = new ArrayList<>();
@@ -21,22 +25,27 @@ public class ValidateBibleReferenceService {
         return invalidateReferences;
     }
 
-    private boolean isValidReference(String reference) {
-        String[] refElements = reference.split(" ");
+    private boolean isValidReference(String fullReference) {
+        String[] refElements = fullReference.split(SPACE_SIGN);
         int currentIndex = 0;
+
+        return isValidReferenceWithBookPartNumber(refElements, currentIndex, fullReference);
+    }
+
+    private boolean isValidReferenceWithBookPartNumber(String[] refElements, int currentIndex, String fullReference) {
         String first = refElements[currentIndex];
 
         if (isPureNumber(first)) {
             int bookPart = Integer.parseInt(first);
             if (bookPart < 1 || bookPart > 5) {
-                logErrorMessage("Invalid book number", first, reference);
+                logErrorMessage("Invalid book number", first, fullReference);
                 return false;
             } else {
                 currentIndex++;
             }
         }
 
-        return isValidReferenceWithoutBookPartNumber(refElements, currentIndex, reference);
+        return isValidReferenceWithoutBookPartNumber(refElements, currentIndex, fullReference);
     }
 
     private boolean isValidReferenceWithoutBookPartNumber(String[] refElements, int currentIndex, String fullReference) {
@@ -49,7 +58,7 @@ public class ValidateBibleReferenceService {
 
         String chapterAndVerse = refElements[currentIndex];
         if (!isPureNumber(chapterAndVerse)) {
-            String[] spitedChanderVerse = chapterAndVerse.split(",");
+            String[] spitedChanderVerse = chapterAndVerse.split(COMMA_SIGN);
             // Chapter number
             String chapterNumber = spitedChanderVerse[0];
             if (!isPureNumber(chapterNumber)) {
@@ -59,7 +68,7 @@ public class ValidateBibleReferenceService {
             // Verse validation
             String verse = spitedChanderVerse[1];
             if (!isPureNumber(verse)) {
-                String[] spitedVerse = verse.split("-");
+                String[] spitedVerse = verse.split(DASH_SIGN);
                 if (spitedVerse.length != 2) {
                     logErrorMessage("Verse contain invalid number of elements, verse", verse, fullReference);
                     return false;
@@ -75,6 +84,11 @@ public class ValidateBibleReferenceService {
             }
         }
         currentIndex++;
+
+        // Check if there is AND statement as next step
+        if (refElements.length != currentIndex && AND_SIGN.equals(refElements[currentIndex])) {
+            return isValidReferenceWithoutBookPartNumber(refElements, ++currentIndex, fullReference);
+        }
 
         // Check if there is nothing more
         if (refElements.length != currentIndex) {

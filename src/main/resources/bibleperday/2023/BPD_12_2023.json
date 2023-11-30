@@ -14,8 +14,8 @@
     {
       "date": "02-12-2023",
       "firstStandard": "Ps 31,10",
-      "secondStandard": "Mt 8,25-26 (BE)",
-      "firstAdditional": "Obj 21,10-14.21-27",
+      "secondStandard": "Mt 8,25-26",
+      "firstAdditional": "Obj 21,10-14 | Obj 21,21-27",
       "secondAdditional": "Iz 40,12-31",
       "quoteNotFromBible": "Spojrzyj na Jezusa, gdy cię gniecie krzyż, u nóg Jego spoczniesz, tam się śmiało zbliż! Słuchaj, jak cię woła: „Stół gotowy już”, spojrzyj na Jezusa, Jemu szczerze służ!",
       "quoteNotFromBibleReference": "ks. Henry Burton †1930, Śpiewnik ewangelicki 756, 4",
@@ -58,7 +58,7 @@
       "date": "04-12-2023",
       "firstStandard": "Iz 41,10",
       "secondStandard": "Mt 21,15",
-      "firstAdditional": "1 P 1,(8.9)10-13",
+      "firstAdditional": "1 P 1,8-13",
       "secondAdditional": "Iz 41,8-20",
       "quoteNotFromBible": "O Boże, Siło bezsilnych, wybrałeś sobie takich świadków, których głos nie jest słyszany. Daj i nam odwagę, aby trwać przy ogłaszaniu Twoich dzieł w mocy Jezusa Chrystusa.",
       "quoteNotFromBibleReference": "Janet Morley",
@@ -90,7 +90,7 @@
     {
       "date": "07-12-2023",
       "firstStandard": "Sdz 10,10",
-      "secondStandard": "Łk 1,76-77 (BE)",
+      "secondStandard": "Łk 1,76-77",
       "firstAdditional": "1 Tes 5,1-6",
       "secondAdditional": "Iz 43,8-13",
       "quoteNotFromBible": "Nie chciej lekceważyć grzechów twoich dlatego, że są małe, ale bój się, że są liczne, bo i krople deszczu są malutkie, a jednak napełniają rzeki, a później poruszają kamienie młyńskie i drzewa z korzeniami niosą.",
@@ -122,7 +122,7 @@
     },
     {
       "date": "10-12-2023",
-      "firstStandard": "5 Mż 3,24 (BE)",
+      "firstStandard": "5 Mż 3,24",
       "secondStandard": "1 Kor 12,6",
       "firstAdditional": "",
       "secondAdditional": "",
@@ -133,7 +133,7 @@
           "occasion": "WEEK",
           "title": "2. w Adwencie",
           "mainQuote": "Łk 21,28",
-          "psalm": "Ps 80,2-7.15-20",
+          "psalm": "Ps 80,2-7 | Ps 80,15-20",
           "worshipSongs": [
             "Powstańcie, chrześcijanie 19",
             "Chrystus Pan w swym przyjściu pierwszym 5"
@@ -147,7 +147,7 @@
         }
       ],
       "contemplationDTO": {
-        "bibleReference": "Obj 3,8.11",
+        "bibleReference": "Obj 3,8-11",
         "text": "Dwa zdania, pochodzące z Księgi Objawienia Jana, choć nie znajdują się obok siebie, to jednak bardzo dobrze się uzupełniają. Pierwsze z nich brzmi w sumie prosto i naturalnie, ale zawiera w sobie niepokojące stwierdzenie – Bóg nas zna, i to o wiele lepiej niż my sami siebie znamy. On nie patrzy na to, co każdy widzi, ale patrzy na serce, na nasze dobre, ale także na nie najlepsze strony. I tu zaczyna się problem, ale też i jego rozwiązanie, sprowadzające się do szczerości i pokory przed Bogiem. Jeśli więc w ten sposób spojrzymy na to stwierdzenie, to nie musi ono oznaczać, że jesteśmy na przegranej pozycji. Skoro Bóg nam przebaczył i obdarza zbawieniem, to my w odpowiedzi powinniśmy składać dobre świadectwo naszej wiary. To będzie oznaczać, że Jego przyjście będzie spotkaniem z dobrym Bogiem, bez lęku i trwogi. Skoro On mówi, że wkrótce przyjdzie, my możemy tylko dodać: Przyjdź, Panie Jezu.",
         "textReference": "Adam Malina"
       }
@@ -198,7 +198,7 @@
     },
     {
       "date": "15-12-2023",
-      "firstStandard": "Ps 107,23-24.31",
+      "firstStandard": "Ps 107,23-31",
       "secondStandard": "Dz 28,1-2",
       "firstAdditional": "Łk 22,66-71",
       "secondAdditional": "Iz 45,18-25",
@@ -230,7 +230,7 @@
         {
           "occasion": "WEEK",
           "title": "3. w Adwencie",
-          "mainQuote": "Iz 40,3.10",
+          "mainQuote": "Iz 40,3-10",
           "psalm": "Ps 85,2-8",
           "worshipSongs": [
             "Z powagą przygotujcie 29"
@@ -275,7 +275,7 @@
       "date": "20-12-2023",
       "firstStandard": "Ps 103,2-3",
       "secondStandard": "1 J 4,10",
-      "firstAdditional": "Jr 30,8-11a",
+      "firstAdditional": "Jr 30,8-11",
       "secondAdditional": "Iz 50,4-11",
       "quoteNotFromBible": "Taką miłością Tyś nas umiłował, Zbawco jedyny, gdyś przez swoje rany wieczne zbawienie grzesznym nam zgotował, do zgody wiodąc lud przez Cię wybrany.",
       "quoteNotFromBibleReference": "Śpiewnik ewangelicki 783, 4",
@@ -303,7 +303,7 @@
           "apostolicLesson": "2 Kor 4,1-6",
           "sermonTextList": [],
           "oldTestament": "",
-          "gospel": "J 14,1-6 lub J 20,19-29"
+          "gospel": "J 14,1-6 | J 20,19-29"
         }
       ],
       "contemplationDTO": null
@@ -312,7 +312,7 @@
       "date": "22-12-2023",
       "firstStandard": "1 Sm 12,15",
       "secondStandard": "Jk 1,25",
-      "firstAdditional": "Obj 22,(12-14)16.17.20.21",
+      "firstAdditional": "Obj 22,12-21",
       "secondAdditional": "Iz 51,9-16",
       "quoteNotFromBible": "Niechaj jedni słuchają drugich i uczą się jedni od drugich. Niechaj zapanuje dialog i współpraca w dążeniu do tego, by ci, którzy przyjdą po nas, zastali świat, w którym można i warto żyć.",
       "quoteNotFromBibleReference": "ks. Alfred Jagucki †2004",
@@ -342,7 +342,7 @@
         {
           "occasion": "WEEK",
           "title": "4. w Adwencie",
-          "mainQuote": "Flp 4,4.5",
+          "mainQuote": "Flp 4,4-5",
           "psalm": "Ps 102,17-23",
           "worshipSongs": [
             "Córko syjońska 9",
@@ -353,13 +353,13 @@
             "Iz 62,1-5"
           ],
           "oldTestament": "",
-          "gospel": "Łk 1,26-38(39-56)"
+          "gospel": "Łk 1,26-56"
         },
         {
           "occasion": "DAY",
           "title": "Wigilia Narodzenia Pańskiego",
-          "mainQuote": "Łk 2,10b-11",
-          "psalm": "Ps 96,1-3.7-13",
+          "mainQuote": "Łk 2,10-11",
+          "psalm": "Ps 96,1-13",
           "worshipSongs": [
             "Cudowna różdżka wzrosła 45"
           ],
@@ -390,7 +390,7 @@
           "occasion": "DAY",
           "title": "1. Dzień Świąt Narodzenia PańskiegoŚwięto Narodzenia Pańskiego",
           "mainQuote": "J 1,14",
-          "psalm": "Ps 96,1-3.7-13",
+          "psalm": "Ps 96,1-13",
           "worshipSongs": [
             "Pochwalon, Jezu Chryste, bądź 71"
           ],
@@ -399,13 +399,13 @@
             "2 Mż 2,1-10"
           ],
           "oldTestament": "",
-          "gospel": "J 1,1-5.9-14(16-18)"
+          "gospel": "J 1,1-18"
         },
         {
           "occasion": "DAY",
           "title": "Pasterka i jutrznia",
-          "mainQuote": "Łk 2,10b-11",
-          "psalm": "Ps 96,1-3.7-13",
+          "mainQuote": "Łk 2,10-11",
+          "psalm": "Ps 96,1-13",
           "worshipSongs": [
             "Pochwalon, Jezu Chryste, bądź 71",
             "Cicha noc, święta noc 41",
@@ -453,15 +453,15 @@
         {
           "occasion": "DAY",
           "title": "Uroczystość św. Szczepana Męczennika",
-          "mainQuote": "Ps 116,15.17",
-          "psalm": "Ps 31,2-6.8.9.16.17",
+          "mainQuote": "Ps 116,15-17",
+          "psalm": "Ps 31,2-9 | Ps 31,16-17",
           "worshipSongs": [
             "Pasterzom w świętej nocy 69"
           ],
-          "apostolicLesson": "VI – Dz 6,8-15;7,(1-54)55-60; III – Obj 7,9-12(13-17)",
+          "apostolicLesson": "Dz 6,8-15 | Dz 7,1-60 | Obj 7,9-17",
           "sermonTextList": [],
-          "oldTestament": "I – 2 Krn 24,19-21; IV – Jr 26,1-13",
-          "gospel": "V – Mt 10,16-22; II – Hbr 10,32-39"
+          "oldTestament": "2 Krn 24,19-21 | Jr 26,1-13",
+          "gospel": "Mt 10,16-22 | Hbr 10,32-39"
         }
       ],
       "contemplationDTO": {
@@ -488,7 +488,7 @@
             "Apostołów dziś wspomnijmy 244",
             "Zbudź, Panie, ducha ojców wiary 541"
           ],
-          "apostolicLesson": "1 J 1,1-4(5-10)",
+          "apostolicLesson": "1 J 1,1-10",
           "sermonTextList": [],
           "oldTestament": "",
           "gospel": "J 21,20-24"
@@ -508,13 +508,13 @@
         {
           "occasion": "DAY",
           "title": "Dzień niewinnych dzieci",
-          "mainQuote": "Ps 116,15.17",
+          "mainQuote": "Ps 116,15-17",
           "psalm": "Ps 8,2-10",
           "worshipSongs": [
             "Dziateczki, dziateczki 49",
             "Pasterzom w świętej nocy 69"
           ],
-          "apostolicLesson": "Obj 12,1-6(13-17)",
+          "apostolicLesson": "Obj 12,1-6 | Obj 12,13-17",
           "sermonTextList": [],
           "oldTestament": "Jr 31,15-17",
           "gospel": "Mt 2,13-18"
@@ -524,9 +524,9 @@
     },
     {
       "date": "29-12-2023",
-      "firstStandard": "5 Mż 30,2-3 (BE)",
+      "firstStandard": "5 Mż 30,2-3",
       "secondStandard": "Mk 1,15",
-      "firstAdditional": "1 J 4,12-16a",
+      "firstAdditional": "1 J 4,12-16",
       "secondAdditional": "Iz 54,1-10",
       "quoteNotFromBible": "Nikt nie posiada Boga tak, aby na Niego nie musiał czekać. A jednak nikt by też na Niego nie czekał, gdyby nie wiedział, że On już od dawna na niego czeka.",
       "quoteNotFromBibleReference": "ks. Dietrich Bonhoeffer †1945",
@@ -572,13 +572,13 @@
         {
           "occasion": "DAY",
           "title": "Zakończenie roku",
-          "mainQuote": "Ps 31,16a",
+          "mainQuote": "Ps 31,16",
           "psalm": "Ps 121",
           "worshipSongs": [
             "Już cicho rok nam zbiega 95",
             "Mą drogę znasz 869"
           ],
-          "apostolicLesson": "Rz 8,31b-39",
+          "apostolicLesson": "Rz 8,31-39",
           "sermonTextList": [
             "Kz 3,1-15"
           ],
