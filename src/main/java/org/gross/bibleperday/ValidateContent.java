@@ -1,8 +1,10 @@
 package org.gross.bibleperday;
 
+import org.apache.commons.lang3.StringUtils;
+import org.gross.bibleperday.dto.BiblePerDayContainer;
 import org.gross.bibleperday.dto.BiblePerDayDTO;
-import org.gross.bibleperday.dto.serializer.BpdSerializer;
 import org.gross.utils.FileUtils;
+import org.gross.utils.JsonUtils;
 
 import java.io.File;
 import java.util.List;
@@ -10,27 +12,31 @@ import java.util.List;
 public class ValidateContent {
 
     private static final int FIRST_MONTH = 1;
-    private static final int LAST_MONTH = 1;
+    private static final int LAST_MONTH = 12;
     private static final int YEAR = 2023;
 
     private static final String PATH_PREFIX = "bibleperday/" + YEAR + "/";
-    private static final BpdSerializer SERIALIZER = new BpdSerializer();
 
     public static void main(String[] args) {
         for (int month = FIRST_MONTH; month <= LAST_MONTH; month++) {
             File file = FileUtils.getFile(PATH_PREFIX + BiblePerDayDownloadService.getFileName(month, YEAR));
-            List<BiblePerDayDTO> biblePerDayList = SERIALIZER.defaultDeserialize(file);
-            List<String> allBibleReferences = biblePerDayList.stream().map(BiblePerDayDTO::getBibleReferences).flatMap(List::stream).toList();
+            BiblePerDayContainer biblePerDayList = JsonUtils.deserialize(file, BiblePerDayContainer.class);
+            List<String> allBibleReferences =
+                    biblePerDayList.getBiblePerDayList().stream()
+                                   .map(BiblePerDayDTO::getBibleReferences)
+                                   .flatMap(List::stream)
+                                   .filter(StringUtils::isNotBlank)
+                                   .toList();
 
             ValidateBibleReferenceService validateService = new ValidateBibleReferenceService();
             List<String> invalidReferences = validateService.getInvalidBibleReferences(allBibleReferences);
 
-            FileUtils.writeToFile(invalidReferences, getInvalidReferencesFileName(month, YEAR));
+            FileUtils.writeToFile(invalidReferences, getInvalidReferencesFileName(month));
         }
     }
 
-    private static String getInvalidReferencesFileName(int month, int year) {
-        return "Invalidate_ref_" + month + "_" + year + ".txt";
+    private static String getInvalidReferencesFileName(int month) {
+        return "Invalidate_ref_" + month + "_" + YEAR + ".txt";
     }
 
 }

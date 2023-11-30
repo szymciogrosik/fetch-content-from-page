@@ -1,512 +1,514 @@
-[
-	{
-		"date": "01-10-2023",
-		"firstStandard": "Iz 9,23",
-		"secondStandard": "Jk 3,18 (BE)",
-		"firstAdditional": "",
-		"secondAdditional": "",
-		"quoteNotFromBible": "Pokój jest matką wszelkiego dobra, źródłem wszelkiej radości.",
-		"quoteNotFromBibleReference": "Jan Chryzostom †407",
-		"specialOccasionList": [
-			{
-				"occasion": "WEEK",
-				"title": "17. po Trójcy Świętej",
-				"mainQuote": "1 J 5,4",
-				"psalm": "Ps 138",
-				"worshipSongs": [
-					"Kto chce, niech szuka innych dróg 638"
-				],
-				"apostolicLesson": "Rz 10,9-17(18)",
-				"sermonTextList": [
-					"Mk 9,17-27"
-				],
-				"oldTestament": "Iz 49,1-6",
-				"gospel": ""
-			},
-			{
-				"occasion": "DAY",
-				"title": "Dziękczynne Święto Żniw",
-				"mainQuote": "Ps 145,15",
-				"psalm": "Ps 104,10-15.27-30",
-				"worshipSongs": [
-					"Pieśń wznoszą usta 619",
-					"Czego chcesz od nas, Panie 248"
-				],
-				"apostolicLesson": "2 Kor 9,6-15",
-				"sermonTextList": [
-					"Łk 12,(13–14)15–21"
-				],
-				"oldTestament": "5 Mż 8,7-18",
-				"gospel": ""
-			}
-		],
-		"contemplationDTO": {
-			"bibleReference": "Łk 12,18-19",
-			"text": "To działa zawsze tak samo, mimo że mądrzy ludzie ostrzegają. Szczególnie pierwsze pokolenia chrześcijan były mocno wyczulone na niszczącą moc bogactwa i pieniędzy. To w tych czasach sugerowano, że jeśli mamy ich za dużo, to prawdopodobnie musieliśmy sobie przywłaszczyć coś, co Pan Bóg chciał dać komuś innemu. Ale może zamiast wpadać w panikę, gdy zostanie nam trochę więcej, to spróbujmy popatrzeć inaczej na całą sytuację.\nW przypowieści Jezusa wszystko zaczyna się pozytywnie: pole przyniosło obfity plon, czyli Pan Bóg szczodrze pobłogosławił. Problem pojawił się później, gdy obfitość zdominowała myślenie tego człowieka i kazała mu szukać sposobów jego zagospodarowania.\nPodobno pieniądze to nie wszystko, ale bez nich nie ma nic. Między tym, co wystarczy, a tym co już za dużo, jest cienka linia, bardzo względna. Niektórym potrzeba 100 zł, aby czuć się królem świata, a dla innych pułap jest zupełnie gdzie indziej. Jeśli mamy pieniądze, to jeszcze nic złego. Ważne, żeby pieniądze nas nie miały i wtedy będzie jeszcze lepiej, bo zawsze można zrobić przy ich pomocy naprawdę coś dobrego.",
-			"textReference": "Adam Malina"
-		}
-	},
-	{
-		"date": "02-10-2023",
-		"firstStandard": "Iz 30,26",
-		"secondStandard": "1 P 2,24",
-		"firstAdditional": "Hbr 11,1-7",
-		"secondAdditional": "Mt 21,1-11",
-		"quoteNotFromBible": "I cóż Cię to skłoniło, żeś do nas zstąpił rad i swej miłości siłą podźwignął z nędzy świat? To ból nasz i cierpienie, to znoju pot i krew, to naszych łez strumienie przemogły słuszny gniew.",
-		"quoteNotFromBibleReference": "ks. Paweł Gerhardt †1676, Śpiewnik ewangelicki 11, 5",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "03-10-2023",
-		"firstStandard": "Ps 16,1 (BE)",
-		"secondStandard": "Mt 6,13",
-		"firstAdditional": "1 Mż 15,1-6",
-		"secondAdditional": "Mt 21,12-17",
-		"quoteNotFromBible": "Chrystus wie, że w godzinie pokuszenia opuszczą go wszystkie siły. Dlatego pokuszenie jest dla Niego ciemną godziną – nieodwołalną. Dlatego nie dąży do zachowania swojej mocy, ale modli się: Nie wódź nas na pokuszenie.",
-		"quoteNotFromBibleReference": "ks. Dietrich Bonhoeffer †1945",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "04-10-2023",
-		"firstStandard": "5 Mż 8,7",
-		"secondStandard": "Dz 14,17",
-		"firstAdditional": "Łk 7,1-10",
-		"secondAdditional": "Mt 21,18-22",
-		"quoteNotFromBible": "Dobry Panie i Boże, ochraniaj łaskawie plony na polach i w ogrodach. Oczyść powietrze. Daj deszcz i dobrą pogodę we właściwym czasie. Spraw, aby rodziły się zdrowe owoce. Niech nie będą zatrute, abyśmy ani my, ani bydło nie zachorowali.",
-		"quoteNotFromBibleReference": "Marcin Luter †1546",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "05-10-2023",
-		"firstStandard": "Joz 21,45",
-		"secondStandard": "Łk 13,17",
-		"firstAdditional": "Dz 5,34-42",
-		"secondAdditional": "Mt 21,23-27",
-		"quoteNotFromBible": "On, wieczny Bóg, zsyła obficie swoje błogosławieństwo każdego dnia, w każdym oddechu, który trzyma mnie przy życiu, w każdym przyjaznym spojrzeniu, w każdej pociesze, która mnie dotyka, i w każdej radości, która rozjaśnia moje życie.",
-		"quoteNotFromBibleReference": "Katharina Schridde",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "06-10-2023",
-		"firstStandard": "Jr 7,23",
-		"secondStandard": "J 8,31",
-		"firstAdditional": "Hbr 12,1-3",
-		"secondAdditional": "Mt 21,28-32",
-		"quoteNotFromBible": "Mówię „tak” Temu, który mnie stworzył. Mówię „tak” Jego Słowu i wezwaniu, „tak” Założycielowi i Stwórcy świata, a On trzyma mnie w swoich dłoniach.",
-		"quoteNotFromBibleReference": "Okko Herlyn",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "07-10-2023",
-		"firstStandard": "1 Krl 18,37",
-		"secondStandard": "Łk 22,32",
-		"firstAdditional": "Mt 14,22-33",
-		"secondAdditional": "Mt 21,33-46",
-		"quoteNotFromBible": "Panie, chcemy mieć Twoją prawdę przed oczami. Niech wobec Twojej jasności ustępują kłamstwo i oszustwo. Słuchajmy w ciszy Twojego planu i czyńmy to, co Twoja wola nam objawiła.",
-		"quoteNotFromBibleReference": "Liselotte Corbach †2002",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "08-10-2023",
-		"firstStandard": "Ps 16,6 (BE)",
-		"secondStandard": "2 Kor 9,8",
-		"firstAdditional": "",
-		"secondAdditional": "",
-		"quoteNotFromBible": "Drogą życia aż po zgon w imię Zbawcy idźmy wszędzie; gdy przewodnią gwiazdą On, wszystko dobrem dla nas będzie. Mroki nam rozproszy blask przeobfitych Jego łask.",
-		"quoteNotFromBibleReference": "ks. Benjamin Schmolck †1737, Śpiewnik ewangelicki 94, 3",
-		"specialOccasionList": [
-			{
-				"occasion": "WEEK",
-				"title": "18. Po Trójcy Świętej",
-				"mainQuote": "1 J 4,21",
-				"psalm": "Ps 1",
-				"worshipSongs": [
-					"Kto mówi: „Boga ja miłuję” 825",
-					"Chcę kochać Ciebie 781"
-				],
-				"apostolicLesson": "Ef 5,15-20",
-				"sermonTextList": [
-					"2 Mż 20,1-17"
-				],
-				"oldTestament": "",
-				"gospel": "Mk 10,17-27"
-			}
-		],
-		"contemplationDTO": {
-			"bibleReference": "2 Mż 20,1",
-			"text": "Wiele słów kieruje do nas Bóg w swoim Słowie. Dziś jednak przychodzi z przesłaniem, które nazywamy Dekalogiem, czyli 10 przykazaniami. Nauczamy, że mają one charakter ponadczasowy i uniwersalny. Dotyczą relacji człowieka z Bogiem oraz człowieka z drugim człowiekiem. Prawdopodobnie większość chrześcijan nie umiałaby wymienić wszystkich. Jednak Bóg nieprzerwanie kieruje je w naszą stronę, bo wie, że właśnie te zasady najlepiej regulują naszą codzienność – oczywiście, jeśli je wypełniamy.\nZostały nadane na pustyni. Ich zasadniczym celem jest wyprowadzić człowieka z duchowej pustyni ku pełni radosnego i szczęśliwego życia. Wielu postrzega je jako Boży zamach na naszą wolność, a naprawdę jest odwrotnie: Bóg nadał przykazania, aby uczynić nas wolnymi. Pierwszą zasadą wolności jest szacunek wobec Boga, bo inaczej stajemy się niewolnikami dawnych i współczesnych bożków. Zespół Mate.O śpiewał w jednej pieśni, że „musisz komuś służyć – może to być diabeł, a może być Bóg”. Warto przypomnieć sobie cały Dekalog i odkryć wolność, którą z sobą niesie.",
-			"textReference": "Mirosław Czyż"
-		}
-	},
-	{
-		"date": "09-10-2023",
-		"firstStandard": "Prz 10,2",
-		"secondStandard": "Łk 19,8",
-		"firstAdditional": "1 Tes 4,9-12",
-		"secondAdditional": "Mt 22,1-14",
-		"quoteNotFromBible": "Bóg nie potępia bogactwa, ale tych, którzy w bogactwach pokładają swoje serce. Istotnie nie oddalił Zacheusza, który był bogaty, ale wszedłszy do jego domu, przyniósł mu błogosławieństwo i zdrowie.",
-		"quoteNotFromBibleReference": "Albert Wielki †1280",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "10-10-2023",
-		"firstStandard": "So 3,12",
-		"secondStandard": "1 Kor 1,28-29",
-		"firstAdditional": "Ga 5,13-18",
-		"secondAdditional": "Mt 22,15-22",
-		"quoteNotFromBible": "W jednym tylko przypadku rada nie zawadzi. W jakim? Gdy się Pokora u Mądrości radzi.",
-		"quoteNotFromBibleReference": "Adam Mickiewicz †1855",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "11-10-2023",
-		"firstStandard": "Iz 25,4",
-		"secondStandard": "2 Kor 4,11",
-		"firstAdditional": "Pnp 8,4-7",
-		"secondAdditional": "Mt 22,23-33",
-		"quoteNotFromBible": "Jesteś szczególnie bliski wszystkim upokorzonym, rozdartym, niepocieszonym, opuszczonym ludziom, Boże, który pocieszasz. Ufajmy Tobie!",
-		"quoteNotFromBibleReference": "Kathrin Oxen",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "12-10-2023",
-		"firstStandard": "Ps 109,26",
-		"secondStandard": "Mt 14,30-31",
-		"firstAdditional": "Mk 3,31-35",
-		"secondAdditional": "Mt 22,34-46",
-		"quoteNotFromBible": "Kiedy milczę Ty przy mnie trwasz. Kiedy pytam, odpowiedź masz. Twoja miłość przystanią jest, a kiedy tonę Ty ratujesz mnie.",
-		"quoteNotFromBibleReference": "zespół Rend Collective",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "13-10-2023",
-		"firstStandard": "Dn 4,32",
-		"secondStandard": "1 P 5,6",
-		"firstAdditional": "Rz (14,20b-15,1)15,2-6",
-		"secondAdditional": "Mt 23,1-22",
-		"quoteNotFromBible": "O Boże, którego piękno przekracza nasze wyobrażenie, i którego mocy nie jesteśmy w stanie pojąć, okaż nam swoją boskość na tyle, na ile możemy ją zrozumieć. Chroń nas od tego, byśmy chcieli wiedzieć więcej niż jesteśmy w stanie znieść, abyśmy mogli patrzeć na Ciebie bez lęku, przez Jezusa Chrystusa.",
-		"quoteNotFromBibleReference": "Janet Morley",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "14-10-2023",
-		"firstStandard": "Hi 17,3",
-		"secondStandard": "Rz 8,34",
-		"firstAdditional": "Mt 5,17-20",
-		"secondAdditional": "Mt 23,23-39",
-		"quoteNotFromBible": "To światłość z wysokości, kochany Jezus mój; to grunt mej bezpieczności, żywiącej wody zdrój. To klejnot, co bez skaz, pochodnia nogi mojej i jasność, w której stoję, to wielki Zbawca nasz.",
-		"quoteNotFromBibleReference": "Ernst M. Arndt †1860, Śpiewnik ewangelicki 652, 3",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "15-10-2023",
-		"firstStandard": "Prz 29,7",
-		"secondStandard": "Łk 14,13-14",
-		"firstAdditional": "",
-		"secondAdditional": "",
-		"quoteNotFromBible": "Uczyń mnie sługą pokornym już dziś, bym tych, co słabi są podnieść mógł też. Niechaj modlitwa serca mojego brzmi. Uczyń mnie sługą już dziś.",
-		"quoteNotFromBibleReference": "Kelly Willard, Śpiewnik ewangelicki 760",
-		"specialOccasionList": [
-			{
-				"occasion": "WEEK",
-				"title": "19. po Trójcy Świętej",
-				"mainQuote": "Jr 17,14",
-				"psalm": "Ps 32,1-7",
-				"worshipSongs": [
-					"Chwałę Bogu oddajmy 585"
-				],
-				"apostolicLesson": "",
-				"sermonTextList": [
-					"Jk 5,13-16"
-				],
-				"oldTestament": "Iz 38,9-20",
-				"gospel": "Mk 2,1-12"
-			}
-		],
-		"contemplationDTO": {
-			"bibleReference": "Jk 5,13",
-			"text": "Modlitwa i śpiew. Cierpienie i radość. A może: cierpienie i śpiew, radość i modlitwa dziękczynna? Co podpowiada nam apostoł Jakub? Rzeczy fundamentalne, które właściwie dzieją się co rusz: trwoga, smutek, cierpienie – same zapraszają do modlitwy. Radość zaś pobudza do śpiewu. Ale jak naprawdę jest w życiu? Modlitwa Hiskiasza (2 Krl 20,1nn) – tak mi bliska od czasów terminalnej choroby ukochanej osoby, śpiew znanej pieśni, jej trzeciej zwrotki, rozpoczynającej się od słów: „niech ufam Twojej mocy w najgorszy czas” – są moją tarczą, ochroną przed pogrążeniem się w rozpaczy. Gdy ta mnie mimo to dopada, znajduję inne pieśni i modlę się psalmami. Zaczynam powtarzać swoje ważne i ulubione wersety, i nagle odkrywam, że blisko mi już do błogosławienia, ukojenia, wdzięczności. Moc modlitwy jest realna nie tylko w czasach apostoła Jakuba!",
-			"textReference": "Aleksandra Błahut-Kowalczyk"
-		}
-	},
-	{
-		"date": "16-10-2023",
-		"firstStandard": "Ps 103,10",
-		"secondStandard": "Ef 4,32",
-		"firstAdditional": "2 Mż 15,22-27",
-		"secondAdditional": "Jk 1,1-12",
-		"quoteNotFromBible": "Kto uczciwie traktuje sprawę swego wewnętrznego życia, swą postawę wobec Boga, ten zna wyjście ze stresów duchowych. Jest tylko jedna możliwość ich rozładowania – otwarte, rzetelne, uczciwe wyznanie. Odpowiedź Boga jest zawsze ta sama – odpuszczenie. Uczciwe stanowisko, zerwanie z wykrętnym oszukiwaniem siebie, z przyczajoną postawą wobec Boga, ze skrytym lawirowaniem w życiu wewnętrznym, rzetelna ocena własnego życia, otwarcie się dla Boga – przynosi upragnioną ulgę i pokój.",
-		"quoteNotFromBibleReference": "ks. Tadeusz Wojak †2000",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "17-10-2023",
-		"firstStandard": "Ps 91,11-12",
-		"secondStandard": "Mt 2,13",
-		"firstAdditional": "Łk 5,12-16",
-		"secondAdditional": "Jk 1,13-18",
-		"quoteNotFromBible": "W Pańskim imieniu w drogę się udaję, w obronę Jego ufnie się oddaję. Boże mój, wejrzyj okiem swej miłości. Na me potrzeby poślij z wysokości Anioła swego, który by mnie bronił i od złych ludzi, od przygód zasłonił.",
-		"quoteNotFromBibleReference": "ks. Jerzy Trzanowski †1637, Śpiewnik ewangelicki 881, 1",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "18-10-2023",
-		"firstStandard": "Ps 140,13",
-		"secondStandard": "Łk 6,20",
-		"firstAdditional": "",
-		"secondAdditional": "",
-		"quoteNotFromBible": "Pan w sądach prawych wciąż nie ustaje. Sam swoich wiernych koi łzy, krzepi strudzonych, a głodnym daje pokarm po wszystkie życia dni. Pęta niewoli zrywa Pan, niechaj Mu pokłon będzie dan. Alleluja, alleluja!",
-		"quoteNotFromBibleReference": "bp Johann D. Herrnschmidt †1723, Śpiewnik ewangelicki 586, 3",
-		"specialOccasionList": [
-			{
-				"occasion": "DAY",
-				"title": "Dzień ewangelisty Łukasza",
-				"mainQuote": "Iz 52,7",
-				"psalm": "",
-				"worshipSongs": [
-					"Apostołów dziś wspomnijmy 244",
-					"Zbudź, Panie, ducha ojców wiary 541"
-				],
-				"apostolicLesson": "2 Tm 4,5-11",
-				"sermonTextList": [],
-				"oldTestament": "",
-				"gospel": "Łk 1,1-4"
-			}
-		],
-		"contemplationDTO": null
-	},
-	{
-		"date": "19-10-2023",
-		"firstStandard": "1 Sm 2,30",
-		"secondStandard": "Rz 2,4",
-		"firstAdditional": "Jr 17,14-17",
-		"secondAdditional": "Jk 2,1-13",
-		"quoteNotFromBible": "Syn Boży, Zbawiciel, dał za nas swe życie i za nas na krzyżu On przelał swą krew. W niej mamy zdrój łaski i z grzechów obmycie, w niej Boży przejednan po wieki już gniew. Baranek bez winy, Pośrednik jedyny purpurą swą grzechy rozliczne me zmazał – o jakąż On miłość bezdenną okazał!",
-		"quoteNotFromBibleReference": "ks. Robert Gundlach †1922, Śpiewnik ewangelicki 631,2",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "20-10-2023",
-		"firstStandard": "2 Mż 33,11",
-		"secondStandard": "J 15,15",
-		"firstAdditional": "Mt 8,14-17",
-		"secondAdditional": "Jk 2,14-26",
-		"quoteNotFromBible": "Nigdy nie zapominaj o tym, że Bóg uczynił z ciebie swego przyjaciela.",
-		"quoteNotFromBibleReference": "Jan Chryzostom †407",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "21-10-2023",
-		"firstStandard": "Jr 17,7-8",
-		"secondStandard": "Ga 5,22-23",
-		"firstAdditional": "Łk 13,10-17",
-		"secondAdditional": "Jk 3,1-12",
-		"quoteNotFromBible": "Opoko i żywocie nasz, swym słodkim słowem lud swój darz, niech w duszach naszych płonie. Strumienie prawdy na nas zlej, by święty żar miłości Twej rozgorzał w każdym łonie. Ciebie w niebie uwielbiamy i błagamy o natchnienie. Prawe obudź w nas sumienie.",
-		"quoteNotFromBibleReference": "ks. Michael Schirmer †1673, Śpiewnik ewangelicki 221, 5",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "22-10-2023",
-		"firstStandard": "3 Mż 19,17",
-		"secondStandard": "Ga 6,1",
-		"firstAdditional": "",
-		"secondAdditional": "",
-		"quoteNotFromBible": "Tak postępujmy, aby nikt nie mógł o nas mówić źle bez kłamstwa.",
-		"quoteNotFromBibleReference": "Hieronim ze Strydonu †420",
-		"specialOccasionList": [
-			{
-				"occasion": "WEEK",
-				"title": "20. po Trójcy Świętej",
-				"mainQuote": "Mi 6,8",
-				"psalm": "Ps 119,101-108",
-				"worshipSongs": [
-					"Będziesz miłował 822",
-					"Pomóż mi, Jezu, miłować 831"
-				],
-				"apostolicLesson": "2 Kor 3,3-6(7-9)",
-				"sermonTextList": [
-					"Mk 10,2-9(10-12)13-16"
-				],
-				"oldTestament": "1 Mż 8,18–22; 9,12–17",
-				"gospel": ""
-			}
-		],
-		"contemplationDTO": {
-			"bibleReference": "Mk 10,13-14",
-			"text": "Nie do wiary! Uczniowie niby tacy kulturalni i niekonfliktowi, a ich nauczyciel to wzór wstrzemięźliwości w słowach i uczynkach. A tutaj poszło na ostro. Nie wiemy jakie słowa padły z ust uczniów. Może i dobrze, że ewangelista Marek nie zapisał tych słów, bo kto wie, może mówcą był jego mentor, czyli apostoł Piotr? Może to było coś w stylu z Kordiana J. Słowackiego, gdzie „ksiądz pleban na odpuście, przeciw dziatkom i rozpuście, grzmiał jak piorun na ambonie”. Może jakiś cytat z filmowego Adasia Miauczyńskiego? Wiemy tylko, że uczniowie „gromili” dzieci albo jak chcą inni tłumacze „szorstko” lub „surowo” zabraniali im podchodzić do Jezusa. Jednak jemu nie spodobało się, że jego uczniowie chcieli być ochroniarzami Królestwa Bożego i oburzył się na ich zachowanie.\nMy też czasami zachowujemy się podobnie do uczniów – stawiamy bariery, warunki, żądamy zaświadczeń, załączników i pieczątek. Dobrze, że nie wszystko zostaje zapisane, choć z drugiej strony przecież z każdego niepotrzebnego słowa zdamy kiedyś rachunek.",
-			"textReference": "Adam Malina"
-		}
-	},
-	{
-		"date": "23-10-2023",
-		"firstStandard": "Dn 6,27",
-		"secondStandard": "Ef 1,22",
-		"firstAdditional": "2 Tes 3,6-13",
-		"secondAdditional": "Jk 3,13-18",
-		"quoteNotFromBible": "Naszą największą radością, Panie, wszechmogący Boże, jest śpiewanie Ci i chwalenie Cię po wszystkie czasy, dziękowanie Ci i wielbienie Cię na wszystkich miejscach; gdyż Ty jesteś Bogiem, Ty i Twój jednorodzony Syn i Twój Duch Święty.",
-		"quoteNotFromBibleReference": "z liturgii Braci czeskich",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "24-10-2023",
-		"firstStandard": "Ps 40,6",
-		"secondStandard": "Kol 2,3",
-		"firstAdditional": "Rz 13,1-7",
-		"secondAdditional": "Jk 4,1-12",
-		"quoteNotFromBible": "Możemy więcej, gdy wierzymy że ciągle żyjesz pośród nas. Z Tobą wszystko jest możliwe, uciszyć możesz sztorm i wiatr. Nigdy mnie nie zawiedzie, nigdy mnie nie opuści Twoja moc.",
-		"quoteNotFromBibleReference": "zespół Pathlife",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "25-10-2023",
-		"firstStandard": "Ps 22,28",
-		"secondStandard": "Mt 13,33",
-		"firstAdditional": "Ef 5,25-32",
-		"secondAdditional": "Jk 4,13-17",
-		"quoteNotFromBible": "Tak jak jest rzeczą niemożliwą, aby oddzielić kwas od ciasta, w którym został on rozczyniony, gdyż zmienił on naturę ciasta, tak samo jest niemożliwe oddzielenie chrześcijan od Chrystusa. Gdyż Chrystus tak się z nimi zespolił jak kwas i są jednym ciałem, jedną masą, jednym ciastem, jednym chlebem.",
-		"quoteNotFromBibleReference": "Marcin Luter †1546",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "26-10-2023",
-		"firstStandard": "Iz 50,4",
-		"secondStandard": "Dz 16,14",
-		"firstAdditional": "1 Kor 14,26-33",
-		"secondAdditional": "Jk 5,1-6",
-		"quoteNotFromBible": "Kiedy ranne wstają zorze, Tobie ziemia, Tobie morze, Tobie śpiewa żywioł wszelki: Bądź pochwalon Boże wielki!",
-		"quoteNotFromBibleReference": "Franciszek Karpiński †1825, Śpiewnik ewangelicki 480, 1",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "27-10-2023",
-		"firstStandard": "Ps 27,1",
-		"secondStandard": "Flp 4,13",
-		"firstAdditional": "J 18,28-32",
-		"secondAdditional": "Jk 5,7-12",
-		"quoteNotFromBible": "Dobry Boże, który jesteś źródłem życia, pomóż nam szanować wszystkich ludzi i akceptować ich wyjątkowość. Pomóż nam szanować cuda przyrody i z całej siły je chronić. Pomóż nam wspierać siebie nawzajem w drodze do wolności, sprawiedliwości i pokoju jako równoprawnych członków Twojej rodziny.",
-		"quoteNotFromBibleReference": "modlitwa ze Słowenii",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "28-10-2023",
-		"firstStandard": "Iz 38,17",
-		"secondStandard": "1 J 3,19-20",
-		"firstAdditional": "",
-		"secondAdditional": "",
-		"quoteNotFromBible": "Stoję teraz tutaj z moją winą i nie wiem, co robić. A znam tylko Ciebie i Twoją łaskę. O Panie, zmiłuj się nade mną.",
-		"quoteNotFromBibleReference": "Arno Pötzsch †1956",
-		"specialOccasionList": [
-			{
-				"occasion": "DAY",
-				"title": "Dzień apostołów Szymona i Judy Tadeusza",
-				"mainQuote": "Iz 52,7",
-				"psalm": "",
-				"worshipSongs": [
-					"Apostołów dziś wspomnijmy 244",
-					"Zbudź, Panie, ducha ojców wiary 541"
-				],
-				"apostolicLesson": "Ef 4,7-13",
-				"sermonTextList": [],
-				"oldTestament": "",
-				"gospel": "J 15,17-25"
-			}
-		],
-		"contemplationDTO": null
-	},
-	{
-		"date": "29-10-2023",
-		"firstStandard": "Iz 57,11",
-		"secondStandard": "Rz 8,15",
-		"firstAdditional": "",
-		"secondAdditional": "",
-		"quoteNotFromBible": "Wyznaję sercem chrobrym i rad się chlubię tym, że Bóg najwyższym dobrem, troskliwym Ojcem mym. Po mej prawicy stale mnie w życiu wspierać chce, burz ścisza moc i fale i to, co boli mnie.",
-		"quoteNotFromBibleReference": "ks. Paweł Gerhardt †1676, Śpiewnik ewangelicki 635, 2",
-		"specialOccasionList": [
-			{
-				"occasion": "WEEK",
-				"title": "21. po Trójcy Świętej",
-				"mainQuote": "Rz 12,21",
-				"psalm": "Ps 19,8-14",
-				"worshipSongs": [
-					"Ach, Boże, spojrzyj z nieba 577",
-					"Wszyscy, co składają 711"
-				],
-				"apostolicLesson": "Ef 6,10-17",
-				"sermonTextList": [
-					"1 Mż 13,1-12(13-18)"
-				],
-				"oldTestament": "",
-				"gospel": "Mt 5,38-48"
-			}
-		],
-		"contemplationDTO": {
-			"bibleReference": "1 Mż 13,1a.3a",
-			"text": "W czasach antycznych napotkamy dwóch wielkich wędrowców. Z mitologii greckiej dowiadujemy się o królu Itaki imieniem Odyseusz. Wyruszył on na wojnę, a potem przez wiele lat podróżował, by dotrzeć z powrotem do swojej ojczyzny. Wrócił do punktu, z którego wyruszył.\nDzieje drugiego bohatera – o imieniu Abram, zostały przedstawione w Biblii. Jego wędrówka zaczęła się w punkcie A, czyli w Ur chaldejskim, ale zakończyła się w punkcie B – w Kanaanie. Do miejsca swoich narodzin nigdy nie wrócił. Obaj zyskali wielkie życiowe doświadczenie w czasie podróży. Historie obu przypominają losy wielu z nas – albo wracamy w swoje rodzinne strony, albo osiadamy w całkowicie innym miejscu. Od Abrama możemy się nauczyć pewnej zasady. On wiedział, że Bóg idzie z nim i mu błogosławi, dlatego w ważnych miejscach budował ołtarz, aby wzywać imienia Pana i oddać Mu chwałę (w. 4 i 18).\nKażda niedziela jest przypomnieniem, że przebyliśmy kolejny odcinek drogi swego życia. Przychodzimy do ważnego miejsca, do kościoła, aby podziękować Bogu za Jego błogosławieństwo. Od Abrama wiemy, że taka postawa jest właściwa i podoba się Panu.",
-			"textReference": "Mirosław Czyż"
-		}
-	},
-	{
-		"date": "30-10-2023",
-		"firstStandard": "Iz 32,17",
-		"secondStandard": "1 J 2,29",
-		"firstAdditional": "1 Sm 19,1-7",
-		"secondAdditional": "Hi 1,1-22",
-		"quoteNotFromBible": "Prosimy o taką sprawiedliwość, która czyni nas łagodnymi, a nie srogimi. Która jest słuszna dla słabego, a nie dogadza każdemu. Która nie poniża ludzi, ale zgłębia niesprawiedliwość. Która występuje przeciw roszczeniom i wyłamuje się spod nieumiarkowanej władzy ludzkiej. Bądź Ty naszą sprawiedliwością.",
-		"quoteNotFromBibleReference": "Susanne Sandherr",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "31-10-2023",
-		"firstStandard": "Iz 64,6",
-		"secondStandard": "Łk 15,21-22",
-		"firstAdditional": "",
-		"secondAdditional": "",
-		"quoteNotFromBible": "O Panie Jezus Chryste, Ty jesteś moją sprawiedliwością, a ja Twoim grzechem. Wziąłeś na siebie to, co moje, i dałeś mi to, co Twoje. Wziąłeś na siebie to, czym nie byłeś, i dałeś mi to, czym ja nie byłem.",
-		"quoteNotFromBibleReference": "Marcin Luter †1546",
-		"specialOccasionList": [
-			{
-				"occasion": "DAY",
-				"title": "Pamiątka Reformacji",
-				"mainQuote": "1 Kor 3,11",
-				"psalm": "Ps 46,2-8",
-				"worshipSongs": [
-					"Warownym grodem 265",
-					"Grodem mocnym 259",
-					"Zachowaj nas przy Słowie swym 266"
-				],
-				"apostolicLesson": "Rz 3,21-28",
-				"sermonTextList": [],
-				"oldTestament": "5 Mż 6,4-9",
-				"gospel": ""
-			}
-		],
-		"contemplationDTO": {
-			"bibleReference": "Mt 5,1-2",
-			"text": "Przeglądam w telefonie komórkowym fotografie. Wzrok skupia się na zdjęciu malowniczego regionu położonego w południowo-wschodniej części Półwyspu Apenińskiego o wdzięcznej nazwie Apulia. Śliczna kraina kontra świat rzeczywisty, rozdarty, brudny od waśni i zagrożeń, odarty ze złudzeń, pogrążony w wojennej i powojennej żałobie. A jednak w tym świecie złym i w złym czasie zdarzają się takie małe, metaforycznie mówiąc, Apulie. Małe cuda, okruchy radości, wdzięczności, jak wysepki rozkwitłych kwiatów w monotonii zniszczonej wojną przyrody. Zdarzają się takie chwile wytchnienia żywej modlitwy, żywych spotkań, gdzie nawet dźwięk dzwonów sprawia radość, bo oznacza normalność ustalonych pór nabożeństw.\nCzy tak było, gdy On nauczał i wypowiedział osiem wiekopomnych błogosławieństw? Nie wiem. Wiem jednak na pewno, że tęsknota za bliskością Pana Jezusa jest wciąż ta sama. Wiem, że takie momenty spotkania ze Słowem Bożym dają wewnętrzną radość, również w Pamiątkę Reformacji, gdy wybrzmiewa z ambon: sola Scriptura, solus Christus, sola gratia per fidem.",
-			"textReference": "Aleksandra Błahut-Kowalczyk"
-		}
-	}
-]
+{
+  "biblePerDayList": [
+    {
+      "date": "01-10-2023",
+      "firstStandard": "Iz 9,23",
+      "secondStandard": "Jk 3,18 (BE)",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Pokój jest matką wszelkiego dobra, źródłem wszelkiej radości.",
+      "quoteNotFromBibleReference": "Jan Chryzostom †407",
+      "specialOccasionList": [
+        {
+          "occasion": "WEEK",
+          "title": "17. po Trójcy Świętej",
+          "mainQuote": "1 J 5,4",
+          "psalm": "Ps 138",
+          "worshipSongs": [
+            "Kto chce, niech szuka innych dróg 638"
+          ],
+          "apostolicLesson": "Rz 10,9-17(18)",
+          "sermonTextList": [
+            "Mk 9,17-27"
+          ],
+          "oldTestament": "Iz 49,1-6",
+          "gospel": ""
+        },
+        {
+          "occasion": "DAY",
+          "title": "Dziękczynne Święto Żniw",
+          "mainQuote": "Ps 145,15",
+          "psalm": "Ps 104,10-15.27-30",
+          "worshipSongs": [
+            "Pieśń wznoszą usta 619",
+            "Czego chcesz od nas, Panie 248"
+          ],
+          "apostolicLesson": "2 Kor 9,6-15",
+          "sermonTextList": [
+            "Łk 12,(13–14)15–21"
+          ],
+          "oldTestament": "5 Mż 8,7-18",
+          "gospel": ""
+        }
+      ],
+      "contemplationDTO": {
+        "bibleReference": "Łk 12,18-19",
+        "text": "To działa zawsze tak samo, mimo że mądrzy ludzie ostrzegają. Szczególnie pierwsze pokolenia chrześcijan były mocno wyczulone na niszczącą moc bogactwa i pieniędzy. To w tych czasach sugerowano, że jeśli mamy ich za dużo, to prawdopodobnie musieliśmy sobie przywłaszczyć coś, co Pan Bóg chciał dać komuś innemu. Ale może zamiast wpadać w panikę, gdy zostanie nam trochę więcej, to spróbujmy popatrzeć inaczej na całą sytuację.\nW przypowieści Jezusa wszystko zaczyna się pozytywnie: pole przyniosło obfity plon, czyli Pan Bóg szczodrze pobłogosławił. Problem pojawił się później, gdy obfitość zdominowała myślenie tego człowieka i kazała mu szukać sposobów jego zagospodarowania.\nPodobno pieniądze to nie wszystko, ale bez nich nie ma nic. Między tym, co wystarczy, a tym co już za dużo, jest cienka linia, bardzo względna. Niektórym potrzeba 100 zł, aby czuć się królem świata, a dla innych pułap jest zupełnie gdzie indziej. Jeśli mamy pieniądze, to jeszcze nic złego. Ważne, żeby pieniądze nas nie miały i wtedy będzie jeszcze lepiej, bo zawsze można zrobić przy ich pomocy naprawdę coś dobrego.",
+        "textReference": "Adam Malina"
+      }
+    },
+    {
+      "date": "02-10-2023",
+      "firstStandard": "Iz 30,26",
+      "secondStandard": "1 P 2,24",
+      "firstAdditional": "Hbr 11,1-7",
+      "secondAdditional": "Mt 21,1-11",
+      "quoteNotFromBible": "I cóż Cię to skłoniło, żeś do nas zstąpił rad i swej miłości siłą podźwignął z nędzy świat? To ból nasz i cierpienie, to znoju pot i krew, to naszych łez strumienie przemogły słuszny gniew.",
+      "quoteNotFromBibleReference": "ks. Paweł Gerhardt †1676, Śpiewnik ewangelicki 11, 5",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "03-10-2023",
+      "firstStandard": "Ps 16,1 (BE)",
+      "secondStandard": "Mt 6,13",
+      "firstAdditional": "1 Mż 15,1-6",
+      "secondAdditional": "Mt 21,12-17",
+      "quoteNotFromBible": "Chrystus wie, że w godzinie pokuszenia opuszczą go wszystkie siły. Dlatego pokuszenie jest dla Niego ciemną godziną – nieodwołalną. Dlatego nie dąży do zachowania swojej mocy, ale modli się: Nie wódź nas na pokuszenie.",
+      "quoteNotFromBibleReference": "ks. Dietrich Bonhoeffer †1945",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "04-10-2023",
+      "firstStandard": "5 Mż 8,7",
+      "secondStandard": "Dz 14,17",
+      "firstAdditional": "Łk 7,1-10",
+      "secondAdditional": "Mt 21,18-22",
+      "quoteNotFromBible": "Dobry Panie i Boże, ochraniaj łaskawie plony na polach i w ogrodach. Oczyść powietrze. Daj deszcz i dobrą pogodę we właściwym czasie. Spraw, aby rodziły się zdrowe owoce. Niech nie będą zatrute, abyśmy ani my, ani bydło nie zachorowali.",
+      "quoteNotFromBibleReference": "Marcin Luter †1546",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "05-10-2023",
+      "firstStandard": "Joz 21,45",
+      "secondStandard": "Łk 13,17",
+      "firstAdditional": "Dz 5,34-42",
+      "secondAdditional": "Mt 21,23-27",
+      "quoteNotFromBible": "On, wieczny Bóg, zsyła obficie swoje błogosławieństwo każdego dnia, w każdym oddechu, który trzyma mnie przy życiu, w każdym przyjaznym spojrzeniu, w każdej pociesze, która mnie dotyka, i w każdej radości, która rozjaśnia moje życie.",
+      "quoteNotFromBibleReference": "Katharina Schridde",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "06-10-2023",
+      "firstStandard": "Jr 7,23",
+      "secondStandard": "J 8,31",
+      "firstAdditional": "Hbr 12,1-3",
+      "secondAdditional": "Mt 21,28-32",
+      "quoteNotFromBible": "Mówię „tak” Temu, który mnie stworzył. Mówię „tak” Jego Słowu i wezwaniu, „tak” Założycielowi i Stwórcy świata, a On trzyma mnie w swoich dłoniach.",
+      "quoteNotFromBibleReference": "Okko Herlyn",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "07-10-2023",
+      "firstStandard": "1 Krl 18,37",
+      "secondStandard": "Łk 22,32",
+      "firstAdditional": "Mt 14,22-33",
+      "secondAdditional": "Mt 21,33-46",
+      "quoteNotFromBible": "Panie, chcemy mieć Twoją prawdę przed oczami. Niech wobec Twojej jasności ustępują kłamstwo i oszustwo. Słuchajmy w ciszy Twojego planu i czyńmy to, co Twoja wola nam objawiła.",
+      "quoteNotFromBibleReference": "Liselotte Corbach †2002",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "08-10-2023",
+      "firstStandard": "Ps 16,6 (BE)",
+      "secondStandard": "2 Kor 9,8",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Drogą życia aż po zgon w imię Zbawcy idźmy wszędzie; gdy przewodnią gwiazdą On, wszystko dobrem dla nas będzie. Mroki nam rozproszy blask przeobfitych Jego łask.",
+      "quoteNotFromBibleReference": "ks. Benjamin Schmolck †1737, Śpiewnik ewangelicki 94, 3",
+      "specialOccasionList": [
+        {
+          "occasion": "WEEK",
+          "title": "18. Po Trójcy Świętej",
+          "mainQuote": "1 J 4,21",
+          "psalm": "Ps 1",
+          "worshipSongs": [
+            "Kto mówi: „Boga ja miłuję” 825",
+            "Chcę kochać Ciebie 781"
+          ],
+          "apostolicLesson": "Ef 5,15-20",
+          "sermonTextList": [
+            "2 Mż 20,1-17"
+          ],
+          "oldTestament": "",
+          "gospel": "Mk 10,17-27"
+        }
+      ],
+      "contemplationDTO": {
+        "bibleReference": "2 Mż 20,1",
+        "text": "Wiele słów kieruje do nas Bóg w swoim Słowie. Dziś jednak przychodzi z przesłaniem, które nazywamy Dekalogiem, czyli 10 przykazaniami. Nauczamy, że mają one charakter ponadczasowy i uniwersalny. Dotyczą relacji człowieka z Bogiem oraz człowieka z drugim człowiekiem. Prawdopodobnie większość chrześcijan nie umiałaby wymienić wszystkich. Jednak Bóg nieprzerwanie kieruje je w naszą stronę, bo wie, że właśnie te zasady najlepiej regulują naszą codzienność – oczywiście, jeśli je wypełniamy.\nZostały nadane na pustyni. Ich zasadniczym celem jest wyprowadzić człowieka z duchowej pustyni ku pełni radosnego i szczęśliwego życia. Wielu postrzega je jako Boży zamach na naszą wolność, a naprawdę jest odwrotnie: Bóg nadał przykazania, aby uczynić nas wolnymi. Pierwszą zasadą wolności jest szacunek wobec Boga, bo inaczej stajemy się niewolnikami dawnych i współczesnych bożków. Zespół Mate.O śpiewał w jednej pieśni, że „musisz komuś służyć – może to być diabeł, a może być Bóg”. Warto przypomnieć sobie cały Dekalog i odkryć wolność, którą z sobą niesie.",
+        "textReference": "Mirosław Czyż"
+      }
+    },
+    {
+      "date": "09-10-2023",
+      "firstStandard": "Prz 10,2",
+      "secondStandard": "Łk 19,8",
+      "firstAdditional": "1 Tes 4,9-12",
+      "secondAdditional": "Mt 22,1-14",
+      "quoteNotFromBible": "Bóg nie potępia bogactwa, ale tych, którzy w bogactwach pokładają swoje serce. Istotnie nie oddalił Zacheusza, który był bogaty, ale wszedłszy do jego domu, przyniósł mu błogosławieństwo i zdrowie.",
+      "quoteNotFromBibleReference": "Albert Wielki †1280",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "10-10-2023",
+      "firstStandard": "So 3,12",
+      "secondStandard": "1 Kor 1,28-29",
+      "firstAdditional": "Ga 5,13-18",
+      "secondAdditional": "Mt 22,15-22",
+      "quoteNotFromBible": "W jednym tylko przypadku rada nie zawadzi. W jakim? Gdy się Pokora u Mądrości radzi.",
+      "quoteNotFromBibleReference": "Adam Mickiewicz †1855",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "11-10-2023",
+      "firstStandard": "Iz 25,4",
+      "secondStandard": "2 Kor 4,11",
+      "firstAdditional": "Pnp 8,4-7",
+      "secondAdditional": "Mt 22,23-33",
+      "quoteNotFromBible": "Jesteś szczególnie bliski wszystkim upokorzonym, rozdartym, niepocieszonym, opuszczonym ludziom, Boże, który pocieszasz. Ufajmy Tobie!",
+      "quoteNotFromBibleReference": "Kathrin Oxen",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "12-10-2023",
+      "firstStandard": "Ps 109,26",
+      "secondStandard": "Mt 14,30-31",
+      "firstAdditional": "Mk 3,31-35",
+      "secondAdditional": "Mt 22,34-46",
+      "quoteNotFromBible": "Kiedy milczę Ty przy mnie trwasz. Kiedy pytam, odpowiedź masz. Twoja miłość przystanią jest, a kiedy tonę Ty ratujesz mnie.",
+      "quoteNotFromBibleReference": "zespół Rend Collective",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "13-10-2023",
+      "firstStandard": "Dn 4,32",
+      "secondStandard": "1 P 5,6",
+      "firstAdditional": "Rz (14,20b-15,1)15,2-6",
+      "secondAdditional": "Mt 23,1-22",
+      "quoteNotFromBible": "O Boże, którego piękno przekracza nasze wyobrażenie, i którego mocy nie jesteśmy w stanie pojąć, okaż nam swoją boskość na tyle, na ile możemy ją zrozumieć. Chroń nas od tego, byśmy chcieli wiedzieć więcej niż jesteśmy w stanie znieść, abyśmy mogli patrzeć na Ciebie bez lęku, przez Jezusa Chrystusa.",
+      "quoteNotFromBibleReference": "Janet Morley",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "14-10-2023",
+      "firstStandard": "Hi 17,3",
+      "secondStandard": "Rz 8,34",
+      "firstAdditional": "Mt 5,17-20",
+      "secondAdditional": "Mt 23,23-39",
+      "quoteNotFromBible": "To światłość z wysokości, kochany Jezus mój; to grunt mej bezpieczności, żywiącej wody zdrój. To klejnot, co bez skaz, pochodnia nogi mojej i jasność, w której stoję, to wielki Zbawca nasz.",
+      "quoteNotFromBibleReference": "Ernst M. Arndt †1860, Śpiewnik ewangelicki 652, 3",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "15-10-2023",
+      "firstStandard": "Prz 29,7",
+      "secondStandard": "Łk 14,13-14",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Uczyń mnie sługą pokornym już dziś, bym tych, co słabi są podnieść mógł też. Niechaj modlitwa serca mojego brzmi. Uczyń mnie sługą już dziś.",
+      "quoteNotFromBibleReference": "Kelly Willard, Śpiewnik ewangelicki 760",
+      "specialOccasionList": [
+        {
+          "occasion": "WEEK",
+          "title": "19. po Trójcy Świętej",
+          "mainQuote": "Jr 17,14",
+          "psalm": "Ps 32,1-7",
+          "worshipSongs": [
+            "Chwałę Bogu oddajmy 585"
+          ],
+          "apostolicLesson": "",
+          "sermonTextList": [
+            "Jk 5,13-16"
+          ],
+          "oldTestament": "Iz 38,9-20",
+          "gospel": "Mk 2,1-12"
+        }
+      ],
+      "contemplationDTO": {
+        "bibleReference": "Jk 5,13",
+        "text": "Modlitwa i śpiew. Cierpienie i radość. A może: cierpienie i śpiew, radość i modlitwa dziękczynna? Co podpowiada nam apostoł Jakub? Rzeczy fundamentalne, które właściwie dzieją się co rusz: trwoga, smutek, cierpienie – same zapraszają do modlitwy. Radość zaś pobudza do śpiewu. Ale jak naprawdę jest w życiu? Modlitwa Hiskiasza (2 Krl 20,1nn) – tak mi bliska od czasów terminalnej choroby ukochanej osoby, śpiew znanej pieśni, jej trzeciej zwrotki, rozpoczynającej się od słów: „niech ufam Twojej mocy w najgorszy czas” – są moją tarczą, ochroną przed pogrążeniem się w rozpaczy. Gdy ta mnie mimo to dopada, znajduję inne pieśni i modlę się psalmami. Zaczynam powtarzać swoje ważne i ulubione wersety, i nagle odkrywam, że blisko mi już do błogosławienia, ukojenia, wdzięczności. Moc modlitwy jest realna nie tylko w czasach apostoła Jakuba!",
+        "textReference": "Aleksandra Błahut-Kowalczyk"
+      }
+    },
+    {
+      "date": "16-10-2023",
+      "firstStandard": "Ps 103,10",
+      "secondStandard": "Ef 4,32",
+      "firstAdditional": "2 Mż 15,22-27",
+      "secondAdditional": "Jk 1,1-12",
+      "quoteNotFromBible": "Kto uczciwie traktuje sprawę swego wewnętrznego życia, swą postawę wobec Boga, ten zna wyjście ze stresów duchowych. Jest tylko jedna możliwość ich rozładowania – otwarte, rzetelne, uczciwe wyznanie. Odpowiedź Boga jest zawsze ta sama – odpuszczenie. Uczciwe stanowisko, zerwanie z wykrętnym oszukiwaniem siebie, z przyczajoną postawą wobec Boga, ze skrytym lawirowaniem w życiu wewnętrznym, rzetelna ocena własnego życia, otwarcie się dla Boga – przynosi upragnioną ulgę i pokój.",
+      "quoteNotFromBibleReference": "ks. Tadeusz Wojak †2000",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "17-10-2023",
+      "firstStandard": "Ps 91,11-12",
+      "secondStandard": "Mt 2,13",
+      "firstAdditional": "Łk 5,12-16",
+      "secondAdditional": "Jk 1,13-18",
+      "quoteNotFromBible": "W Pańskim imieniu w drogę się udaję, w obronę Jego ufnie się oddaję. Boże mój, wejrzyj okiem swej miłości. Na me potrzeby poślij z wysokości Anioła swego, który by mnie bronił i od złych ludzi, od przygód zasłonił.",
+      "quoteNotFromBibleReference": "ks. Jerzy Trzanowski †1637, Śpiewnik ewangelicki 881, 1",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "18-10-2023",
+      "firstStandard": "Ps 140,13",
+      "secondStandard": "Łk 6,20",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Pan w sądach prawych wciąż nie ustaje. Sam swoich wiernych koi łzy, krzepi strudzonych, a głodnym daje pokarm po wszystkie życia dni. Pęta niewoli zrywa Pan, niechaj Mu pokłon będzie dan. Alleluja, alleluja!",
+      "quoteNotFromBibleReference": "bp Johann D. Herrnschmidt †1723, Śpiewnik ewangelicki 586, 3",
+      "specialOccasionList": [
+        {
+          "occasion": "DAY",
+          "title": "Dzień ewangelisty Łukasza",
+          "mainQuote": "Iz 52,7",
+          "psalm": "",
+          "worshipSongs": [
+            "Apostołów dziś wspomnijmy 244",
+            "Zbudź, Panie, ducha ojców wiary 541"
+          ],
+          "apostolicLesson": "2 Tm 4,5-11",
+          "sermonTextList": [],
+          "oldTestament": "",
+          "gospel": "Łk 1,1-4"
+        }
+      ],
+      "contemplationDTO": null
+    },
+    {
+      "date": "19-10-2023",
+      "firstStandard": "1 Sm 2,30",
+      "secondStandard": "Rz 2,4",
+      "firstAdditional": "Jr 17,14-17",
+      "secondAdditional": "Jk 2,1-13",
+      "quoteNotFromBible": "Syn Boży, Zbawiciel, dał za nas swe życie i za nas na krzyżu On przelał swą krew. W niej mamy zdrój łaski i z grzechów obmycie, w niej Boży przejednan po wieki już gniew. Baranek bez winy, Pośrednik jedyny purpurą swą grzechy rozliczne me zmazał – o jakąż On miłość bezdenną okazał!",
+      "quoteNotFromBibleReference": "ks. Robert Gundlach †1922, Śpiewnik ewangelicki 631,2",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "20-10-2023",
+      "firstStandard": "2 Mż 33,11",
+      "secondStandard": "J 15,15",
+      "firstAdditional": "Mt 8,14-17",
+      "secondAdditional": "Jk 2,14-26",
+      "quoteNotFromBible": "Nigdy nie zapominaj o tym, że Bóg uczynił z ciebie swego przyjaciela.",
+      "quoteNotFromBibleReference": "Jan Chryzostom †407",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "21-10-2023",
+      "firstStandard": "Jr 17,7-8",
+      "secondStandard": "Ga 5,22-23",
+      "firstAdditional": "Łk 13,10-17",
+      "secondAdditional": "Jk 3,1-12",
+      "quoteNotFromBible": "Opoko i żywocie nasz, swym słodkim słowem lud swój darz, niech w duszach naszych płonie. Strumienie prawdy na nas zlej, by święty żar miłości Twej rozgorzał w każdym łonie. Ciebie w niebie uwielbiamy i błagamy o natchnienie. Prawe obudź w nas sumienie.",
+      "quoteNotFromBibleReference": "ks. Michael Schirmer †1673, Śpiewnik ewangelicki 221, 5",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "22-10-2023",
+      "firstStandard": "3 Mż 19,17",
+      "secondStandard": "Ga 6,1",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Tak postępujmy, aby nikt nie mógł o nas mówić źle bez kłamstwa.",
+      "quoteNotFromBibleReference": "Hieronim ze Strydonu †420",
+      "specialOccasionList": [
+        {
+          "occasion": "WEEK",
+          "title": "20. po Trójcy Świętej",
+          "mainQuote": "Mi 6,8",
+          "psalm": "Ps 119,101-108",
+          "worshipSongs": [
+            "Będziesz miłował 822",
+            "Pomóż mi, Jezu, miłować 831"
+          ],
+          "apostolicLesson": "2 Kor 3,3-6(7-9)",
+          "sermonTextList": [
+            "Mk 10,2-9(10-12)13-16"
+          ],
+          "oldTestament": "1 Mż 8,18–22; 9,12–17",
+          "gospel": ""
+        }
+      ],
+      "contemplationDTO": {
+        "bibleReference": "Mk 10,13-14",
+        "text": "Nie do wiary! Uczniowie niby tacy kulturalni i niekonfliktowi, a ich nauczyciel to wzór wstrzemięźliwości w słowach i uczynkach. A tutaj poszło na ostro. Nie wiemy jakie słowa padły z ust uczniów. Może i dobrze, że ewangelista Marek nie zapisał tych słów, bo kto wie, może mówcą był jego mentor, czyli apostoł Piotr? Może to było coś w stylu z Kordiana J. Słowackiego, gdzie „ksiądz pleban na odpuście, przeciw dziatkom i rozpuście, grzmiał jak piorun na ambonie”. Może jakiś cytat z filmowego Adasia Miauczyńskiego? Wiemy tylko, że uczniowie „gromili” dzieci albo jak chcą inni tłumacze „szorstko” lub „surowo” zabraniali im podchodzić do Jezusa. Jednak jemu nie spodobało się, że jego uczniowie chcieli być ochroniarzami Królestwa Bożego i oburzył się na ich zachowanie.\nMy też czasami zachowujemy się podobnie do uczniów – stawiamy bariery, warunki, żądamy zaświadczeń, załączników i pieczątek. Dobrze, że nie wszystko zostaje zapisane, choć z drugiej strony przecież z każdego niepotrzebnego słowa zdamy kiedyś rachunek.",
+        "textReference": "Adam Malina"
+      }
+    },
+    {
+      "date": "23-10-2023",
+      "firstStandard": "Dn 6,27",
+      "secondStandard": "Ef 1,22",
+      "firstAdditional": "2 Tes 3,6-13",
+      "secondAdditional": "Jk 3,13-18",
+      "quoteNotFromBible": "Naszą największą radością, Panie, wszechmogący Boże, jest śpiewanie Ci i chwalenie Cię po wszystkie czasy, dziękowanie Ci i wielbienie Cię na wszystkich miejscach; gdyż Ty jesteś Bogiem, Ty i Twój jednorodzony Syn i Twój Duch Święty.",
+      "quoteNotFromBibleReference": "z liturgii Braci czeskich",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "24-10-2023",
+      "firstStandard": "Ps 40,6",
+      "secondStandard": "Kol 2,3",
+      "firstAdditional": "Rz 13,1-7",
+      "secondAdditional": "Jk 4,1-12",
+      "quoteNotFromBible": "Możemy więcej, gdy wierzymy że ciągle żyjesz pośród nas. Z Tobą wszystko jest możliwe, uciszyć możesz sztorm i wiatr. Nigdy mnie nie zawiedzie, nigdy mnie nie opuści Twoja moc.",
+      "quoteNotFromBibleReference": "zespół Pathlife",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "25-10-2023",
+      "firstStandard": "Ps 22,28",
+      "secondStandard": "Mt 13,33",
+      "firstAdditional": "Ef 5,25-32",
+      "secondAdditional": "Jk 4,13-17",
+      "quoteNotFromBible": "Tak jak jest rzeczą niemożliwą, aby oddzielić kwas od ciasta, w którym został on rozczyniony, gdyż zmienił on naturę ciasta, tak samo jest niemożliwe oddzielenie chrześcijan od Chrystusa. Gdyż Chrystus tak się z nimi zespolił jak kwas i są jednym ciałem, jedną masą, jednym ciastem, jednym chlebem.",
+      "quoteNotFromBibleReference": "Marcin Luter †1546",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "26-10-2023",
+      "firstStandard": "Iz 50,4",
+      "secondStandard": "Dz 16,14",
+      "firstAdditional": "1 Kor 14,26-33",
+      "secondAdditional": "Jk 5,1-6",
+      "quoteNotFromBible": "Kiedy ranne wstają zorze, Tobie ziemia, Tobie morze, Tobie śpiewa żywioł wszelki: Bądź pochwalon Boże wielki!",
+      "quoteNotFromBibleReference": "Franciszek Karpiński †1825, Śpiewnik ewangelicki 480, 1",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "27-10-2023",
+      "firstStandard": "Ps 27,1",
+      "secondStandard": "Flp 4,13",
+      "firstAdditional": "J 18,28-32",
+      "secondAdditional": "Jk 5,7-12",
+      "quoteNotFromBible": "Dobry Boże, który jesteś źródłem życia, pomóż nam szanować wszystkich ludzi i akceptować ich wyjątkowość. Pomóż nam szanować cuda przyrody i z całej siły je chronić. Pomóż nam wspierać siebie nawzajem w drodze do wolności, sprawiedliwości i pokoju jako równoprawnych członków Twojej rodziny.",
+      "quoteNotFromBibleReference": "modlitwa ze Słowenii",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "28-10-2023",
+      "firstStandard": "Iz 38,17",
+      "secondStandard": "1 J 3,19-20",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Stoję teraz tutaj z moją winą i nie wiem, co robić. A znam tylko Ciebie i Twoją łaskę. O Panie, zmiłuj się nade mną.",
+      "quoteNotFromBibleReference": "Arno Pötzsch †1956",
+      "specialOccasionList": [
+        {
+          "occasion": "DAY",
+          "title": "Dzień apostołów Szymona i Judy Tadeusza",
+          "mainQuote": "Iz 52,7",
+          "psalm": "",
+          "worshipSongs": [
+            "Apostołów dziś wspomnijmy 244",
+            "Zbudź, Panie, ducha ojców wiary 541"
+          ],
+          "apostolicLesson": "Ef 4,7-13",
+          "sermonTextList": [],
+          "oldTestament": "",
+          "gospel": "J 15,17-25"
+        }
+      ],
+      "contemplationDTO": null
+    },
+    {
+      "date": "29-10-2023",
+      "firstStandard": "Iz 57,11",
+      "secondStandard": "Rz 8,15",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Wyznaję sercem chrobrym i rad się chlubię tym, że Bóg najwyższym dobrem, troskliwym Ojcem mym. Po mej prawicy stale mnie w życiu wspierać chce, burz ścisza moc i fale i to, co boli mnie.",
+      "quoteNotFromBibleReference": "ks. Paweł Gerhardt †1676, Śpiewnik ewangelicki 635, 2",
+      "specialOccasionList": [
+        {
+          "occasion": "WEEK",
+          "title": "21. po Trójcy Świętej",
+          "mainQuote": "Rz 12,21",
+          "psalm": "Ps 19,8-14",
+          "worshipSongs": [
+            "Ach, Boże, spojrzyj z nieba 577",
+            "Wszyscy, co składają 711"
+          ],
+          "apostolicLesson": "Ef 6,10-17",
+          "sermonTextList": [
+            "1 Mż 13,1-12(13-18)"
+          ],
+          "oldTestament": "",
+          "gospel": "Mt 5,38-48"
+        }
+      ],
+      "contemplationDTO": {
+        "bibleReference": "1 Mż 13,1a.3a",
+        "text": "W czasach antycznych napotkamy dwóch wielkich wędrowców. Z mitologii greckiej dowiadujemy się o królu Itaki imieniem Odyseusz. Wyruszył on na wojnę, a potem przez wiele lat podróżował, by dotrzeć z powrotem do swojej ojczyzny. Wrócił do punktu, z którego wyruszył.\nDzieje drugiego bohatera – o imieniu Abram, zostały przedstawione w Biblii. Jego wędrówka zaczęła się w punkcie A, czyli w Ur chaldejskim, ale zakończyła się w punkcie B – w Kanaanie. Do miejsca swoich narodzin nigdy nie wrócił. Obaj zyskali wielkie życiowe doświadczenie w czasie podróży. Historie obu przypominają losy wielu z nas – albo wracamy w swoje rodzinne strony, albo osiadamy w całkowicie innym miejscu. Od Abrama możemy się nauczyć pewnej zasady. On wiedział, że Bóg idzie z nim i mu błogosławi, dlatego w ważnych miejscach budował ołtarz, aby wzywać imienia Pana i oddać Mu chwałę (w. 4 i 18).\nKażda niedziela jest przypomnieniem, że przebyliśmy kolejny odcinek drogi swego życia. Przychodzimy do ważnego miejsca, do kościoła, aby podziękować Bogu za Jego błogosławieństwo. Od Abrama wiemy, że taka postawa jest właściwa i podoba się Panu.",
+        "textReference": "Mirosław Czyż"
+      }
+    },
+    {
+      "date": "30-10-2023",
+      "firstStandard": "Iz 32,17",
+      "secondStandard": "1 J 2,29",
+      "firstAdditional": "1 Sm 19,1-7",
+      "secondAdditional": "Hi 1,1-22",
+      "quoteNotFromBible": "Prosimy o taką sprawiedliwość, która czyni nas łagodnymi, a nie srogimi. Która jest słuszna dla słabego, a nie dogadza każdemu. Która nie poniża ludzi, ale zgłębia niesprawiedliwość. Która występuje przeciw roszczeniom i wyłamuje się spod nieumiarkowanej władzy ludzkiej. Bądź Ty naszą sprawiedliwością.",
+      "quoteNotFromBibleReference": "Susanne Sandherr",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "31-10-2023",
+      "firstStandard": "Iz 64,6",
+      "secondStandard": "Łk 15,21-22",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "O Panie Jezus Chryste, Ty jesteś moją sprawiedliwością, a ja Twoim grzechem. Wziąłeś na siebie to, co moje, i dałeś mi to, co Twoje. Wziąłeś na siebie to, czym nie byłeś, i dałeś mi to, czym ja nie byłem.",
+      "quoteNotFromBibleReference": "Marcin Luter †1546",
+      "specialOccasionList": [
+        {
+          "occasion": "DAY",
+          "title": "Pamiątka Reformacji",
+          "mainQuote": "1 Kor 3,11",
+          "psalm": "Ps 46,2-8",
+          "worshipSongs": [
+            "Warownym grodem 265",
+            "Grodem mocnym 259",
+            "Zachowaj nas przy Słowie swym 266"
+          ],
+          "apostolicLesson": "Rz 3,21-28",
+          "sermonTextList": [],
+          "oldTestament": "5 Mż 6,4-9",
+          "gospel": ""
+        }
+      ],
+      "contemplationDTO": {
+        "bibleReference": "Mt 5,1-2",
+        "text": "Przeglądam w telefonie komórkowym fotografie. Wzrok skupia się na zdjęciu malowniczego regionu położonego w południowo-wschodniej części Półwyspu Apenińskiego o wdzięcznej nazwie Apulia. Śliczna kraina kontra świat rzeczywisty, rozdarty, brudny od waśni i zagrożeń, odarty ze złudzeń, pogrążony w wojennej i powojennej żałobie. A jednak w tym świecie złym i w złym czasie zdarzają się takie małe, metaforycznie mówiąc, Apulie. Małe cuda, okruchy radości, wdzięczności, jak wysepki rozkwitłych kwiatów w monotonii zniszczonej wojną przyrody. Zdarzają się takie chwile wytchnienia żywej modlitwy, żywych spotkań, gdzie nawet dźwięk dzwonów sprawia radość, bo oznacza normalność ustalonych pór nabożeństw.\nCzy tak było, gdy On nauczał i wypowiedział osiem wiekopomnych błogosławieństw? Nie wiem. Wiem jednak na pewno, że tęsknota za bliskością Pana Jezusa jest wciąż ta sama. Wiem, że takie momenty spotkania ze Słowem Bożym dają wewnętrzną radość, również w Pamiątkę Reformacji, gdy wybrzmiewa z ambon: sola Scriptura, solus Christus, sola gratia per fidem.",
+        "textReference": "Aleksandra Błahut-Kowalczyk"
+      }
+    }
+  ]
+}

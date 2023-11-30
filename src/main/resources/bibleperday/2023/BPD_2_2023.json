@@ -1,439 +1,441 @@
-[
-	{
-		"date": "01-02-2023",
-		"firstStandard": "Za 1,3",
-		"secondStandard": "2 P 3,9",
-		"firstAdditional": "Obj 1,(1.2)3-8",
-		"secondAdditional": "1 Mż 17,1-14",
-		"quoteNotFromBible": "Błądziłem, dążąc w różne strony, szukałem prawdy jak we mgle, od światła Twego odwrócony kochałem życia blaski czcze. Tyś swoją łaską sprawił to, żem poznał miłość Twą.",
-		"quoteNotFromBibleReference": "ks. Johann Scheffler †1677, Śpiewnik ewangelicki 781, 4",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "02-02-2023",
-		"firstStandard": "Jr 1,12",
-		"secondStandard": "Mt 5,17",
-		"firstAdditional": "",
-		"secondAdditional": "",
-		"quoteNotFromBible": "Nie czytaj sobie Pisma Świętego, jako fabuł, tylko dla rozkoszy, a dla krotofile swojej, ale sobie pilnie uważaj a rozważaj, iż co się kolwiek z wiernemi działo w dziwnych niebezpieczeństwach a prześladowaniu, to się też iście z tobą nieomylnie dziać będzie.",
-		"quoteNotFromBibleReference": "Mikołaj Rej †1569",
-		"specialOccasionList": [
-			{
-				"occasion": "DAY",
-				"title": "Dzień ofiarowania Pana Jezusa",
-				"mainQuote": "Ga 4,4",
-				"psalm": "Ps 138",
-				"worshipSongs": [
-					"O Jezu, ty światłości 242",
-					"Chrystus się narodził 37"
-				],
-				"apostolicLesson": "V – Hbr 2,14-18; II – 1 J 1,1-4",
-				"sermonTextList": [],
-				"oldTestament": "VI – 2 Mż 13,1.2.14-16; III – Iz 49,1-6",
-				"gospel": "IV – Łk 2,22-35(36-40)I – J 8,12"
-			}
-		],
-		"contemplationDTO": null
-	},
-	{
-		"date": "03-02-2023",
-		"firstStandard": "Iz 29,16",
-		"secondStandard": "Ef 2,10",
-		"firstAdditional": "Obj 1,(9-11)12-18",
-		"secondAdditional": "1 Mż 18,1-15",
-		"quoteNotFromBible": "Jeśli chcesz być wielki, zaczynaj od rzeczy małych. Zakładaj głęboki fundament pokory, skoro zamierzasz budować wysoko.",
-		"quoteNotFromBibleReference": "Augustyn z Hippony †430",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "04-02-2023",
-		"firstStandard": "1 Mż 28,22",
-		"secondStandard": "2 Kor 9,6",
-		"firstAdditional": "4 Mż 6,22-27",
-		"secondAdditional": "1 Mż 18,16-33",
-		"quoteNotFromBible": "Jeśli nie możesz nakarmić stu ludzi, nakarm chociaż jednego.",
-		"quoteNotFromBibleReference": "Matka Teresa z Kalkuty †1997",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "05-02-2023",
-		"firstStandard": "Koh 7,14 (BE)",
-		"secondStandard": "Mt 6,26",
-		"firstAdditional": "",
-		"secondAdditional": "",
-		"quoteNotFromBible": "Moc Boża zdolna jest stworzyć nadzieję tam, gdzie nie ma już nadziei wytyczyć drogę przez niemożliwe.",
-		"quoteNotFromBibleReference": "Grzegorz z Nyssy †395",
-		"specialOccasionList": [
-			{
-				"occasion": "WEEK",
-				"title": "3. Niedziela przed Postem (Septuagesimae – 70 dni przed Wielkanocą)",
-				"mainQuote": "Dn 9,18",
-				"psalm": "Ps 31,20-25",
-				"worshipSongs": [
-					"Bóg dał zbawienie 630"
-				],
-				"apostolicLesson": "Flp 2,12-13",
-				"sermonTextList": [
-					"Mt 9,9-13"
-				],
-				"oldTestament": "Jr 9,22-23",
-				"gospel": ""
-			}
-		],
-		"contemplationDTO": {
-			"bibleReference": "Mt 9,9",
-			"text": "Jak w kinie akcji. Krótka chwila, spojrzenie Pana Jezusa, zwrot zapraszający i brzemienna w skutki decyzja Mateusza. Gdy pytam przyjaciół o ważne wersety Biblii, które przekierowały ich życie na inne tory, tylko raz usłyszałam ten cytat: „Pójdź za mną”. Szczęśliwy człowiek, szczęśliwy celnik, który staje się uczniem Pana Jezusa i idzie już wyłącznie za Nim. Wiem, że ilu ludzi, tyle dróg Boga do człowieka i tyle ludzkich odpowiedzi. Brak reakcji jest również odpowiedzią. Podobnie jak natychmiastowy odzew na Boży głos, choć taką spektakularną postawą mogą chlubić się nieliczni. Mateusz, celnik, człowiek uwikłany w nadużycia – staje się po wieki wieków przykładem tego, jak możliwa jest taka przemiana, jak za słowem może iść czyn. On po prostu wstał i poszedł za Jezusem.",
-			"textReference": "Aleksandra Błahut-Kowalczyk"
-		}
-	},
-	{
-		"date": "06-02-2023",
-		"firstStandard": "Jr 17,9-10",
-		"secondStandard": "Ga 6,9 (BE)",
-		"firstAdditional": "Łk 19,1-10",
-		"secondAdditional": "1 Mż 19,1-14",
-		"quoteNotFromBible": "Panie, Boże, to, co w nas zasiałeś, zbierzesz, gdy nadejdzie Twój dzień; a wszystko, co zacząłeś pośród nas, wypełnisz. Taka jest nasza nadzieja i tego oczekujemy przez Jezusa, który stał się naszą przyszłością.",
-		"quoteNotFromBibleReference": "Huub Oosterhuis",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "07-02-2023",
-		"firstStandard": "Iz 55,10-11",
-		"secondStandard": "J 15,7-8",
-		"firstAdditional": "5 Mż 7,6-12",
-		"secondAdditional": "1 Mż 19,15-29",
-		"quoteNotFromBible": "Potęga Pana nie zdejmuje z nas wszelkiej odpowiedzialności. Wręcz przeciwnie. Daje nam siłę, żebyśmy mogli działać.",
-		"quoteNotFromBibleReference": "Max Lucado",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "08-02-2023",
-		"firstStandard": "Ps 33,21",
-		"secondStandard": "1 Tes 5,16-17",
-		"firstAdditional": "Rz 4,1-8",
-		"secondAdditional": "1 Mż 19,30-38",
-		"quoteNotFromBible": "Boże, stwarzasz każdy kolejny dzień, abyśmy się nim cieszyli, inspirowali i pocieszali. Wskaż nam dziś, jak blisko jesteś. Zabierz od nas ociężałość i zniechęcenie oraz spraw, abyś nasze podejście do innych ludzi było pełne otwartości i autentycznego zainteresowania.",
-		"quoteNotFromBibleReference": "bp Maria Jepsen",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "09-02-2023",
-		"firstStandard": "So 1,7",
-		"secondStandard": "Mt 24,44",
-		"firstAdditional": "1 Kor 3,(1-3)4-8",
-		"secondAdditional": "1 Mż 21,1-21",
-		"quoteNotFromBible": "Niech swe zbawienie, Boże, budować każdy może na tym, co wiecznie trwa; niech szczerą nam ochotę jak dzieciom – serc prostotę na ziemi dobroć Twoja da.",
-		"quoteNotFromBibleReference": "Matthias Claudius †1815, Śpiewnik ewangelicki 509,5",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "10-02-2023",
-		"firstStandard": "Iz 52,7",
-		"secondStandard": "Ef 6,15",
-		"firstAdditional": "Ml 3,13-18",
-		"secondAdditional": "1 Mż 22,1-19",
-		"quoteNotFromBible": "Wszystkie moje troski i kłopoty w Twoje ręce składam, Panie mój. Bardzo cieszę się, że właśnie nas wybrałeś, byśmy idąc nieśli imię Twe. Zawsze chciałem zostać apostołem, było to pragnienie w życiu mym. Gdy odejdziesz, to napiszemy Ewangelię, aby imię Twe znał cały świat.",
-		"quoteNotFromBibleReference": "śpiewnik Chwalmy Pana 321, 1-2",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "11-02-2023",
-		"firstStandard": "Ps 142,8",
-		"secondStandard": "J 8,36",
-		"firstAdditional": "1 Kor 1,26-31",
-		"secondAdditional": "1 Mż 23,1-20",
-		"quoteNotFromBible": "Jezus już przyszedł, przepiękna korona! Boga najmilszy ten klejnot nam dan. Zdjęta przez Niego jest niebios zasłona, dzieci stracone w dom wiedzie już Pan. Ciesz się, ma duszo, boś jest ocalona; Jezus już przyszedł, przepiękna korona!",
-		"quoteNotFromBibleReference": "ks. Johann L. Allendorf †1773, Śpiewnik ewangelicki 108, 2",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "12-02-2023",
-		"firstStandard": "Joz 22,5",
-		"secondStandard": "J 12,26",
-		"firstAdditional": "",
-		"secondAdditional": "",
-		"quoteNotFromBible": "Cieśla nigdy nie będzie tak dokładny mierząc na oko, jak gdyby korzystał z miary. Tak i wszystkie postanowienia, zdolności i cała wiara są niczym, jeśli nie są zorientowane na miłość.",
-		"quoteNotFromBibleReference": "Ulrich Zwingli †1531",
-		"specialOccasionList": [
-			{
-				"occasion": "WEEK",
-				"title": "2. Niedziela przed Postem (Sexagesimae – 60 dni przed Wielkanocą)",
-				"mainQuote": "Hbr 3,15",
-				"psalm": "Ps 119,89-92.103-105.116",
-				"worshipSongs": [
-					"Już po wszystkim świecie 378"
-				],
-				"apostolicLesson": "Hbr 4,12-13",
-				"sermonTextList": [
-					"Iz 55,(6-7)8-12a"
-				],
-				"oldTestament": "",
-				"gospel": "Łk 8,4-8(9-15)"
-			}
-		],
-		"contemplationDTO": {
-			"bibleReference": "Iz 55,11",
-			"text": "Czy to ma sens? Każdą niedzielę i święto stawać na ambonie i głosić kazania objaśniając teksty Pisma Świętego, przyporządkowane do odpowiednich rzędów perykop. A słuchacze słuchają lub niekoniecznie, niestety. Każdego poranku otwierać kolejne strony Z Biblią na co dzień i czytać dwa biblijne teksty, a nawet pozostałe dłuższe fragmenty Biblii. I tak jakoś niekoniecznie wszystko układa się jak powinno. Czy to wszystko ma jeszcze sens?\nNiewątpliwie. Gdyby sens tych działań był uwarunkowany naszymi staraniami, to faktycznie, byłby on znikomy. Ale tu działa Bóg. On sprawia, że Słowo Boże jest wciąż żywe i skuteczne. I warto je głosić, warto je czytać i nim żyć, bo daje prawdziwe życie!",
-			"textReference": "Adam Malina"
-		}
-	},
-	{
-		"date": "13-02-2023",
-		"firstStandard": "Ps 51,13",
-		"secondStandard": "Łk 18,13",
-		"firstAdditional": "5 Mż 32,44-47",
-		"secondAdditional": "Rz 1,1-7",
-		"quoteNotFromBible": "Serce czyste stwórz mi, Panie! Grzechy odpędź precz w otchłanie, zamknij drzwi do serca mego, by nie weszły znów do niego.",
-		"quoteNotFromBibleReference": "ks. Heinrich G. Neuss †1716, Śpiewnik ewangelicki 755, 1",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "14-02-2023",
-		"firstStandard": "Ps 73,1",
-		"secondStandard": "Mt 5,8",
-		"firstAdditional": "Am 8,(4-10)11.12",
-		"secondAdditional": "Rz 1,8-15",
-		"quoteNotFromBible": "Jezus ma otwarte serce, w którym płonie żar miłości, pragnącej przygarnąć do siebie tę zasmuconą, zatrwożoną i głodną rzeszę ludzi, aby ich natchnąć radością, obdarzyć szczęściem nadziei, nakarmić chlebem powszednim.",
-		"quoteNotFromBibleReference": "ks. Józef Szeruda †1971",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "15-02-2023",
-		"firstStandard": "Iz 29,14",
-		"secondStandard": "Mt 15,31",
-		"firstAdditional": "Łk 6,43-49",
-		"secondAdditional": "Rz 1,16-17",
-		"quoteNotFromBible": "Nie szczycę się mądrością Panie, nie szczycę się z dostatku swych sił. Nie jestem dumny z tego, co posiadam, tylko Tobą Panie szczycę się.",
-		"quoteNotFromBibleReference": "zespół TGD",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "16-02-2023",
-		"firstStandard": "Jon 2,3",
-		"secondStandard": "Łk 12,7",
-		"firstAdditional": "1 Tes 1,2-10",
-		"secondAdditional": "Rz 1,18-32",
-		"quoteNotFromBible": "Ucz się od dnia wczorajszego, żyj dniem dzisiejszym, miej nadzieję na jutro.",
-		"quoteNotFromBibleReference": "Albert Einstein †1955",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "17-02-2023",
-		"firstStandard": "Ps 104,24",
-		"secondStandard": "Obj 4,11",
-		"firstAdditional": "2 Tm 3,(10-13)14-17",
-		"secondAdditional": "Rz 2,1-16",
-		"quoteNotFromBible": "Gdy na ten świat spoglądam wielki Boże, coś stworzył go wszechmocnym Słowem swym, gdy myśl ma ludów policzyć nie może, które na świecie rozmnożyłeś tym. Me serce w uwielbieniu śpiewa Ci: Jak wielkiś Ty, jak wielkiś Ty!",
-		"quoteNotFromBibleReference": "ks. Carl G. Boberg †1940, Śpiewnik ewangelicki 846, 1",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "18-02-2023",
-		"firstStandard": "Ps 73,25",
-		"secondStandard": "Rz 8,38-39",
-		"firstAdditional": "Mt 13,31-35",
-		"secondAdditional": "Rz 2,17-29",
-		"quoteNotFromBible": "Jeśli Boga nie ma, to wszystko mi jedno, szczęście czy nieszczęście, dobro czy zło, śmierć czy życia. Jeśli Bóg jest, to tym bardziej mi wszystko jedno; niech ze mną czyni według woli swojej.",
-		"quoteNotFromBibleReference": "Jochen Klepper †1942",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "19-02-2023",
-		"firstStandard": "Ps 42,9",
-		"secondStandard": "Mt 14,23",
-		"firstAdditional": "",
-		"secondAdditional": "",
-		"quoteNotFromBible": "Gdyby nie jasność dnia, nie wiedziałabym, co to noc. Gdyby nie noc, nie cieszyłabym się dniem. Z tego regularnego porządku rodzi się moja ufność i pewność. Jakież ukojenie przynosi zmierzch po emocjonującym dniu, a potem poranek znów wzywa do działania. Obyśmy wszyscy rozpoznali, że ten Jeden, Stwórca, wszystko trzyma w swych dłoniach.",
-		"quoteNotFromBibleReference": "Pnina Navè-Levinson †1998",
-		"specialOccasionList": [
-			{
-				"occasion": "WEEK",
-				"title": "Przedpostna (Estomihi – Bądź mi skałą obronną! Ps 31,36)",
-				"mainQuote": "Łk 18,31",
-				"psalm": "Ps 31,2-6.8-9.16-17",
-				"worshipSongs": [
-					"Za Jezusem podążajmy 774"
-				],
-				"apostolicLesson": "",
-				"sermonTextList": [
-					"1 Kor 13,1-13"
-				],
-				"oldTestament": "Am 5,21-24",
-				"gospel": "Mk 8,31-38"
-			}
-		],
-		"contemplationDTO": {
-			"bibleReference": "1 Kor 13,13",
-			"text": "W tym tygodniu wyruszamy na najtrudniejszy szlak z Jezusem. Ostatni etap wyznacza podejście na wzgórze Trupiej Czaszki – ciemność, a potem odwalony od grobu kamień – światłość.\nW czasie wędrowania z Synem Bożym stale przewijają się te trzy ważne słowa – wiara, nadzieja i miłość. Zostały nazwane „cnotami teologicznymi”. Wszystkie są potrzebne na duchowej drodze życia – w czasie wędrowania pod górę i schodzenia w dół. Paweł doprecyzował, że największa jest miłość. Trudno się z nim nie zgodzić. Miłość określa Boga. Z miłości został stworzony świat i człowiek. Miłość posłała Jezusa na krzyż. Miłość stanowi fundament życia Kościoła jako instytucji i Kościoła jako wspólnoty. Z miłości rodzą się wiara i nadzieja. Warto pielęgnować wszystkie trzy w swoim duchowym życiu.",
-			"textReference": "Mirosław Czyż"
-		}
-	},
-	{
-		"date": "20-02-2023",
-		"firstStandard": "Hi 14,1-2",
-		"secondStandard": "Hbr 13,14",
-		"firstAdditional": "Łk 13,31-35",
-		"secondAdditional": "Rz 3,1-8",
-		"quoteNotFromBible": "Ty, Panie, trwasz przy dziełach, które rozpocząłeś. Wypełnij i moje niedoskonałości.",
-		"quoteNotFromBibleReference": "Augustyn z Hippony †430",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "21-02-2023",
-		"firstStandard": "2 Sm 24,10",
-		"secondStandard": "1 J 1,9",
-		"firstAdditional": "Łk 5,33-39",
-		"secondAdditional": "Rz 3,9-20",
-		"quoteNotFromBible": "Stwórz serce czyste we mnie o Boże mój, a prawego ducha we mnie odnów. Panie nie odrzucaj mnie od oblicza swego dziś i nie zabieraj mi swojego Ducha, lecz proszę przywróć mi radość z Twojego zbawienia, tak przywróć i wesprzyj Duchem Swym.",
-		"quoteNotFromBibleReference": "Keith Green †1982, Śpiewnik ewangelicki 757",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "22-02-2023",
-		"firstStandard": "Jr 20,13",
-		"secondStandard": "Łk 1,46-48",
-		"firstAdditional": "",
-		"secondAdditional": "",
-		"quoteNotFromBible": "Nasz Bóg pieśń nową daje nam, On Bogiem cudów jest. Niech wielu jeszcze ujrzy Go, niech wszyscy wiedzą, że wołałem – Pan usłyszał mnie; czekałem – do mnie zbliżył się.",
-		"quoteNotFromBibleReference": "śpiewnik Będę śpiewał i grał 173, 2",
-		"specialOccasionList": [
-			{
-				"occasion": "DAY",
-				"title": "– Popielec. Dzień Pokuty i Modlitwy – początek czasu pasyjnego",
-				"mainQuote": "Łk 18,31",
-				"psalm": "Ps 51,3-6.11-14",
-				"worshipSongs": [
-					"Z głębokiej nędzy 438",
-					"Za Jezusem podążajmy 774"
-				],
-				"apostolicLesson": "2 P 1,2-11",
-				"sermonTextList": [
-					"Mt 6,16-21"
-				],
-				"oldTestament": "Jl 2,12-19",
-				"gospel": ""
-			}
-		],
-		"contemplationDTO": null
-	},
-	{
-		"date": "23-02-2023",
-		"firstStandard": "Ez 33,11",
-		"secondStandard": "Mt 6,13",
-		"firstAdditional": "Kol 3,(5-7)8-11",
-		"secondAdditional": "Rz 3,27-31",
-		"quoteNotFromBible": "W religii chodzi nie tylko o rozróżnianie złego i dobrego, lecz o odmianę serca. Serce nasze skażone grzechem, nie jest zdolne do doskonałości. Mimo, że człowiek rozróżnia dobro od zła, serce jego nadal tkwi w grzechu. Jedyną mocą, która może wyzwolić człowieka z kleszczy grzechu jest Ewangelia Chrystusowa.",
-		"quoteNotFromBibleReference": "ks. Andrzej Buzek †1971",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "24-02-2023",
-		"firstStandard": "Iz 55,3",
-		"secondStandard": "2 Kor 1,20",
-		"firstAdditional": "",
-		"secondAdditional": "",
-		"quoteNotFromBible": "Wiem, tylko łaska Boża ze zborem jest i wiecznie trwa, więc nikt się już nie trwoży, lecz bojaźń Pańską w sercu ma i związek chce zachować z Niebiosów Królem czci, gdzie pieśń pochwalna nowa w anielskich ustach brzmi. Anioły, chwalcie Pana i służcie Bogu wciąż, niech dusza, Mu oddana, na ziemi śpiewa też!",
-		"quoteNotFromBibleReference": "ks. Johann Gramann †1541, Śpiewnik ewangelicki 584, 3",
-		"specialOccasionList": [
-			{
-				"occasion": "DAY",
-				"title": "Dzień apostoła Macieja",
-				"mainQuote": "Iz 52,7",
-				"psalm": "",
-				"worshipSongs": [
-					"Apostołów dziś wspomnijmy 244",
-					"Zbudź, Panie, ducha ojców wiary 541"
-				],
-				"apostolicLesson": "Dz 1,15-26",
-				"sermonTextList": [],
-				"oldTestament": "",
-				"gospel": "Mt 11,25-30"
-			}
-		],
-		"contemplationDTO": null
-	},
-	{
-		"date": "25-02-2023",
-		"firstStandard": "Oz 4,1",
-		"secondStandard": "Jk 1,5",
-		"firstAdditional": "Dn 5,1-7.17-30",
-		"secondAdditional": "Rz 4,13-25",
-		"quoteNotFromBible": "Wyrzuć z serca wszelkie wady, karność świętą wpoić chciej; niech słuchamy Twojej rady, niech żyjemy podług niej. Daj nam zdrowy, jasny sąd, byśmy rozeznali błąd.",
-		"quoteNotFromBibleReference": "Heinrich Held †1659, Śpiewnik ewangelicki 224, 2",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "26-02-2023",
-		"firstStandard": "Prz 3,26",
-		"secondStandard": "J 17,15",
-		"firstAdditional": "",
-		"secondAdditional": "",
-		"quoteNotFromBible": "Polecaj drogi swoje i życia swego los opiece tego Pana, co zły odwraca cios, kto chmurom, wichrom, burzy wyznaczyć umie szlak, ten i na ścieżki twoje swej łaski ześle znak.",
-		"quoteNotFromBibleReference": "ks. Paweł Gerhardt †1676, Śpiewnik ewangelicki 697,1",
-		"specialOccasionList": [
-			{
-				"occasion": "WEEK",
-				"title": "1. Pasyjna, Niedziela Diakonii (Invocavit – Wzywać mnie będzie. Ps 91,15)",
-				"mainQuote": "1. List Jana 3,8b",
-				"psalm": "Ps 91,1-6.9-12",
-				"worshipSongs": [
-					"Pozostań z łaską swoją 645",
-					"Jezu, zwycięstwo daj 678",
-					"Kto się w opiekę 681"
-				],
-				"apostolicLesson": "Hbr 4,14-16",
-				"sermonTextList": [
-					"Hi 2,1-13"
-				],
-				"oldTestament": "",
-				"gospel": "Mt 4,1-11"
-			}
-		],
-		"contemplationDTO": {
-			"bibleReference": "Hi 2,9-10",
-			"text": "Los sprawiedliwego Bożego człowieka, który doświadcza niezasłużonego cierpienia, prowokuje do refleksji. W dialogu z mężem jego żona odsłania się. Niewiele o tej kobiecie wiemy. Czy jest antybohaterką, czy raczej pokazuje ludzką twarz? W chwili próby konfrontuje nas z własną postawą wobec ciężkiego doświadczenia. Nie utrata majątku, ale śmierć dzieci i postępująca choroba jej męża – doprowadzają kobietę do zgorzknienia i poczucia żalu, i bezsensu istnienia.\nJak być gotowym na to, że nie ma limitu doświadczeń i bywamy zmuszeni przejść przez niekończącą się ciemną dolinę? Dlaczego żony Hioba nie buduje i nie wzmacnia wiara jej męża? Wiara jest cudem. Żona Hioba ją traci. Po ludzku skupia się na swoim bólu i egoistycznie reaguje na kolejne ciosy. Z tej perspektywy jej złość na pokorę męża jest zrozumiała. Nadzieja Hioba zaś ma głębokie umiejscowienie. Wyrażona przez proroka Micheasza myśl: „Chociaż upadłem, jednak wstanę, chociaż siedzę w ciemności, jednak Pan jest moją światłością” (Mi 7,8b), jest realnym doświadczeniem Hioba. Ciężka choroba i wszelkie bolesne straty nie pozbawiają tego człowieka wiary, jeśli potrafi powiedzieć: „Dobre przyjmujemy od Boga, czy nie mielibyśmy przyjmować i złego?”.",
-			"textReference": "Aleksandra Błahut-Kowalczyk"
-		}
-	},
-	{
-		"date": "27-02-2023",
-		"firstStandard": "Ps 98,9",
-		"secondStandard": "Obj 15,4",
-		"firstAdditional": "Jk 1,1-6(7-11)12.13",
-		"secondAdditional": "Rz 5,1-5",
-		"quoteNotFromBible": "Niech kłania się już Tobie ziemia, niech każdy Tobie modli się! Chcę głośno chwałę Twą wyśpiewać i poddać się już woli Twej. Chodź i oglądaj Boże dzieła, co Stwórca je ludzkości dał! Jak wielka tkwi w nich moc i siła; tak Pan, nas ludzi, uczcić chciał!",
-		"quoteNotFromBibleReference": "ks. Matthias Jorissen †1823, Śpiewnik ewangelicki 606, 2",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	},
-	{
-		"date": "28-02-2023",
-		"firstStandard": "Ps 130,1-2",
-		"secondStandard": "Łk 18,38-39",
-		"firstAdditional": "Hi 1,1-22",
-		"secondAdditional": "Rz 5,6-11",
-		"quoteNotFromBible": "Z głębokości mórz aż po szczyty gór, stworzenie objawia majestat Twój. Od kolorów jesieni po wiosenny nów – wszystko śpiewa Ci pieśń pełną cudownych słów, ogłaszając: Niepojęty, niezmierzony gwiazdy stworzyłeś na niebie i każdą z nich znasz. Wspaniałym Bogiem Tyś jest. Wszechmogący, nieskończony w zachwycie klękamy przed Tobą, by wyznać to, że wspaniałym Bogiem Tyś jest.",
-		"quoteNotFromBibleReference": "Laura Story",
-		"specialOccasionList": [],
-		"contemplationDTO": null
-	}
-]
+{
+  "biblePerDayList": [
+    {
+      "date": "01-02-2023",
+      "firstStandard": "Za 1,3",
+      "secondStandard": "2 P 3,9",
+      "firstAdditional": "Obj 1,(1.2)3-8",
+      "secondAdditional": "1 Mż 17,1-14",
+      "quoteNotFromBible": "Błądziłem, dążąc w różne strony, szukałem prawdy jak we mgle, od światła Twego odwrócony kochałem życia blaski czcze. Tyś swoją łaską sprawił to, żem poznał miłość Twą.",
+      "quoteNotFromBibleReference": "ks. Johann Scheffler †1677, Śpiewnik ewangelicki 781, 4",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "02-02-2023",
+      "firstStandard": "Jr 1,12",
+      "secondStandard": "Mt 5,17",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Nie czytaj sobie Pisma Świętego, jako fabuł, tylko dla rozkoszy, a dla krotofile swojej, ale sobie pilnie uważaj a rozważaj, iż co się kolwiek z wiernemi działo w dziwnych niebezpieczeństwach a prześladowaniu, to się też iście z tobą nieomylnie dziać będzie.",
+      "quoteNotFromBibleReference": "Mikołaj Rej †1569",
+      "specialOccasionList": [
+        {
+          "occasion": "DAY",
+          "title": "Dzień ofiarowania Pana Jezusa",
+          "mainQuote": "Ga 4,4",
+          "psalm": "Ps 138",
+          "worshipSongs": [
+            "O Jezu, ty światłości 242",
+            "Chrystus się narodził 37"
+          ],
+          "apostolicLesson": "V – Hbr 2,14-18; II – 1 J 1,1-4",
+          "sermonTextList": [],
+          "oldTestament": "VI – 2 Mż 13,1.2.14-16; III – Iz 49,1-6",
+          "gospel": "IV – Łk 2,22-35(36-40)I – J 8,12"
+        }
+      ],
+      "contemplationDTO": null
+    },
+    {
+      "date": "03-02-2023",
+      "firstStandard": "Iz 29,16",
+      "secondStandard": "Ef 2,10",
+      "firstAdditional": "Obj 1,(9-11)12-18",
+      "secondAdditional": "1 Mż 18,1-15",
+      "quoteNotFromBible": "Jeśli chcesz być wielki, zaczynaj od rzeczy małych. Zakładaj głęboki fundament pokory, skoro zamierzasz budować wysoko.",
+      "quoteNotFromBibleReference": "Augustyn z Hippony †430",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "04-02-2023",
+      "firstStandard": "1 Mż 28,22",
+      "secondStandard": "2 Kor 9,6",
+      "firstAdditional": "4 Mż 6,22-27",
+      "secondAdditional": "1 Mż 18,16-33",
+      "quoteNotFromBible": "Jeśli nie możesz nakarmić stu ludzi, nakarm chociaż jednego.",
+      "quoteNotFromBibleReference": "Matka Teresa z Kalkuty †1997",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "05-02-2023",
+      "firstStandard": "Koh 7,14 (BE)",
+      "secondStandard": "Mt 6,26",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Moc Boża zdolna jest stworzyć nadzieję tam, gdzie nie ma już nadziei wytyczyć drogę przez niemożliwe.",
+      "quoteNotFromBibleReference": "Grzegorz z Nyssy †395",
+      "specialOccasionList": [
+        {
+          "occasion": "WEEK",
+          "title": "3. Niedziela przed Postem (Septuagesimae – 70 dni przed Wielkanocą)",
+          "mainQuote": "Dn 9,18",
+          "psalm": "Ps 31,20-25",
+          "worshipSongs": [
+            "Bóg dał zbawienie 630"
+          ],
+          "apostolicLesson": "Flp 2,12-13",
+          "sermonTextList": [
+            "Mt 9,9-13"
+          ],
+          "oldTestament": "Jr 9,22-23",
+          "gospel": ""
+        }
+      ],
+      "contemplationDTO": {
+        "bibleReference": "Mt 9,9",
+        "text": "Jak w kinie akcji. Krótka chwila, spojrzenie Pana Jezusa, zwrot zapraszający i brzemienna w skutki decyzja Mateusza. Gdy pytam przyjaciół o ważne wersety Biblii, które przekierowały ich życie na inne tory, tylko raz usłyszałam ten cytat: „Pójdź za mną”. Szczęśliwy człowiek, szczęśliwy celnik, który staje się uczniem Pana Jezusa i idzie już wyłącznie za Nim. Wiem, że ilu ludzi, tyle dróg Boga do człowieka i tyle ludzkich odpowiedzi. Brak reakcji jest również odpowiedzią. Podobnie jak natychmiastowy odzew na Boży głos, choć taką spektakularną postawą mogą chlubić się nieliczni. Mateusz, celnik, człowiek uwikłany w nadużycia – staje się po wieki wieków przykładem tego, jak możliwa jest taka przemiana, jak za słowem może iść czyn. On po prostu wstał i poszedł za Jezusem.",
+        "textReference": "Aleksandra Błahut-Kowalczyk"
+      }
+    },
+    {
+      "date": "06-02-2023",
+      "firstStandard": "Jr 17,9-10",
+      "secondStandard": "Ga 6,9 (BE)",
+      "firstAdditional": "Łk 19,1-10",
+      "secondAdditional": "1 Mż 19,1-14",
+      "quoteNotFromBible": "Panie, Boże, to, co w nas zasiałeś, zbierzesz, gdy nadejdzie Twój dzień; a wszystko, co zacząłeś pośród nas, wypełnisz. Taka jest nasza nadzieja i tego oczekujemy przez Jezusa, który stał się naszą przyszłością.",
+      "quoteNotFromBibleReference": "Huub Oosterhuis",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "07-02-2023",
+      "firstStandard": "Iz 55,10-11",
+      "secondStandard": "J 15,7-8",
+      "firstAdditional": "5 Mż 7,6-12",
+      "secondAdditional": "1 Mż 19,15-29",
+      "quoteNotFromBible": "Potęga Pana nie zdejmuje z nas wszelkiej odpowiedzialności. Wręcz przeciwnie. Daje nam siłę, żebyśmy mogli działać.",
+      "quoteNotFromBibleReference": "Max Lucado",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "08-02-2023",
+      "firstStandard": "Ps 33,21",
+      "secondStandard": "1 Tes 5,16-17",
+      "firstAdditional": "Rz 4,1-8",
+      "secondAdditional": "1 Mż 19,30-38",
+      "quoteNotFromBible": "Boże, stwarzasz każdy kolejny dzień, abyśmy się nim cieszyli, inspirowali i pocieszali. Wskaż nam dziś, jak blisko jesteś. Zabierz od nas ociężałość i zniechęcenie oraz spraw, abyś nasze podejście do innych ludzi było pełne otwartości i autentycznego zainteresowania.",
+      "quoteNotFromBibleReference": "bp Maria Jepsen",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "09-02-2023",
+      "firstStandard": "So 1,7",
+      "secondStandard": "Mt 24,44",
+      "firstAdditional": "1 Kor 3,(1-3)4-8",
+      "secondAdditional": "1 Mż 21,1-21",
+      "quoteNotFromBible": "Niech swe zbawienie, Boże, budować każdy może na tym, co wiecznie trwa; niech szczerą nam ochotę jak dzieciom – serc prostotę na ziemi dobroć Twoja da.",
+      "quoteNotFromBibleReference": "Matthias Claudius †1815, Śpiewnik ewangelicki 509,5",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "10-02-2023",
+      "firstStandard": "Iz 52,7",
+      "secondStandard": "Ef 6,15",
+      "firstAdditional": "Ml 3,13-18",
+      "secondAdditional": "1 Mż 22,1-19",
+      "quoteNotFromBible": "Wszystkie moje troski i kłopoty w Twoje ręce składam, Panie mój. Bardzo cieszę się, że właśnie nas wybrałeś, byśmy idąc nieśli imię Twe. Zawsze chciałem zostać apostołem, było to pragnienie w życiu mym. Gdy odejdziesz, to napiszemy Ewangelię, aby imię Twe znał cały świat.",
+      "quoteNotFromBibleReference": "śpiewnik Chwalmy Pana 321, 1-2",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "11-02-2023",
+      "firstStandard": "Ps 142,8",
+      "secondStandard": "J 8,36",
+      "firstAdditional": "1 Kor 1,26-31",
+      "secondAdditional": "1 Mż 23,1-20",
+      "quoteNotFromBible": "Jezus już przyszedł, przepiękna korona! Boga najmilszy ten klejnot nam dan. Zdjęta przez Niego jest niebios zasłona, dzieci stracone w dom wiedzie już Pan. Ciesz się, ma duszo, boś jest ocalona; Jezus już przyszedł, przepiękna korona!",
+      "quoteNotFromBibleReference": "ks. Johann L. Allendorf †1773, Śpiewnik ewangelicki 108, 2",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "12-02-2023",
+      "firstStandard": "Joz 22,5",
+      "secondStandard": "J 12,26",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Cieśla nigdy nie będzie tak dokładny mierząc na oko, jak gdyby korzystał z miary. Tak i wszystkie postanowienia, zdolności i cała wiara są niczym, jeśli nie są zorientowane na miłość.",
+      "quoteNotFromBibleReference": "Ulrich Zwingli †1531",
+      "specialOccasionList": [
+        {
+          "occasion": "WEEK",
+          "title": "2. Niedziela przed Postem (Sexagesimae – 60 dni przed Wielkanocą)",
+          "mainQuote": "Hbr 3,15",
+          "psalm": "Ps 119,89-92.103-105.116",
+          "worshipSongs": [
+            "Już po wszystkim świecie 378"
+          ],
+          "apostolicLesson": "Hbr 4,12-13",
+          "sermonTextList": [
+            "Iz 55,(6-7)8-12a"
+          ],
+          "oldTestament": "",
+          "gospel": "Łk 8,4-8(9-15)"
+        }
+      ],
+      "contemplationDTO": {
+        "bibleReference": "Iz 55,11",
+        "text": "Czy to ma sens? Każdą niedzielę i święto stawać na ambonie i głosić kazania objaśniając teksty Pisma Świętego, przyporządkowane do odpowiednich rzędów perykop. A słuchacze słuchają lub niekoniecznie, niestety. Każdego poranku otwierać kolejne strony Z Biblią na co dzień i czytać dwa biblijne teksty, a nawet pozostałe dłuższe fragmenty Biblii. I tak jakoś niekoniecznie wszystko układa się jak powinno. Czy to wszystko ma jeszcze sens?\nNiewątpliwie. Gdyby sens tych działań był uwarunkowany naszymi staraniami, to faktycznie, byłby on znikomy. Ale tu działa Bóg. On sprawia, że Słowo Boże jest wciąż żywe i skuteczne. I warto je głosić, warto je czytać i nim żyć, bo daje prawdziwe życie!",
+        "textReference": "Adam Malina"
+      }
+    },
+    {
+      "date": "13-02-2023",
+      "firstStandard": "Ps 51,13",
+      "secondStandard": "Łk 18,13",
+      "firstAdditional": "5 Mż 32,44-47",
+      "secondAdditional": "Rz 1,1-7",
+      "quoteNotFromBible": "Serce czyste stwórz mi, Panie! Grzechy odpędź precz w otchłanie, zamknij drzwi do serca mego, by nie weszły znów do niego.",
+      "quoteNotFromBibleReference": "ks. Heinrich G. Neuss †1716, Śpiewnik ewangelicki 755, 1",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "14-02-2023",
+      "firstStandard": "Ps 73,1",
+      "secondStandard": "Mt 5,8",
+      "firstAdditional": "Am 8,(4-10)11.12",
+      "secondAdditional": "Rz 1,8-15",
+      "quoteNotFromBible": "Jezus ma otwarte serce, w którym płonie żar miłości, pragnącej przygarnąć do siebie tę zasmuconą, zatrwożoną i głodną rzeszę ludzi, aby ich natchnąć radością, obdarzyć szczęściem nadziei, nakarmić chlebem powszednim.",
+      "quoteNotFromBibleReference": "ks. Józef Szeruda †1971",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "15-02-2023",
+      "firstStandard": "Iz 29,14",
+      "secondStandard": "Mt 15,31",
+      "firstAdditional": "Łk 6,43-49",
+      "secondAdditional": "Rz 1,16-17",
+      "quoteNotFromBible": "Nie szczycę się mądrością Panie, nie szczycę się z dostatku swych sił. Nie jestem dumny z tego, co posiadam, tylko Tobą Panie szczycę się.",
+      "quoteNotFromBibleReference": "zespół TGD",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "16-02-2023",
+      "firstStandard": "Jon 2,3",
+      "secondStandard": "Łk 12,7",
+      "firstAdditional": "1 Tes 1,2-10",
+      "secondAdditional": "Rz 1,18-32",
+      "quoteNotFromBible": "Ucz się od dnia wczorajszego, żyj dniem dzisiejszym, miej nadzieję na jutro.",
+      "quoteNotFromBibleReference": "Albert Einstein †1955",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "17-02-2023",
+      "firstStandard": "Ps 104,24",
+      "secondStandard": "Obj 4,11",
+      "firstAdditional": "2 Tm 3,(10-13)14-17",
+      "secondAdditional": "Rz 2,1-16",
+      "quoteNotFromBible": "Gdy na ten świat spoglądam wielki Boże, coś stworzył go wszechmocnym Słowem swym, gdy myśl ma ludów policzyć nie może, które na świecie rozmnożyłeś tym. Me serce w uwielbieniu śpiewa Ci: Jak wielkiś Ty, jak wielkiś Ty!",
+      "quoteNotFromBibleReference": "ks. Carl G. Boberg †1940, Śpiewnik ewangelicki 846, 1",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "18-02-2023",
+      "firstStandard": "Ps 73,25",
+      "secondStandard": "Rz 8,38-39",
+      "firstAdditional": "Mt 13,31-35",
+      "secondAdditional": "Rz 2,17-29",
+      "quoteNotFromBible": "Jeśli Boga nie ma, to wszystko mi jedno, szczęście czy nieszczęście, dobro czy zło, śmierć czy życia. Jeśli Bóg jest, to tym bardziej mi wszystko jedno; niech ze mną czyni według woli swojej.",
+      "quoteNotFromBibleReference": "Jochen Klepper †1942",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "19-02-2023",
+      "firstStandard": "Ps 42,9",
+      "secondStandard": "Mt 14,23",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Gdyby nie jasność dnia, nie wiedziałabym, co to noc. Gdyby nie noc, nie cieszyłabym się dniem. Z tego regularnego porządku rodzi się moja ufność i pewność. Jakież ukojenie przynosi zmierzch po emocjonującym dniu, a potem poranek znów wzywa do działania. Obyśmy wszyscy rozpoznali, że ten Jeden, Stwórca, wszystko trzyma w swych dłoniach.",
+      "quoteNotFromBibleReference": "Pnina Navè-Levinson †1998",
+      "specialOccasionList": [
+        {
+          "occasion": "WEEK",
+          "title": "Przedpostna (Estomihi – Bądź mi skałą obronną! Ps 31,36)",
+          "mainQuote": "Łk 18,31",
+          "psalm": "Ps 31,2-6.8-9.16-17",
+          "worshipSongs": [
+            "Za Jezusem podążajmy 774"
+          ],
+          "apostolicLesson": "",
+          "sermonTextList": [
+            "1 Kor 13,1-13"
+          ],
+          "oldTestament": "Am 5,21-24",
+          "gospel": "Mk 8,31-38"
+        }
+      ],
+      "contemplationDTO": {
+        "bibleReference": "1 Kor 13,13",
+        "text": "W tym tygodniu wyruszamy na najtrudniejszy szlak z Jezusem. Ostatni etap wyznacza podejście na wzgórze Trupiej Czaszki – ciemność, a potem odwalony od grobu kamień – światłość.\nW czasie wędrowania z Synem Bożym stale przewijają się te trzy ważne słowa – wiara, nadzieja i miłość. Zostały nazwane „cnotami teologicznymi”. Wszystkie są potrzebne na duchowej drodze życia – w czasie wędrowania pod górę i schodzenia w dół. Paweł doprecyzował, że największa jest miłość. Trudno się z nim nie zgodzić. Miłość określa Boga. Z miłości został stworzony świat i człowiek. Miłość posłała Jezusa na krzyż. Miłość stanowi fundament życia Kościoła jako instytucji i Kościoła jako wspólnoty. Z miłości rodzą się wiara i nadzieja. Warto pielęgnować wszystkie trzy w swoim duchowym życiu.",
+        "textReference": "Mirosław Czyż"
+      }
+    },
+    {
+      "date": "20-02-2023",
+      "firstStandard": "Hi 14,1-2",
+      "secondStandard": "Hbr 13,14",
+      "firstAdditional": "Łk 13,31-35",
+      "secondAdditional": "Rz 3,1-8",
+      "quoteNotFromBible": "Ty, Panie, trwasz przy dziełach, które rozpocząłeś. Wypełnij i moje niedoskonałości.",
+      "quoteNotFromBibleReference": "Augustyn z Hippony †430",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "21-02-2023",
+      "firstStandard": "2 Sm 24,10",
+      "secondStandard": "1 J 1,9",
+      "firstAdditional": "Łk 5,33-39",
+      "secondAdditional": "Rz 3,9-20",
+      "quoteNotFromBible": "Stwórz serce czyste we mnie o Boże mój, a prawego ducha we mnie odnów. Panie nie odrzucaj mnie od oblicza swego dziś i nie zabieraj mi swojego Ducha, lecz proszę przywróć mi radość z Twojego zbawienia, tak przywróć i wesprzyj Duchem Swym.",
+      "quoteNotFromBibleReference": "Keith Green †1982, Śpiewnik ewangelicki 757",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "22-02-2023",
+      "firstStandard": "Jr 20,13",
+      "secondStandard": "Łk 1,46-48",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Nasz Bóg pieśń nową daje nam, On Bogiem cudów jest. Niech wielu jeszcze ujrzy Go, niech wszyscy wiedzą, że wołałem – Pan usłyszał mnie; czekałem – do mnie zbliżył się.",
+      "quoteNotFromBibleReference": "śpiewnik Będę śpiewał i grał 173, 2",
+      "specialOccasionList": [
+        {
+          "occasion": "DAY",
+          "title": "– Popielec. Dzień Pokuty i Modlitwy – początek czasu pasyjnego",
+          "mainQuote": "Łk 18,31",
+          "psalm": "Ps 51,3-6.11-14",
+          "worshipSongs": [
+            "Z głębokiej nędzy 438",
+            "Za Jezusem podążajmy 774"
+          ],
+          "apostolicLesson": "2 P 1,2-11",
+          "sermonTextList": [
+            "Mt 6,16-21"
+          ],
+          "oldTestament": "Jl 2,12-19",
+          "gospel": ""
+        }
+      ],
+      "contemplationDTO": null
+    },
+    {
+      "date": "23-02-2023",
+      "firstStandard": "Ez 33,11",
+      "secondStandard": "Mt 6,13",
+      "firstAdditional": "Kol 3,(5-7)8-11",
+      "secondAdditional": "Rz 3,27-31",
+      "quoteNotFromBible": "W religii chodzi nie tylko o rozróżnianie złego i dobrego, lecz o odmianę serca. Serce nasze skażone grzechem, nie jest zdolne do doskonałości. Mimo, że człowiek rozróżnia dobro od zła, serce jego nadal tkwi w grzechu. Jedyną mocą, która może wyzwolić człowieka z kleszczy grzechu jest Ewangelia Chrystusowa.",
+      "quoteNotFromBibleReference": "ks. Andrzej Buzek †1971",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "24-02-2023",
+      "firstStandard": "Iz 55,3",
+      "secondStandard": "2 Kor 1,20",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Wiem, tylko łaska Boża ze zborem jest i wiecznie trwa, więc nikt się już nie trwoży, lecz bojaźń Pańską w sercu ma i związek chce zachować z Niebiosów Królem czci, gdzie pieśń pochwalna nowa w anielskich ustach brzmi. Anioły, chwalcie Pana i służcie Bogu wciąż, niech dusza, Mu oddana, na ziemi śpiewa też!",
+      "quoteNotFromBibleReference": "ks. Johann Gramann †1541, Śpiewnik ewangelicki 584, 3",
+      "specialOccasionList": [
+        {
+          "occasion": "DAY",
+          "title": "Dzień apostoła Macieja",
+          "mainQuote": "Iz 52,7",
+          "psalm": "",
+          "worshipSongs": [
+            "Apostołów dziś wspomnijmy 244",
+            "Zbudź, Panie, ducha ojców wiary 541"
+          ],
+          "apostolicLesson": "Dz 1,15-26",
+          "sermonTextList": [],
+          "oldTestament": "",
+          "gospel": "Mt 11,25-30"
+        }
+      ],
+      "contemplationDTO": null
+    },
+    {
+      "date": "25-02-2023",
+      "firstStandard": "Oz 4,1",
+      "secondStandard": "Jk 1,5",
+      "firstAdditional": "Dn 5,1-7.17-30",
+      "secondAdditional": "Rz 4,13-25",
+      "quoteNotFromBible": "Wyrzuć z serca wszelkie wady, karność świętą wpoić chciej; niech słuchamy Twojej rady, niech żyjemy podług niej. Daj nam zdrowy, jasny sąd, byśmy rozeznali błąd.",
+      "quoteNotFromBibleReference": "Heinrich Held †1659, Śpiewnik ewangelicki 224, 2",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "26-02-2023",
+      "firstStandard": "Prz 3,26",
+      "secondStandard": "J 17,15",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Polecaj drogi swoje i życia swego los opiece tego Pana, co zły odwraca cios, kto chmurom, wichrom, burzy wyznaczyć umie szlak, ten i na ścieżki twoje swej łaski ześle znak.",
+      "quoteNotFromBibleReference": "ks. Paweł Gerhardt †1676, Śpiewnik ewangelicki 697,1",
+      "specialOccasionList": [
+        {
+          "occasion": "WEEK",
+          "title": "1. Pasyjna, Niedziela Diakonii (Invocavit – Wzywać mnie będzie. Ps 91,15)",
+          "mainQuote": "1. List Jana 3,8b",
+          "psalm": "Ps 91,1-6.9-12",
+          "worshipSongs": [
+            "Pozostań z łaską swoją 645",
+            "Jezu, zwycięstwo daj 678",
+            "Kto się w opiekę 681"
+          ],
+          "apostolicLesson": "Hbr 4,14-16",
+          "sermonTextList": [
+            "Hi 2,1-13"
+          ],
+          "oldTestament": "",
+          "gospel": "Mt 4,1-11"
+        }
+      ],
+      "contemplationDTO": {
+        "bibleReference": "Hi 2,9-10",
+        "text": "Los sprawiedliwego Bożego człowieka, który doświadcza niezasłużonego cierpienia, prowokuje do refleksji. W dialogu z mężem jego żona odsłania się. Niewiele o tej kobiecie wiemy. Czy jest antybohaterką, czy raczej pokazuje ludzką twarz? W chwili próby konfrontuje nas z własną postawą wobec ciężkiego doświadczenia. Nie utrata majątku, ale śmierć dzieci i postępująca choroba jej męża – doprowadzają kobietę do zgorzknienia i poczucia żalu, i bezsensu istnienia.\nJak być gotowym na to, że nie ma limitu doświadczeń i bywamy zmuszeni przejść przez niekończącą się ciemną dolinę? Dlaczego żony Hioba nie buduje i nie wzmacnia wiara jej męża? Wiara jest cudem. Żona Hioba ją traci. Po ludzku skupia się na swoim bólu i egoistycznie reaguje na kolejne ciosy. Z tej perspektywy jej złość na pokorę męża jest zrozumiała. Nadzieja Hioba zaś ma głębokie umiejscowienie. Wyrażona przez proroka Micheasza myśl: „Chociaż upadłem, jednak wstanę, chociaż siedzę w ciemności, jednak Pan jest moją światłością” (Mi 7,8b), jest realnym doświadczeniem Hioba. Ciężka choroba i wszelkie bolesne straty nie pozbawiają tego człowieka wiary, jeśli potrafi powiedzieć: „Dobre przyjmujemy od Boga, czy nie mielibyśmy przyjmować i złego?”.",
+        "textReference": "Aleksandra Błahut-Kowalczyk"
+      }
+    },
+    {
+      "date": "27-02-2023",
+      "firstStandard": "Ps 98,9",
+      "secondStandard": "Obj 15,4",
+      "firstAdditional": "Jk 1,1-6(7-11)12.13",
+      "secondAdditional": "Rz 5,1-5",
+      "quoteNotFromBible": "Niech kłania się już Tobie ziemia, niech każdy Tobie modli się! Chcę głośno chwałę Twą wyśpiewać i poddać się już woli Twej. Chodź i oglądaj Boże dzieła, co Stwórca je ludzkości dał! Jak wielka tkwi w nich moc i siła; tak Pan, nas ludzi, uczcić chciał!",
+      "quoteNotFromBibleReference": "ks. Matthias Jorissen †1823, Śpiewnik ewangelicki 606, 2",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "28-02-2023",
+      "firstStandard": "Ps 130,1-2",
+      "secondStandard": "Łk 18,38-39",
+      "firstAdditional": "Hi 1,1-22",
+      "secondAdditional": "Rz 5,6-11",
+      "quoteNotFromBible": "Z głębokości mórz aż po szczyty gór, stworzenie objawia majestat Twój. Od kolorów jesieni po wiosenny nów – wszystko śpiewa Ci pieśń pełną cudownych słów, ogłaszając: Niepojęty, niezmierzony gwiazdy stworzyłeś na niebie i każdą z nich znasz. Wspaniałym Bogiem Tyś jest. Wszechmogący, nieskończony w zachwycie klękamy przed Tobą, by wyznać to, że wspaniałym Bogiem Tyś jest.",
+      "quoteNotFromBibleReference": "Laura Story",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    }
+  ]
+}

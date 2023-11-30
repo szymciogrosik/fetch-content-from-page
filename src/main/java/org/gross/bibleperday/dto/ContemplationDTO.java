@@ -2,9 +2,12 @@ package org.gross.bibleperday.dto;
 
 public class ContemplationDTO {
 
-    private final String bibleReference;
-    private final String text;
-    private final String textReference;
+    private String bibleReference;
+    private String text;
+    private String textReference;
+
+    public ContemplationDTO() {
+    }
 
     private ContemplationDTO(String bibleReference, String text, String textReference) {
         this.bibleReference = bibleReference;

@@ -1,24 +1,25 @@
 package org.gross.utils;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
-import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.File;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 
-public abstract class JsonSerializerBase {
+public class JsonUtils {
 
     private static final SimpleDateFormat SDF = new SimpleDateFormat("dd-MM-yyyy");
-    private final ObjectMapper mapper;
+    private static final ObjectMapper mapper = new ObjectMapper();;
 
-    public JsonSerializerBase() {
-        mapper = new ObjectMapper();
+    static {
         mapper.setDateFormat(SDF);
     }
 
-    public String defaultSerialize(Object o) {
+    private JsonUtils() {
+    }
+
+    public static String serialize(Object o) {
         try {
             return mapper.writeValueAsString(o);
         } catch (JsonProcessingException e) {
@@ -26,9 +27,9 @@ public abstract class JsonSerializerBase {
         }
     }
 
-    public <T> T defaultDeserialize(File file) {
+    public static <T> T deserialize(File file, Class<T> tClass) {
         try {
-            return mapper.readValue(file, new TypeReference<>(){});
+            return mapper.readValue(file, tClass);
         } catch (IOException e) {
             throw new RuntimeException("Cannot deserialize object!", e);
         }

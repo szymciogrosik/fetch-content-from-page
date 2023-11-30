@@ -1,401 +1,484 @@
-[{
-	"date": "01-11-2023",
-	"firstStandard": "5 Mż 32,7",
-	"secondStandard": "2 Tm 1,5",
-	"firstAdditional": "",
-	"secondAdditional": "",
-	"quoteNotFromBible": "To nie ja sama powiedziałam sobie, że warto Ci ufać. Pokolenia mężczyzn i kobiet przede mną odważyły się wierzyć. Dziękuję za ich słowa i pieśni, w których odnalazłam Ciebie i samą siebie. A kiedy się od Ciebie oddalam, znów podajesz mi swoją dłoń poprzez nie.",
-	"quoteNotFromBibleReference": "ks. Benigna Carstens",
-	"specialOccasionList": [{
-		"occasion": "DAY",
-		"title": "Pamiątka Świętych Pańskich",
-		"mainQuote": "Ef 2,19",
-		"psalm": "Ps 24",
-		"worshipSongs": ["Gdy ze mną Bóg 635", "W niebiesiech, w niebiesiech 276"],
-		"apostolicLesson": "Obj 7,9-12",
-		"sermonTextList": ["Dn 7,1-3.13-18.27"],
-		"oldTestament": "",
-		"gospel": "Mt 5,1-10"
-	}, {
-		"occasion": "DAY",
-		"title": "Pamiątka Umarłych",
-		"mainQuote": "Ps 90,12",
-		"psalm": "Ps 102",
-		"worshipSongs": ["O, jakeście wy błogosławieni 924", "Dokąd mam się w troskach męczyć 670"],
-		"apostolicLesson": "1 Kor 15,35-38.42-44a",
-		"sermonTextList": ["Dn 12,1b-3"],
-		"oldTestament": "",
-		"gospel": "J 5,24-29"
-	}],
-	"contemplationDTO": {
-		"bibleReference": "Dn 12,1",
-		"text": "W archiwum parafii w Sosnowcu znajduje się księga, która została założona ok. 1905 roku i nosi nazwę Księga personaliów. Zapisano w niej nazwiska wszystkich rodzin, należących wówczas do tej parafii i imiona tworzących te rodziny osób. Dodatkowo przy każdym imieniu malutkimi literami pojawiła się data i miejsce urodzenia, imiona rodziców, data ślubu oraz dane dzieci. Uzupełnieniem jest numer odpowiedniego aktu metrykalnego. To idealny pomocnik w poszukiwaniach rodzinnych i genealogicznych. Żeby się znaleźć w tej księdze, trzeba było się zetknąć na gruncie kościelnym z ks. Eugeniuszem Uthke, który wpisywał skrupulatnie swoje owieczki do rejestru.\nJest też taka księga, której nie ma w żadnej kancelarii czy archiwum kościelnym. Zdeponowana jest w niebie. Autorem wpisów jest sam Bóg, a są tam dane wszystkich zbawionych. Żeby znaleźć się w tej księdze niewiele trzeba. W zasadzie wpisy są za darmo, z łaski, bez naszych zasług. Znajduje się tam każdy, kto uwierzył w Jezusa Chrystusa. Niby tylko tyle, lecz wpis do tej księgi ma kolosalne znaczenie dla naszej wieczności.",
-		"textReference": "AM"
-	}
-}, {
-	"date": "02-11-2023",
-	"firstStandard": "Iz 50,4",
-	"secondStandard": "Mt 25,39",
-	"firstAdditional": "2 Kor 6,1-10",
-	"secondAdditional": "Hi 3,1-26",
-	"quoteNotFromBible": "Prawdziwymi nauczycielami są ci, którzy z Chrystusem zbierają to, co rozrzucone i opatrują to, co zranione, i leczą to, co chore.",
-	"quoteNotFromBibleReference": "Menno Simons †1561",
-	"specialOccasionList": [],
-	"contemplationDTO": null
-}, {
-	"date": "03-11-2023",
-	"firstStandard": "So 2,3",
-	"secondStandard": "Kol 3,12",
-	"firstAdditional": "Łk 22,49-53",
-	"secondAdditional": "Hi 4,1-21",
-	"quoteNotFromBible": "Duchu Święty, ukazujesz nam rzeczywistość Ewangelii: miłość, która wybacza, tak że nie ma już niczego złego – chyba, że stracimy ducha miłosierdzia.",
-	"quoteNotFromBibleReference": "br. Roger Schütz †2005",
-	"specialOccasionList": [],
-	"contemplationDTO": null
-}, {
-	"date": "04-11-2023",
-	"firstStandard": "Iz 66,13",
-	"secondStandard": "J 16,24",
-	"firstAdditional": "2 Tm 2,1-5(6)",
-	"secondAdditional": "Hi 5,17-27",
-	"quoteNotFromBible": "Boże, święta Mądrości, znasz nasze bóle. Widzisz nasze łzy, także te niewypłakane. Pocieszasz nas, jak pociesza matka, sprawiasz, że umiemy się pogodzić z naszymi zranieniami i winą.",
-	"quoteNotFromBibleReference": "Christa Mathies",
-	"specialOccasionList": [],
-	"contemplationDTO": null
-}, {
-	"date": "05-11-2023",
-	"firstStandard": "Prz 21,21",
-	"secondStandard": "Mt 6,33",
-	"firstAdditional": "",
-	"secondAdditional": "",
-	"quoteNotFromBible": "Strzeż dziś życia mego, Panie, w Tobie składam swe ufanie; bądź mi Zbawcą w utrapieniu, bądź mi ojcem w przewinieniu. Daj, bym czasu tu nie trwonił i dziedzictwa nie uronił, a gdy wieczór mój nastanie – wesół zasnął w Tobie, Panie!",
-	"quoteNotFromBibleReference": "Christian F. Gellert †1769, Śpiewnik ewangelicki 483, 6-7",
-	"specialOccasionList": [{
-		"occasion": "WEEK",
-		"title": "22. po Trójcy Świętej",
-		"mainQuote": "Ps 130,40",
-		"psalm": "Ps 143,1-9",
-		"worshipSongs": ["O Jezu, słońce łaski 809"],
-		"apostolicLesson": "",
-		"sermonTextList": ["1 J 2,12-14"],
-		"oldTestament": "Iz 44,21-23",
-		"gospel": "Mt 18,21-35"
-	}],
-	"contemplationDTO": {
-		"bibleReference": "1 J 2,12",
-		"text": "Postęp cywilizacyjny w naszym kraju doszedł do takiego poziomu, że w zasadzie wszyscy są piśmienni. W różnych kontekstach komunikujemy się za pomocą znaków zwanych literami. Najbardziej powszechne jest chyba pisanie w telefonie komórkowym: esemesy, posty, zapiski w kalendarzu, w notatnikach itd. Co ważne, pisanie jest trwalsze niż mówienie. Verba volant scripta manent – powiadali starożytni – czyli: słowa ulatują, a to, co napisane, pozostaje.\nBóg przemawiał na różne sposoby. Najczęściej posługiwał się wypowiedziami słownymi. Aby nie uleciały, natchnieni Duchem Świętym ludzie zapisywali je. Jan napisał w imieniu Boga niezwykłe przesłanie dla wszystkich pokoleń, aby nie zapomniały, że z powodu tego, co zrobił Jezus, odpuszczone są grzechy.\nNajważniejszym słowem w każdym zdaniu jest czasownik. W naszym przypadku grecki czasownik afiemi znaczy m.in. rozpuszczać, anulować, umarzać. Wszystkie te wyrazy sprowadzają grzechy do jednego mianownika: nie ma ich. Dzięki Jezusowi zostały usunięte, podobnie jak w komputerze czy w telefonie komórkowym klikamy „usuń”. Wyznany grzech oznacza usunięcie ciężaru. Czy czujemy się lżejsi, gdy szczerze prosimy Boga o łaskę i odpuszczenie?",
-		"textReference": "Mirosław Czyż"
-	}
-}, {
-	"date": "06-11-2023",
-	"firstStandard": "Ps 77,14",
-	"secondStandard": "J 16,28",
-	"firstAdditional": "2 Mż 32,15-20(21-24)",
-	"secondAdditional": "Hi 6,1-10.24-30",
-	"quoteNotFromBible": "Jedyna droga, którą wybieram dziś to Ty. Jedyna prawda, która wskaże mi jak mam żyć bez strachu i zwątpień. Za Tobą Jezu pójdę choćby mi runął świat, pobłogosławisz kiedy w ciszy zaufam ci. Nie zawiodę się.",
-	"quoteNotFromBibleReference": "zespół CSM/Worship",
-	"specialOccasionList": [],
-	"contemplationDTO": null
-}, {
-	"date": "07-11-2023",
-	"firstStandard": "Ez 34,23",
-	"secondStandard": "Mt 9,36",
-	"firstAdditional": "Jon 1,1-16; 2,1",
-	"secondAdditional": "Hi 7,7-21",
-	"quoteNotFromBible": "Dobry Pasterzu, w moim niepowodzeniu wypowiadasz swoje Słowo. Dotykasz mnie cicho, budzę się i z radością podążam drogą, którą mi wskazujesz.",
-	"quoteNotFromBibleReference": "Hanna Hümmer †1977",
-	"specialOccasionList": [],
-	"contemplationDTO": null
-}, {
-	"date": "08-11-2023",
-	"firstStandard": "Ps 118,26",
-	"secondStandard": "J 1,12",
-	"firstAdditional": "Jon (3,10)4,1-11",
-	"secondAdditional": "Hi 8,1-22",
-	"quoteNotFromBible": "Pochwal, mój duchu, Mocarza i wznieś Mu śpiewanie! Z wszystkim, co życie ma, wespół zwróć doń swe błaganie; On światłem twym. Chwalmy więc sercem go swym: Amen, tak niechaj się stanie.",
-	"quoteNotFromBibleReference": "Joachim Neander †1680, Śpiewnik ewangelicki 620, 5",
-	"specialOccasionList": [],
-	"contemplationDTO": null
-}, {
-	"date": "09-11-2023",
-	"firstStandard": "Ps 31,23",
-	"secondStandard": "Rz 8,26",
-	"firstAdditional": "Mt 7,1-5(6)",
-	"secondAdditional": "Hi 9,1-15.32-35",
-	"quoteNotFromBible": "W otchłaniach, których żadne pocieszenie nie sięga, niech dosięgnie mnie Twoja wierność. W noce, w które wiara ustępuje, niech Twoja łaska nie odstępuje ode mnie. Kiedy nie mogę uchwycić się Twojej ręki, Ty chwyć moją w swoje ręce, przyjmij łaskawie moją duszę i doprowadź mnie do dobrego końca.",
-	"quoteNotFromBibleReference": "Justus Delbrück †1945",
-	"specialOccasionList": [],
-	"contemplationDTO": null
-}, {
-	"date": "10-11-2023",
-	"firstStandard": "Iz 5,21",
-	"secondStandard": "1 P 5,5",
-	"firstAdditional": "Mt 12,32-37",
-	"secondAdditional": "Hi 11,1-20",
-	"quoteNotFromBible": "Żywota Stróżu wierny! Na nic trud nasz niezmierny, gdy sam nas nie wspomożesz, najmiłościwszy Boże.",
-	"quoteNotFromBibleReference": "ks. Paweł Gerhardt †1676, Śpiewnik ewangelicki 99, 3",
-	"specialOccasionList": [],
-	"contemplationDTO": null
-}, {
-	"date": "11-11-2023",
-	"firstStandard": "1 Mż 32,1",
-	"secondStandard": "Hbr 1,14",
-	"firstAdditional": "",
-	"secondAdditional": "",
-	"quoteNotFromBible": "Prowadziłeś mnie po mojej drodze, wielki Boże, od zarania. Każdego dnia wiernie mi towarzyszyłeś, chcąc dla mnie jedynie dobra. Często podążałeś za mną, kiedy biegłam niewłaściwą drogą, a dzięki temu, że mnie wołałeś, mogłam zaczynać od nowa.",
-	"quoteNotFromBibleReference": "Gisela Kandler",
-	"specialOccasionList": [{
-		"occasion": "DAY",
-		"title": "Święto Odzyskania Niepodległości",
-		"mainQuote": "Prz 14,34",
-		"psalm": "Ps 85 lub Ps 80",
-		"worshipSongs": ["Boże, coś Polskę 837", "Ojcowski dom 465", "O Boże, usłysz głos 856"],
-		"apostolicLesson": "",
-		"sermonTextList": [],
-		"oldTestament": "",
-		"gospel": ""
-	}],
-	"contemplationDTO": null
-}, {
-	"date": "12-11-2023",
-	"firstStandard": "1 Mż 45,24",
-	"secondStandard": "Kol 3,13",
-	"firstAdditional": "",
-	"secondAdditional": "",
-	"quoteNotFromBible": "Idźcie w pokoju. Nie kłóćcie się w drodze. Nie trwońcie sił na bezowocne dyskusje. Otwierajcie swoje serca, kiedy idziecie do ludzi. Oddychajcie pokojem. Bądźcie posłańcami pokoju Chrystusa.",
-	"quoteNotFromBibleReference": "Lindolfo Weingärtner †2018",
-	"specialOccasionList": [{
-		"occasion": "WEEK",
-		"title": "3. przed końcem roku kościelnego",
-		"mainQuote": "Mt 5,9",
-		"psalm": "Ps 85,9-14",
-		"worshipSongs": ["Czekamy Cię, Tyś Boży Syn 267", "Wpośród życia, jednak 280"],
-		"apostolicLesson": "",
-		"sermonTextList": ["Rz 8,18-25"],
-		"oldTestament": "Mi 4,1-5(7b)",
-		"gospel": "Łk 17,20–24(25–30)"
-	}],
-	"contemplationDTO": {
-		"bibleReference": "Rz 8,22",
-		"text": "Człowiek w rozdarciu, świat w pogłębiającym się kryzysie – to czas przeszły opisany przez apostoła Pawła i czas teraźniejszy, boleśnie realny, którego jesteśmy uczestnikami. Całe stworzenie cierpi i żyje w oczekiwaniu chwały Bożej, która ma się objawić. Czy naprawdę ogół czeka? Czy raczej, jak za czasów Noego, kpi z proroctw i używa życia?\nZbliżający się koniec roku kościelnego to okazja do podsumowań, ale też czas mierzenia się z wyobrażeniem wieczności i z przyszłością spoza granic poznania. Cóż można bowiem wiedzieć o chwale, która ma się dopiero rozpostrzeć? Można jedynie jęczeć i boleć, bo nasze poznanie jest dotychczas cząstkowe, „widzimy jakby przez zwierciadło i niby w zagadce” (1 Kor 13,12). Gdyby nie obecność Jezusa Chrystusa, czas wzdychania, bólu oczekiwania – byłby nie do zniesienia. Tylko z Jezusem wszystko nabiera sensu.",
-		"textReference": "Aleksandra Błahut-Kowalczyk"
-	}
-}, {
-	"date": "13-11-2023",
-	"firstStandard": "Iz 50,5",
-	"secondStandard": "J 10,16",
-	"firstAdditional": "1 Mż 33,1-4(5-7)8-1",
-	"secondAdditional": "Hi 19,21-29",
-	"quoteNotFromBible": "Boskie słowo jest słodkie dla tego, kto się go uczy, słodsze dla tego, kto uczy, a najsłodsze dla tego, kto wprowadza je w życie.",
-	"quoteNotFromBibleReference": "Albert Wielki †1280",
-	"specialOccasionList": [],
-	"contemplationDTO": null
-}, {
-	"date": "14-11-2023",
-	"firstStandard": "Iz 57,16",
-	"secondStandard": "2 Kor 5,19",
-	"firstAdditional": "Iz 57,17-19(20.21)",
-	"secondAdditional": "Hi 31,16-40",
-	"quoteNotFromBible": "Bóg pragnie zbawić ludzkie plemię i jego zguby nie chce On, więc Syna zesłał nam na ziemie, by przed niebieski wiódł nas tron; dlatego do serc naszych bram kołacze wciąż Zbawiciel sam.",
-	"quoteNotFromBibleReference": "ks. Johann A. Rothe †1758, Śpiewnik ewangelicki 654, 3",
-	"specialOccasionList": [],
-	"contemplationDTO": null
-}, {
-	"date": "15-11-2023",
-	"firstStandard": "Iz 55,1",
-	"secondStandard": "Mk 1,32",
-	"firstAdditional": "Za 8,11-17",
-	"secondAdditional": "Hi 40,1-5",
-	"quoteNotFromBible": "Pójdź do Jezusa, dziś jeszcze czas! Usłysz głos Jego, nie bądź jak głaz. Wszak On tak bardzo miłuje nas, woła tak słodko: „Pójdź!”. Ujrzysz widok piękny jako cud, gdy rzuciwszy grzechu złość i brud wkroczymy wreszcie w niebiański gród, Jezu przychodzę już.",
-	"quoteNotFromBibleReference": "George F. Root †1895, Śpiewnik ewangelicki 751, 1",
-	"specialOccasionList": [],
-	"contemplationDTO": null
-}, {
-	"date": "16-11-2023",
-	"firstStandard": "Jr 32,40",
-	"secondStandard": "1 J 4,9",
-	"firstAdditional": "Łk 9,51-56",
-	"secondAdditional": "Hi 40,6-32",
-	"quoteNotFromBible": "Kiedy Cię spotykam, Twa miłość mnie dotyka. Ogarnia moje serce i pragnę Ciebie więcej. Nie wiem, jak mógłbym zapomnieć o Tobie, bo wiem, że Ty pamiętasz wciąż o mnie i kochasz mnie pomimo tego, że błądzę. Bliżej, o bliżej Ciebie być.",
-	"quoteNotFromBibleReference": "Patryk Haręża, zespół Pathlife",
-	"specialOccasionList": [],
-	"contemplationDTO": null
-}, {
-	"date": "17-11-2023",
-	"firstStandard": "Iz 55,8",
-	"secondStandard": "1 Kor 1,25",
-	"firstAdditional": "J 18,10.11",
-	"secondAdditional": "Hi 42,1-6",
-	"quoteNotFromBible": "Miej prostotę gołębia, żebyś nikogo nie oszukiwał, ale potrzebna ci także i roztropność węża, żebyś się nie dał oszukać. Roztropność bez prostoty jest złością, prostota bez roztropności głupotą.",
-	"quoteNotFromBibleReference": "Hieronim ze Strydonu †420",
-	"specialOccasionList": [],
-	"contemplationDTO": null
-}, {
-	"date": "18-11-2023",
-	"firstStandard": "Ps 33,17-18",
-	"secondStandard": "Flp 3,3",
-	"firstAdditional": "1 P 3,8-17",
-	"secondAdditional": "Hi 42,7-17",
-	"quoteNotFromBible": "Boże, daj nam poznać, że ludzka mania wielkości jest jedynie żałosnym przecenianiem własnych sił i spraw, abyśmy powstrzymywali się od siania zniszczenia. Pokaż nam, jak nasz świat może zostać uzdrowiony: napełniony miłością i przemieniony przez Twojego Syna.",
-	"quoteNotFromBibleReference": "Sylvia Bukowski",
-	"specialOccasionList": [],
-	"contemplationDTO": null
-}, {
-	"date": "19-11-2023",
-	"firstStandard": "Ml 2,7",
-	"secondStandard": "1 P 3,15",
-	"firstAdditional": "",
-	"secondAdditional": "",
-	"quoteNotFromBible": "Daj mowę prawdy mi, co zawsze się ostoi, bym niepotrzebnych zdań na wiatr nie rzucał swoich. A jeśli w pracy swej używać muszę słów, daj moc wymowie mej, przeze mnie, Panie, mów!",
-	"quoteNotFromBibleReference": "ks. Johann Heermann †1647, Śpiewnik ewangelicki 873, 3",
-	"specialOccasionList": [{
-		"occasion": "WEEK",
-		"title": "Przedostatnia roku kościelnego",
-		"mainQuote": "2 Kor 5,10",
-		"psalm": "Ps 50,1.4-6.14.15.23",
-		"worshipSongs": ["Przybliża się już sądny dzień 274", "W sądu dzień 277"],
-		"apostolicLesson": "Rz 14,(1-6)7-13",
-		"sermonTextList": ["Mt 25,31-46"],
-		"oldTestament": "Hi 14,1-6(7-12)13(14)15-17",
-		"gospel": ""
-	}],
-	"contemplationDTO": {
-		"bibleReference": "Mt 25,37.44",
-		"text": "Wyobraźnia ludzka, szczególnie w czasach średniowiecza i renesansu, tworzyła różne obrazy sądu ostatecznego. Wśród nich szczególnie znana jest wizja Hansa Memlinga z 1471 roku. Jego obraz miał znaleźć się w miejscowości pod Florencją, ale został zrabowany i trafił do kościoła mariackiego w Gdańsku. Dziś możemy go podziwiać w Muzeum Narodowym w Gdańsku, bo w latach trzydziestych XX w. luterańska parafia Marii Panny w Gdańsku przekazała oryginał do muzeum.\nDziś nawet nie trzeba jechać na północ Polski – wystarczy wpisać „sąd ostateczny Memling” w wyszukiwarkę internetową i można oglądać obraz do woli. Zanim to zrobimy, proponuję przeczytać fragment Ewangelii o sądzie. Mam wrażenie, że dominującym stanem psychicznym patrzących na tryptyk Memlinga jest zdziwienie i takie samo odczucie pojawia się u bohaterów Jezusowej opowieści o sądzie ostatecznym. Wszyscy się tak uporczywie pytają, bo w swoim mniemaniu nigdy króla nie spotkali.\nMy też nie widzieliśmy nigdy Jezusa. A okazuje się, że tak wiele zależy od tego, co dla Niego uczyniliśmy, gdy Go tyle razy spotkaliśmy, nie wiedząc, że to On.",
-		"textReference": "Adam Malina"
-	}
-}, {
-	"date": "20-11-2023",
-	"firstStandard": "Ps 90,13",
-	"secondStandard": "J 14,3",
-	"firstAdditional": "Mt 25,14-20",
-	"secondAdditional": "Jud 1-16",
-	"quoteNotFromBible": "O Jezu, zorzo duszy! Przyjdź do nas, z nieba, przyjdź! Gdy duch nasz więzy skruszy, Ty jako słońce wznijdź! O Jezu, przez swą mękę wyprowadź z boju nas; znękanym podaj rękę, zbawienia przybliż czas.",
-	"quoteNotFromBibleReference": "Lorenz Lorenzen †1866, Śpiewnik ewangelicki 272, 5",
-	"specialOccasionList": [],
-	"contemplationDTO": null
-}, {
-	"date": "21-11-2023",
-	"firstStandard": "1 Sm 7,12",
-	"secondStandard": "Dz 26,22",
-	"firstAdditional": "Jr 8,4-9",
-	"secondAdditional": "Jud 17-25",
-	"quoteNotFromBible": "Będziesz przy nas, kiedy zliczymy dni. Pokazałeś nam już w życiu tyle piękna, okazałeś tyle zachęty. Dałeś nam marzenia, spełniałeś życzenia i obdarowałeś szczęściem w swojej bliskości. Bez Ciebie jesteśmy jednak niczym. Nie sposób wyobrazić sobie serc, nieba ani ziemi bez Ciebie. Wierzymy w Ciebie, wielbimy i kochamy Cię.",
-	"quoteNotFromBibleReference": "Hanns Dieter Hüsch †2005",
-	"specialOccasionList": [],
-	"contemplationDTO": null
-}, {
-	"date": "22-11-2023",
-	"firstStandard": "Hi 9,2-3",
-	"secondStandard": "Łk 15,18",
-	"firstAdditional": "Ez 22,23–31",
-	"secondAdditional": "Mt 24,1–14",
-	"quoteNotFromBible": "Nigdy nikomu nie przebaczysz bardziej, niż Bóg już wybaczył Tobie.",
-	"quoteNotFromBibleReference": "Max Lucado",
-	"specialOccasionList": [],
-	"contemplationDTO": null
-}, {
-	"date": "23-11-2023",
-	"firstStandard": "Ps 69,6",
-	"secondStandard": "Ef 1,7",
-	"firstAdditional": "2 Tes 1,3-12",
-	"secondAdditional": "Mt 24,15-28",
-	"quoteNotFromBible": "Ale przez Twe rany, Chryste, przez Twej krwi najświętszy dar, serce moje będzie czyste, bo mych grzechów zgasisz żar. Zdam się na Twe zmiłowanie, zniknie trwoga, strach ustanie.",
-	"quoteNotFromBibleReference": "Johann Franck †1677, Śpiewnik ewangelicki 430, 5",
-	"specialOccasionList": [],
-	"contemplationDTO": null
-}, {
-	"date": "24-11-2023",
-	"firstStandard": "Za 13,9",
-	"secondStandard": "Obj 21,3-4",
-	"firstAdditional": "Hbr 13,17-21",
-	"secondAdditional": "Mt 24,29-31",
-	"quoteNotFromBible": "Na koniec dni, u zarania nowego stworzenia, kiedy wszyscy oglądać będą Twoje oblicze w jego boskości i będą trwać w Twoim świetle, pragnę i ja być w tej niezliczonej rzeszy, w tłumie wszystkich biednych i tłumie Twoich świętych.",
-	"quoteNotFromBibleReference": "Maria Baldus-Cohen-Or †2014",
-	"specialOccasionList": [],
-	"contemplationDTO": null
-}, {
-	"date": "25-11-2023",
-	"firstStandard": "2 Mż 24,7",
-	"secondStandard": "Jk 1,22",
-	"firstAdditional": "2 P 3,(13)14-18",
-	"secondAdditional": "Mt 24,32-44",
-	"quoteNotFromBible": "O pochyl mnie i z gliny tej, tak na nic nieprzydatnej Ci, naczynie użyteczne stwórz, co służyć będzie Twojej czci.",
-	"quoteNotFromBibleReference": "Phillip Bliss †1876, Śpiewnik ewangelicki 429, 6",
-	"specialOccasionList": [],
-	"contemplationDTO": null
-}, {
-	"date": "26-11-2023",
-	"firstStandard": "Na 1,7",
-	"secondStandard": "Mt 7,7",
-	"firstAdditional": "",
-	"secondAdditional": "",
-	"quoteNotFromBible": "Idź z modlitwą w ten dzień! Cokolwiek by przyniósł, weź to z modlitwą z Bożej ręki – to, co się powiedzie i to, co się nie uda. Idź z modlitwą przez obowiązki dnia, wówczas nic nie będzie zbyt trudne. Ten, który toruje drogę, Jezus Chrystus, idzie przecież przed tobą.",
-	"quoteNotFromBibleReference": "Käte Walter",
-	"specialOccasionList": [{
-		"occasion": "WEEK",
-		"title": "Ostatnia roku kościelnego, Niedziela Wieczności",
-		"mainQuote": "Łk 12,35",
-		"psalm": "Ps 126",
-		"worshipSongs": ["Zbudźcie się, tak ci wołają 282"],
-		"apostolicLesson": "",
-		"sermonTextList": ["2 P 3,(3-7)8-13"],
-		"oldTestament": "Iz 65,17-19(20-22)23-25",
-		"gospel": "Mt 25,1-13"
-	}],
-	"contemplationDTO": {
-		"bibleReference": "2 P 3,9",
-		"text": "Jest taka piosenka: „Jeśli Bóg coś obiecuje, zawsze słowa dotrzymuje”. Autor chciał ukazać zasadniczą różnicę pomiędzy Bogiem a człowiekiem. Historia zbawienia stanowi niepodważalny dowód na to, że Pan jest wiarygodny w swoich obietnicach, w przeciwieństwie do ludzi. Bóg sukcesywnie spełnia każdą z nich. Zbadano nawet liczbę Bożych przysiąg w Biblii i ich wypełnienie. Nie pamiętam dokładnie liczb, ale na ten moment zrealizowało się ponad 2/3 tego, co zapowiedział Pan wszechświata.\nRzeczywiście, z ludzkiej perspektywy mogłoby się wydawać, że Stwórca zwleka z dotrzymaniem obietnicy ponownego przyjścia Jezusa. Tak było już w pierwszym wieku, o czym wzmiankuje Piotr. Podobną myśl wyraża też apostoł Paweł, który napisał: Bóg „chce, aby wszyscy ludzie byli zbawieni i doszli do poznania prawdy” (1 Tm 2,4).\nNiemniej jednak Piotr ukazuje przyczynę: „aby wszyscy przyszli do upamiętania”. W ostatnią niedzielę roku kościelnego na nowo uświadamiamy sobie, że nie da się osiągnąć Królestwa Bożego bez upamiętania.",
-		"textReference": "Mirosław Czyż"
-	}
-}, {
-	"date": "27-11-2023",
-	"firstStandard": "Za 7,10",
-	"secondStandard": "Ef 4,20",
-	"firstAdditional": "Hbr 12,18-25",
-	"secondAdditional": "Mt 24,45-51",
-	"quoteNotFromBible": "Boże wszystkich ludzi, przybądź, kiedy niepojęte cierpienie niewinnych wyprowadza nas z równowagi. Daj, abyśmy przezwyciężyli to, co nie pozwala nam zachować spokoju i spraw, abyśmy tak żyli, aby inni mogli dostrzec na ziemi blask współczującego Chrystusa.",
-	"quoteNotFromBibleReference": "br. Roger Schütz †2005",
-	"specialOccasionList": [],
-	"contemplationDTO": null
-}, {
-	"date": "28-11-2023",
-	"firstStandard": "Ps 119,130 (BE)",
-	"secondStandard": "Ef 5,8",
-	"firstAdditional": "Iz 35,8-10",
-	"secondAdditional": "Mt 25,1-13",
-	"quoteNotFromBible": "Ciemność nie może wypędzić ciemności – tylko światło może to zrobić. Nienawiść nie może wypędzić nienawiści – tylko miłość może to uczynić.",
-	"quoteNotFromBibleReference": "Martin Luther King †1968",
-	"specialOccasionList": [],
-	"contemplationDTO": null
-}, {
-	"date": "29-11-2023",
-	"firstStandard": "Ps 12,2",
-	"secondStandard": "J 6,67",
-	"firstAdditional": "1 Kor 3,9-15",
-	"secondAdditional": "Mt 25,14-30",
-	"quoteNotFromBible": "Naucz nas być w mniejszości, Panie. Dopasuj nas do swojej sprawiedliwości, nie do większości. Chroń nas przed dążeniem do harmonii za wszelką cenę i kłanianiem się wielkim liczbom.",
-	"quoteNotFromBibleReference": "Dorothee Sölle †2003",
-	"specialOccasionList": [],
-	"contemplationDTO": null
-}, {
-	"date": "30-11-2023",
-	"firstStandard": "Ml 3,20",
-	"secondStandard": "Rz 13,12",
-	"firstAdditional": "",
-	"secondAdditional": "",
-	"quoteNotFromBible": "Tak jak niebo przynosi słońce i dzień, i słońce świeci na niebie, tak samo apostołowie w swych kazaniach przynoszą i mają prawdziwe słońce – Chrystusa. To wszystko co jest powiedziane o tym miłym brzasku dnia, to jest o Ewangelii, która w Piśmie jest czczona i wielbiona. Bo ona przynosi ze sobą życie, radość, błogość, chęć działania i wszelkie dobro.",
-	"quoteNotFromBibleReference": "Marcin Luter †1546",
-	"specialOccasionList": [{
-		"occasion": "DAY",
-		"title": "Dzień apostoła Andrzeja",
-		"mainQuote": "Iz 52,7",
-		"psalm": "",
-		"worshipSongs": ["Apostołów dziś wspomnijmy 244", "Zbudź, Panie, ducha ojców wiary 541"],
-		"apostolicLesson": "Rz 10,9-18",
-		"sermonTextList": [],
-		"oldTestament": "",
-		"gospel": "J 1,35-42"
-	}],
-	"contemplationDTO": null
-}]
+{
+  "biblePerDayList": [
+    {
+      "date": "01-11-2023",
+      "firstStandard": "5 Mż 32,7",
+      "secondStandard": "2 Tm 1,5",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "To nie ja sama powiedziałam sobie, że warto Ci ufać. Pokolenia mężczyzn i kobiet przede mną odważyły się wierzyć. Dziękuję za ich słowa i pieśni, w których odnalazłam Ciebie i samą siebie. A kiedy się od Ciebie oddalam, znów podajesz mi swoją dłoń poprzez nie.",
+      "quoteNotFromBibleReference": "ks. Benigna Carstens",
+      "specialOccasionList": [
+        {
+          "occasion": "DAY",
+          "title": "Pamiątka Świętych Pańskich",
+          "mainQuote": "Ef 2,19",
+          "psalm": "Ps 24",
+          "worshipSongs": [
+            "Gdy ze mną Bóg 635",
+            "W niebiesiech, w niebiesiech 276"
+          ],
+          "apostolicLesson": "Obj 7,9-12",
+          "sermonTextList": [
+            "Dn 7,1-3.13-18.27"
+          ],
+          "oldTestament": "",
+          "gospel": "Mt 5,1-10"
+        },
+        {
+          "occasion": "DAY",
+          "title": "Pamiątka Umarłych",
+          "mainQuote": "Ps 90,12",
+          "psalm": "Ps 102",
+          "worshipSongs": [
+            "O, jakeście wy błogosławieni 924",
+            "Dokąd mam się w troskach męczyć 670"
+          ],
+          "apostolicLesson": "1 Kor 15,35-38.42-44a",
+          "sermonTextList": [
+            "Dn 12,1b-3"
+          ],
+          "oldTestament": "",
+          "gospel": "J 5,24-29"
+        }
+      ],
+      "contemplationDTO": {
+        "bibleReference": "Dn 12,1",
+        "text": "W archiwum parafii w Sosnowcu znajduje się księga, która została założona ok. 1905 roku i nosi nazwę Księga personaliów. Zapisano w niej nazwiska wszystkich rodzin, należących wówczas do tej parafii i imiona tworzących te rodziny osób. Dodatkowo przy każdym imieniu malutkimi literami pojawiła się data i miejsce urodzenia, imiona rodziców, data ślubu oraz dane dzieci. Uzupełnieniem jest numer odpowiedniego aktu metrykalnego. To idealny pomocnik w poszukiwaniach rodzinnych i genealogicznych. Żeby się znaleźć w tej księdze, trzeba było się zetknąć na gruncie kościelnym z ks. Eugeniuszem Uthke, który wpisywał skrupulatnie swoje owieczki do rejestru.\nJest też taka księga, której nie ma w żadnej kancelarii czy archiwum kościelnym. Zdeponowana jest w niebie. Autorem wpisów jest sam Bóg, a są tam dane wszystkich zbawionych. Żeby znaleźć się w tej księdze niewiele trzeba. W zasadzie wpisy są za darmo, z łaski, bez naszych zasług. Znajduje się tam każdy, kto uwierzył w Jezusa Chrystusa. Niby tylko tyle, lecz wpis do tej księgi ma kolosalne znaczenie dla naszej wieczności.",
+        "textReference": "AM"
+      }
+    },
+    {
+      "date": "02-11-2023",
+      "firstStandard": "Iz 50,4",
+      "secondStandard": "Mt 25,39",
+      "firstAdditional": "2 Kor 6,1-10",
+      "secondAdditional": "Hi 3,1-26",
+      "quoteNotFromBible": "Prawdziwymi nauczycielami są ci, którzy z Chrystusem zbierają to, co rozrzucone i opatrują to, co zranione, i leczą to, co chore.",
+      "quoteNotFromBibleReference": "Menno Simons †1561",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "03-11-2023",
+      "firstStandard": "So 2,3",
+      "secondStandard": "Kol 3,12",
+      "firstAdditional": "Łk 22,49-53",
+      "secondAdditional": "Hi 4,1-21",
+      "quoteNotFromBible": "Duchu Święty, ukazujesz nam rzeczywistość Ewangelii: miłość, która wybacza, tak że nie ma już niczego złego – chyba, że stracimy ducha miłosierdzia.",
+      "quoteNotFromBibleReference": "br. Roger Schütz †2005",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "04-11-2023",
+      "firstStandard": "Iz 66,13",
+      "secondStandard": "J 16,24",
+      "firstAdditional": "2 Tm 2,1-5(6)",
+      "secondAdditional": "Hi 5,17-27",
+      "quoteNotFromBible": "Boże, święta Mądrości, znasz nasze bóle. Widzisz nasze łzy, także te niewypłakane. Pocieszasz nas, jak pociesza matka, sprawiasz, że umiemy się pogodzić z naszymi zranieniami i winą.",
+      "quoteNotFromBibleReference": "Christa Mathies",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "05-11-2023",
+      "firstStandard": "Prz 21,21",
+      "secondStandard": "Mt 6,33",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Strzeż dziś życia mego, Panie, w Tobie składam swe ufanie; bądź mi Zbawcą w utrapieniu, bądź mi ojcem w przewinieniu. Daj, bym czasu tu nie trwonił i dziedzictwa nie uronił, a gdy wieczór mój nastanie – wesół zasnął w Tobie, Panie!",
+      "quoteNotFromBibleReference": "Christian F. Gellert †1769, Śpiewnik ewangelicki 483, 6-7",
+      "specialOccasionList": [
+        {
+          "occasion": "WEEK",
+          "title": "22. po Trójcy Świętej",
+          "mainQuote": "Ps 130,40",
+          "psalm": "Ps 143,1-9",
+          "worshipSongs": [
+            "O Jezu, słońce łaski 809"
+          ],
+          "apostolicLesson": "",
+          "sermonTextList": [
+            "1 J 2,12-14"
+          ],
+          "oldTestament": "Iz 44,21-23",
+          "gospel": "Mt 18,21-35"
+        }
+      ],
+      "contemplationDTO": {
+        "bibleReference": "1 J 2,12",
+        "text": "Postęp cywilizacyjny w naszym kraju doszedł do takiego poziomu, że w zasadzie wszyscy są piśmienni. W różnych kontekstach komunikujemy się za pomocą znaków zwanych literami. Najbardziej powszechne jest chyba pisanie w telefonie komórkowym: esemesy, posty, zapiski w kalendarzu, w notatnikach itd. Co ważne, pisanie jest trwalsze niż mówienie. Verba volant scripta manent – powiadali starożytni – czyli: słowa ulatują, a to, co napisane, pozostaje.\nBóg przemawiał na różne sposoby. Najczęściej posługiwał się wypowiedziami słownymi. Aby nie uleciały, natchnieni Duchem Świętym ludzie zapisywali je. Jan napisał w imieniu Boga niezwykłe przesłanie dla wszystkich pokoleń, aby nie zapomniały, że z powodu tego, co zrobił Jezus, odpuszczone są grzechy.\nNajważniejszym słowem w każdym zdaniu jest czasownik. W naszym przypadku grecki czasownik afiemi znaczy m.in. rozpuszczać, anulować, umarzać. Wszystkie te wyrazy sprowadzają grzechy do jednego mianownika: nie ma ich. Dzięki Jezusowi zostały usunięte, podobnie jak w komputerze czy w telefonie komórkowym klikamy „usuń”. Wyznany grzech oznacza usunięcie ciężaru. Czy czujemy się lżejsi, gdy szczerze prosimy Boga o łaskę i odpuszczenie?",
+        "textReference": "Mirosław Czyż"
+      }
+    },
+    {
+      "date": "06-11-2023",
+      "firstStandard": "Ps 77,14",
+      "secondStandard": "J 16,28",
+      "firstAdditional": "2 Mż 32,15-20(21-24)",
+      "secondAdditional": "Hi 6,1-10.24-30",
+      "quoteNotFromBible": "Jedyna droga, którą wybieram dziś to Ty. Jedyna prawda, która wskaże mi jak mam żyć bez strachu i zwątpień. Za Tobą Jezu pójdę choćby mi runął świat, pobłogosławisz kiedy w ciszy zaufam ci. Nie zawiodę się.",
+      "quoteNotFromBibleReference": "zespół CSM/Worship",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "07-11-2023",
+      "firstStandard": "Ez 34,23",
+      "secondStandard": "Mt 9,36",
+      "firstAdditional": "Jon 1,1-16; 2,1",
+      "secondAdditional": "Hi 7,7-21",
+      "quoteNotFromBible": "Dobry Pasterzu, w moim niepowodzeniu wypowiadasz swoje Słowo. Dotykasz mnie cicho, budzę się i z radością podążam drogą, którą mi wskazujesz.",
+      "quoteNotFromBibleReference": "Hanna Hümmer †1977",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "08-11-2023",
+      "firstStandard": "Ps 118,26",
+      "secondStandard": "J 1,12",
+      "firstAdditional": "Jon (3,10)4,1-11",
+      "secondAdditional": "Hi 8,1-22",
+      "quoteNotFromBible": "Pochwal, mój duchu, Mocarza i wznieś Mu śpiewanie! Z wszystkim, co życie ma, wespół zwróć doń swe błaganie; On światłem twym. Chwalmy więc sercem go swym: Amen, tak niechaj się stanie.",
+      "quoteNotFromBibleReference": "Joachim Neander †1680, Śpiewnik ewangelicki 620, 5",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "09-11-2023",
+      "firstStandard": "Ps 31,23",
+      "secondStandard": "Rz 8,26",
+      "firstAdditional": "Mt 7,1-5(6)",
+      "secondAdditional": "Hi 9,1-15.32-35",
+      "quoteNotFromBible": "W otchłaniach, których żadne pocieszenie nie sięga, niech dosięgnie mnie Twoja wierność. W noce, w które wiara ustępuje, niech Twoja łaska nie odstępuje ode mnie. Kiedy nie mogę uchwycić się Twojej ręki, Ty chwyć moją w swoje ręce, przyjmij łaskawie moją duszę i doprowadź mnie do dobrego końca.",
+      "quoteNotFromBibleReference": "Justus Delbrück †1945",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "10-11-2023",
+      "firstStandard": "Iz 5,21",
+      "secondStandard": "1 P 5,5",
+      "firstAdditional": "Mt 12,32-37",
+      "secondAdditional": "Hi 11,1-20",
+      "quoteNotFromBible": "Żywota Stróżu wierny! Na nic trud nasz niezmierny, gdy sam nas nie wspomożesz, najmiłościwszy Boże.",
+      "quoteNotFromBibleReference": "ks. Paweł Gerhardt †1676, Śpiewnik ewangelicki 99, 3",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "11-11-2023",
+      "firstStandard": "1 Mż 32,1",
+      "secondStandard": "Hbr 1,14",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Prowadziłeś mnie po mojej drodze, wielki Boże, od zarania. Każdego dnia wiernie mi towarzyszyłeś, chcąc dla mnie jedynie dobra. Często podążałeś za mną, kiedy biegłam niewłaściwą drogą, a dzięki temu, że mnie wołałeś, mogłam zaczynać od nowa.",
+      "quoteNotFromBibleReference": "Gisela Kandler",
+      "specialOccasionList": [
+        {
+          "occasion": "DAY",
+          "title": "Święto Odzyskania Niepodległości",
+          "mainQuote": "Prz 14,34",
+          "psalm": "Ps 85 lub Ps 80",
+          "worshipSongs": [
+            "Boże, coś Polskę 837",
+            "Ojcowski dom 465",
+            "O Boże, usłysz głos 856"
+          ],
+          "apostolicLesson": "",
+          "sermonTextList": [],
+          "oldTestament": "",
+          "gospel": ""
+        }
+      ],
+      "contemplationDTO": null
+    },
+    {
+      "date": "12-11-2023",
+      "firstStandard": "1 Mż 45,24",
+      "secondStandard": "Kol 3,13",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Idźcie w pokoju. Nie kłóćcie się w drodze. Nie trwońcie sił na bezowocne dyskusje. Otwierajcie swoje serca, kiedy idziecie do ludzi. Oddychajcie pokojem. Bądźcie posłańcami pokoju Chrystusa.",
+      "quoteNotFromBibleReference": "Lindolfo Weingärtner †2018",
+      "specialOccasionList": [
+        {
+          "occasion": "WEEK",
+          "title": "3. przed końcem roku kościelnego",
+          "mainQuote": "Mt 5,9",
+          "psalm": "Ps 85,9-14",
+          "worshipSongs": [
+            "Czekamy Cię, Tyś Boży Syn 267",
+            "Wpośród życia, jednak 280"
+          ],
+          "apostolicLesson": "",
+          "sermonTextList": [
+            "Rz 8,18-25"
+          ],
+          "oldTestament": "Mi 4,1-5(7b)",
+          "gospel": "Łk 17,20–24(25–30)"
+        }
+      ],
+      "contemplationDTO": {
+        "bibleReference": "Rz 8,22",
+        "text": "Człowiek w rozdarciu, świat w pogłębiającym się kryzysie – to czas przeszły opisany przez apostoła Pawła i czas teraźniejszy, boleśnie realny, którego jesteśmy uczestnikami. Całe stworzenie cierpi i żyje w oczekiwaniu chwały Bożej, która ma się objawić. Czy naprawdę ogół czeka? Czy raczej, jak za czasów Noego, kpi z proroctw i używa życia?\nZbliżający się koniec roku kościelnego to okazja do podsumowań, ale też czas mierzenia się z wyobrażeniem wieczności i z przyszłością spoza granic poznania. Cóż można bowiem wiedzieć o chwale, która ma się dopiero rozpostrzeć? Można jedynie jęczeć i boleć, bo nasze poznanie jest dotychczas cząstkowe, „widzimy jakby przez zwierciadło i niby w zagadce” (1 Kor 13,12). Gdyby nie obecność Jezusa Chrystusa, czas wzdychania, bólu oczekiwania – byłby nie do zniesienia. Tylko z Jezusem wszystko nabiera sensu.",
+        "textReference": "Aleksandra Błahut-Kowalczyk"
+      }
+    },
+    {
+      "date": "13-11-2023",
+      "firstStandard": "Iz 50,5",
+      "secondStandard": "J 10,16",
+      "firstAdditional": "1 Mż 33,1-4(5-7)8-1",
+      "secondAdditional": "Hi 19,21-29",
+      "quoteNotFromBible": "Boskie słowo jest słodkie dla tego, kto się go uczy, słodsze dla tego, kto uczy, a najsłodsze dla tego, kto wprowadza je w życie.",
+      "quoteNotFromBibleReference": "Albert Wielki †1280",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "14-11-2023",
+      "firstStandard": "Iz 57,16",
+      "secondStandard": "2 Kor 5,19",
+      "firstAdditional": "Iz 57,17-19(20.21)",
+      "secondAdditional": "Hi 31,16-40",
+      "quoteNotFromBible": "Bóg pragnie zbawić ludzkie plemię i jego zguby nie chce On, więc Syna zesłał nam na ziemie, by przed niebieski wiódł nas tron; dlatego do serc naszych bram kołacze wciąż Zbawiciel sam.",
+      "quoteNotFromBibleReference": "ks. Johann A. Rothe †1758, Śpiewnik ewangelicki 654, 3",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "15-11-2023",
+      "firstStandard": "Iz 55,1",
+      "secondStandard": "Mk 1,32",
+      "firstAdditional": "Za 8,11-17",
+      "secondAdditional": "Hi 40,1-5",
+      "quoteNotFromBible": "Pójdź do Jezusa, dziś jeszcze czas! Usłysz głos Jego, nie bądź jak głaz. Wszak On tak bardzo miłuje nas, woła tak słodko: „Pójdź!”. Ujrzysz widok piękny jako cud, gdy rzuciwszy grzechu złość i brud wkroczymy wreszcie w niebiański gród, Jezu przychodzę już.",
+      "quoteNotFromBibleReference": "George F. Root †1895, Śpiewnik ewangelicki 751, 1",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "16-11-2023",
+      "firstStandard": "Jr 32,40",
+      "secondStandard": "1 J 4,9",
+      "firstAdditional": "Łk 9,51-56",
+      "secondAdditional": "Hi 40,6-32",
+      "quoteNotFromBible": "Kiedy Cię spotykam, Twa miłość mnie dotyka. Ogarnia moje serce i pragnę Ciebie więcej. Nie wiem, jak mógłbym zapomnieć o Tobie, bo wiem, że Ty pamiętasz wciąż o mnie i kochasz mnie pomimo tego, że błądzę. Bliżej, o bliżej Ciebie być.",
+      "quoteNotFromBibleReference": "Patryk Haręża, zespół Pathlife",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "17-11-2023",
+      "firstStandard": "Iz 55,8",
+      "secondStandard": "1 Kor 1,25",
+      "firstAdditional": "J 18,10.11",
+      "secondAdditional": "Hi 42,1-6",
+      "quoteNotFromBible": "Miej prostotę gołębia, żebyś nikogo nie oszukiwał, ale potrzebna ci także i roztropność węża, żebyś się nie dał oszukać. Roztropność bez prostoty jest złością, prostota bez roztropności głupotą.",
+      "quoteNotFromBibleReference": "Hieronim ze Strydonu †420",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "18-11-2023",
+      "firstStandard": "Ps 33,17-18",
+      "secondStandard": "Flp 3,3",
+      "firstAdditional": "1 P 3,8-17",
+      "secondAdditional": "Hi 42,7-17",
+      "quoteNotFromBible": "Boże, daj nam poznać, że ludzka mania wielkości jest jedynie żałosnym przecenianiem własnych sił i spraw, abyśmy powstrzymywali się od siania zniszczenia. Pokaż nam, jak nasz świat może zostać uzdrowiony: napełniony miłością i przemieniony przez Twojego Syna.",
+      "quoteNotFromBibleReference": "Sylvia Bukowski",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "19-11-2023",
+      "firstStandard": "Ml 2,7",
+      "secondStandard": "1 P 3,15",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Daj mowę prawdy mi, co zawsze się ostoi, bym niepotrzebnych zdań na wiatr nie rzucał swoich. A jeśli w pracy swej używać muszę słów, daj moc wymowie mej, przeze mnie, Panie, mów!",
+      "quoteNotFromBibleReference": "ks. Johann Heermann †1647, Śpiewnik ewangelicki 873, 3",
+      "specialOccasionList": [
+        {
+          "occasion": "WEEK",
+          "title": "Przedostatnia roku kościelnego",
+          "mainQuote": "2 Kor 5,10",
+          "psalm": "Ps 50,1.4-6.14.15.23",
+          "worshipSongs": [
+            "Przybliża się już sądny dzień 274",
+            "W sądu dzień 277"
+          ],
+          "apostolicLesson": "Rz 14,(1-6)7-13",
+          "sermonTextList": [
+            "Mt 25,31-46"
+          ],
+          "oldTestament": "Hi 14,1-6(7-12)13(14)15-17",
+          "gospel": ""
+        }
+      ],
+      "contemplationDTO": {
+        "bibleReference": "Mt 25,37.44",
+        "text": "Wyobraźnia ludzka, szczególnie w czasach średniowiecza i renesansu, tworzyła różne obrazy sądu ostatecznego. Wśród nich szczególnie znana jest wizja Hansa Memlinga z 1471 roku. Jego obraz miał znaleźć się w miejscowości pod Florencją, ale został zrabowany i trafił do kościoła mariackiego w Gdańsku. Dziś możemy go podziwiać w Muzeum Narodowym w Gdańsku, bo w latach trzydziestych XX w. luterańska parafia Marii Panny w Gdańsku przekazała oryginał do muzeum.\nDziś nawet nie trzeba jechać na północ Polski – wystarczy wpisać „sąd ostateczny Memling” w wyszukiwarkę internetową i można oglądać obraz do woli. Zanim to zrobimy, proponuję przeczytać fragment Ewangelii o sądzie. Mam wrażenie, że dominującym stanem psychicznym patrzących na tryptyk Memlinga jest zdziwienie i takie samo odczucie pojawia się u bohaterów Jezusowej opowieści o sądzie ostatecznym. Wszyscy się tak uporczywie pytają, bo w swoim mniemaniu nigdy króla nie spotkali.\nMy też nie widzieliśmy nigdy Jezusa. A okazuje się, że tak wiele zależy od tego, co dla Niego uczyniliśmy, gdy Go tyle razy spotkaliśmy, nie wiedząc, że to On.",
+        "textReference": "Adam Malina"
+      }
+    },
+    {
+      "date": "20-11-2023",
+      "firstStandard": "Ps 90,13",
+      "secondStandard": "J 14,3",
+      "firstAdditional": "Mt 25,14-20",
+      "secondAdditional": "Jud 1-16",
+      "quoteNotFromBible": "O Jezu, zorzo duszy! Przyjdź do nas, z nieba, przyjdź! Gdy duch nasz więzy skruszy, Ty jako słońce wznijdź! O Jezu, przez swą mękę wyprowadź z boju nas; znękanym podaj rękę, zbawienia przybliż czas.",
+      "quoteNotFromBibleReference": "Lorenz Lorenzen †1866, Śpiewnik ewangelicki 272, 5",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "21-11-2023",
+      "firstStandard": "1 Sm 7,12",
+      "secondStandard": "Dz 26,22",
+      "firstAdditional": "Jr 8,4-9",
+      "secondAdditional": "Jud 17-25",
+      "quoteNotFromBible": "Będziesz przy nas, kiedy zliczymy dni. Pokazałeś nam już w życiu tyle piękna, okazałeś tyle zachęty. Dałeś nam marzenia, spełniałeś życzenia i obdarowałeś szczęściem w swojej bliskości. Bez Ciebie jesteśmy jednak niczym. Nie sposób wyobrazić sobie serc, nieba ani ziemi bez Ciebie. Wierzymy w Ciebie, wielbimy i kochamy Cię.",
+      "quoteNotFromBibleReference": "Hanns Dieter Hüsch †2005",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "22-11-2023",
+      "firstStandard": "Hi 9,2-3",
+      "secondStandard": "Łk 15,18",
+      "firstAdditional": "Ez 22,23–31",
+      "secondAdditional": "Mt 24,1–14",
+      "quoteNotFromBible": "Nigdy nikomu nie przebaczysz bardziej, niż Bóg już wybaczył Tobie.",
+      "quoteNotFromBibleReference": "Max Lucado",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "23-11-2023",
+      "firstStandard": "Ps 69,6",
+      "secondStandard": "Ef 1,7",
+      "firstAdditional": "2 Tes 1,3-12",
+      "secondAdditional": "Mt 24,15-28",
+      "quoteNotFromBible": "Ale przez Twe rany, Chryste, przez Twej krwi najświętszy dar, serce moje będzie czyste, bo mych grzechów zgasisz żar. Zdam się na Twe zmiłowanie, zniknie trwoga, strach ustanie.",
+      "quoteNotFromBibleReference": "Johann Franck †1677, Śpiewnik ewangelicki 430, 5",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "24-11-2023",
+      "firstStandard": "Za 13,9",
+      "secondStandard": "Obj 21,3-4",
+      "firstAdditional": "Hbr 13,17-21",
+      "secondAdditional": "Mt 24,29-31",
+      "quoteNotFromBible": "Na koniec dni, u zarania nowego stworzenia, kiedy wszyscy oglądać będą Twoje oblicze w jego boskości i będą trwać w Twoim świetle, pragnę i ja być w tej niezliczonej rzeszy, w tłumie wszystkich biednych i tłumie Twoich świętych.",
+      "quoteNotFromBibleReference": "Maria Baldus-Cohen-Or †2014",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "25-11-2023",
+      "firstStandard": "2 Mż 24,7",
+      "secondStandard": "Jk 1,22",
+      "firstAdditional": "2 P 3,(13)14-18",
+      "secondAdditional": "Mt 24,32-44",
+      "quoteNotFromBible": "O pochyl mnie i z gliny tej, tak na nic nieprzydatnej Ci, naczynie użyteczne stwórz, co służyć będzie Twojej czci.",
+      "quoteNotFromBibleReference": "Phillip Bliss †1876, Śpiewnik ewangelicki 429, 6",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "26-11-2023",
+      "firstStandard": "Na 1,7",
+      "secondStandard": "Mt 7,7",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Idź z modlitwą w ten dzień! Cokolwiek by przyniósł, weź to z modlitwą z Bożej ręki – to, co się powiedzie i to, co się nie uda. Idź z modlitwą przez obowiązki dnia, wówczas nic nie będzie zbyt trudne. Ten, który toruje drogę, Jezus Chrystus, idzie przecież przed tobą.",
+      "quoteNotFromBibleReference": "Käte Walter",
+      "specialOccasionList": [
+        {
+          "occasion": "WEEK",
+          "title": "Ostatnia roku kościelnego, Niedziela Wieczności",
+          "mainQuote": "Łk 12,35",
+          "psalm": "Ps 126",
+          "worshipSongs": [
+            "Zbudźcie się, tak ci wołają 282"
+          ],
+          "apostolicLesson": "",
+          "sermonTextList": [
+            "2 P 3,(3-7)8-13"
+          ],
+          "oldTestament": "Iz 65,17-19(20-22)23-25",
+          "gospel": "Mt 25,1-13"
+        }
+      ],
+      "contemplationDTO": {
+        "bibleReference": "2 P 3,9",
+        "text": "Jest taka piosenka: „Jeśli Bóg coś obiecuje, zawsze słowa dotrzymuje”. Autor chciał ukazać zasadniczą różnicę pomiędzy Bogiem a człowiekiem. Historia zbawienia stanowi niepodważalny dowód na to, że Pan jest wiarygodny w swoich obietnicach, w przeciwieństwie do ludzi. Bóg sukcesywnie spełnia każdą z nich. Zbadano nawet liczbę Bożych przysiąg w Biblii i ich wypełnienie. Nie pamiętam dokładnie liczb, ale na ten moment zrealizowało się ponad 2/3 tego, co zapowiedział Pan wszechświata.\nRzeczywiście, z ludzkiej perspektywy mogłoby się wydawać, że Stwórca zwleka z dotrzymaniem obietnicy ponownego przyjścia Jezusa. Tak było już w pierwszym wieku, o czym wzmiankuje Piotr. Podobną myśl wyraża też apostoł Paweł, który napisał: Bóg „chce, aby wszyscy ludzie byli zbawieni i doszli do poznania prawdy” (1 Tm 2,4).\nNiemniej jednak Piotr ukazuje przyczynę: „aby wszyscy przyszli do upamiętania”. W ostatnią niedzielę roku kościelnego na nowo uświadamiamy sobie, że nie da się osiągnąć Królestwa Bożego bez upamiętania.",
+        "textReference": "Mirosław Czyż"
+      }
+    },
+    {
+      "date": "27-11-2023",
+      "firstStandard": "Za 7,10",
+      "secondStandard": "Ef 4,20",
+      "firstAdditional": "Hbr 12,18-25",
+      "secondAdditional": "Mt 24,45-51",
+      "quoteNotFromBible": "Boże wszystkich ludzi, przybądź, kiedy niepojęte cierpienie niewinnych wyprowadza nas z równowagi. Daj, abyśmy przezwyciężyli to, co nie pozwala nam zachować spokoju i spraw, abyśmy tak żyli, aby inni mogli dostrzec na ziemi blask współczującego Chrystusa.",
+      "quoteNotFromBibleReference": "br. Roger Schütz †2005",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "28-11-2023",
+      "firstStandard": "Ps 119,130 (BE)",
+      "secondStandard": "Ef 5,8",
+      "firstAdditional": "Iz 35,8-10",
+      "secondAdditional": "Mt 25,1-13",
+      "quoteNotFromBible": "Ciemność nie może wypędzić ciemności – tylko światło może to zrobić. Nienawiść nie może wypędzić nienawiści – tylko miłość może to uczynić.",
+      "quoteNotFromBibleReference": "Martin Luther King †1968",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "29-11-2023",
+      "firstStandard": "Ps 12,2",
+      "secondStandard": "J 6,67",
+      "firstAdditional": "1 Kor 3,9-15",
+      "secondAdditional": "Mt 25,14-30",
+      "quoteNotFromBible": "Naucz nas być w mniejszości, Panie. Dopasuj nas do swojej sprawiedliwości, nie do większości. Chroń nas przed dążeniem do harmonii za wszelką cenę i kłanianiem się wielkim liczbom.",
+      "quoteNotFromBibleReference": "Dorothee Sölle †2003",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "30-11-2023",
+      "firstStandard": "Ml 3,20",
+      "secondStandard": "Rz 13,12",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Tak jak niebo przynosi słońce i dzień, i słońce świeci na niebie, tak samo apostołowie w swych kazaniach przynoszą i mają prawdziwe słońce – Chrystusa. To wszystko co jest powiedziane o tym miłym brzasku dnia, to jest o Ewangelii, która w Piśmie jest czczona i wielbiona. Bo ona przynosi ze sobą życie, radość, błogość, chęć działania i wszelkie dobro.",
+      "quoteNotFromBibleReference": "Marcin Luter †1546",
+      "specialOccasionList": [
+        {
+          "occasion": "DAY",
+          "title": "Dzień apostoła Andrzeja",
+          "mainQuote": "Iz 52,7",
+          "psalm": "",
+          "worshipSongs": [
+            "Apostołów dziś wspomnijmy 244",
+            "Zbudź, Panie, ducha ojców wiary 541"
+          ],
+          "apostolicLesson": "Rz 10,9-18",
+          "sermonTextList": [],
+          "oldTestament": "",
+          "gospel": "J 1,35-42"
+        }
+      ],
+      "contemplationDTO": null
+    }
+  ]
+}

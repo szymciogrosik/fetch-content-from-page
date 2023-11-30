@@ -8,15 +8,18 @@ import java.util.List;
 
 public class SpecialOccasionDTO implements Serializable {
 
-    private final Occasion occasion;
-    private final String title;
-    private final String mainQuote;
-    private final String psalm;
-    private final List<String> worshipSongs;
-    private final String apostolicLesson;
-    private final List<String> sermonTextList;
-    private final String oldTestament;
-    private final String gospel;
+    private Occasion occasion;
+    private String title;
+    private String mainQuote;
+    private String psalm;
+    private List<String> worshipSongs;
+    private String apostolicLesson;
+    private List<String> sermonTextList;
+    private String oldTestament;
+    private String gospel;
+
+    public SpecialOccasionDTO() {
+    }
 
     private SpecialOccasionDTO(Occasion occasion, String title, String mainQuote, String psalm, List<String> worshipSongs, String apostolicLesson,
             List<String> sermonTextList, String oldTestament, String gospel) {

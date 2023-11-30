@@ -7,17 +7,20 @@ import java.util.List;
 
 public class BiblePerDayDTO implements Serializable {
 
-    private final Date date;
-    private final String firstStandard;
-    private final String secondStandard;
-    private final String firstAdditional;
-    private final String secondAdditional;
-    private final String quoteNotFromBible;
-    private final String quoteNotFromBibleReference;
+    private Date date;
+    private String firstStandard;
+    private String secondStandard;
+    private String firstAdditional;
+    private String secondAdditional;
+    private String quoteNotFromBible;
+    private String quoteNotFromBibleReference;
 
-    private final List<SpecialOccasionDTO> specialOccasionList;
+    private List<SpecialOccasionDTO> specialOccasionList;
 
-    private final ContemplationDTO contemplationDTO;
+    private ContemplationDTO contemplationDTO;
+
+    public BiblePerDayDTO() {
+    }
 
     private BiblePerDayDTO(Date date, String firstStandard, String secondStandard, String firstAdditional, String secondAdditional,
             String quoteNotFromBible, String quoteNotFromBibleReference, List<SpecialOccasionDTO> specialOccasionList, ContemplationDTO contemplationDTO
