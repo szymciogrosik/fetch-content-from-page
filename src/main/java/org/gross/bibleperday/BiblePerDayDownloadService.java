@@ -51,7 +51,7 @@ public class BiblePerDayDownloadService {
             List<BiblePerDayDTO> biblePerDayList = fetchOnePeriod(
                     driver, getStartDate(firstDayMonth, month, year), getEndDate(firstDayMonth, lastDayMonth, month, year));
             String jsonString = JsonUtils.serialize(new BiblePerDayContainer(biblePerDayList));
-            FileUtils.writeToFile(Collections.singletonList(jsonString), getFileName(month, year));
+            FileUtils.writeToFile(Collections.singletonList(jsonString), getFileName(month));
         }
 
         driver.quit();
@@ -97,8 +97,8 @@ public class BiblePerDayDownloadService {
         return DateUtils.parse(day + "." + month + "." + year);
     }
 
-    public static String getFileName(int month, int year) {
-        return "BPD_" + month + "_" + year + ".json";
+    public static String getFileName(int month) {
+        return "BPD_" + month + ".json";
     }
 
     private BiblePerDayDTO getBiblePerDay(WebDriver driver, Date currentDate) {
