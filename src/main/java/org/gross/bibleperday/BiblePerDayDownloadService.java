@@ -98,7 +98,15 @@ public class BiblePerDayDownloadService {
     }
 
     public static String getFileName(int month) {
-        return "BPD_" + month + ".json";
+        return "BPD_" + getMonthString(month) + ".json";
+    }
+
+    private static String getMonthString(int month) {
+        String monthString = "";
+        if (month < 10) {
+            monthString += 0;
+        }
+        return monthString += month;
     }
 
     private BiblePerDayDTO getBiblePerDay(WebDriver driver, Date currentDate) {
