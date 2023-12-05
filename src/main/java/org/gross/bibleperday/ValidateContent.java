@@ -14,7 +14,7 @@ public class ValidateContent {
 
     private static final int FIRST_MONTH = 1;
     private static final int LAST_MONTH = 12;
-    private static final int YEAR = 2023;
+    private static final int YEAR = 2024;
 
     private static final String PATH_PREFIX = "bibleperday/" + YEAR + "/";
 

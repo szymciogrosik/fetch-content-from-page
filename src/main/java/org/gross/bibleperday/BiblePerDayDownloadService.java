@@ -15,6 +15,7 @@ import org.gross.utils.JsonUtils;
 import org.gross.utils.PageUtils;
 import org.gross.utils.PrintUtils;
 import org.openqa.selenium.By;
+import org.openqa.selenium.ElementNotInteractableException;
 import org.openqa.selenium.StaleElementReferenceException;
 import org.openqa.selenium.TimeoutException;
 import org.openqa.selenium.WebDriver;
@@ -145,11 +146,18 @@ public class BiblePerDayDownloadService {
         builder.setText(contemplationText);
 
         WebElement contemplationRefElement = PageUtils.findWebElementByAndWait(contemplationElement, By.cssSelector(".frontContainer div:nth-child(2) p"));
-        unfoldReference(contemplationRefElement);
-        String contemplationRefText = contemplationRefElement.getText();
-        builder.setTextReference(contemplationRefText);
+        getContemplationReference(contemplationRefElement).ifPresent(builder::setTextReference);
 
         return builder.build();
+    }
+
+    private Optional<String> getContemplationReference(WebElement webElement) {
+        try {
+            unfoldReference(webElement);
+            return Optional.of(webElement.getText());
+        } catch (ElementNotInteractableException e) {
+            return Optional.empty();
+        }
     }
 
     private void unfoldReference(WebElement webElement) {
