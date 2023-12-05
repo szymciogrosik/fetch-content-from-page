@@ -33,22 +33,21 @@ public class ValidateBibleReferenceService {
     }
 
     private boolean isValidReferenceWithBookPartNumber(String[] refElements, int currentIndex, String fullReference) {
-        String first = refElements[currentIndex];
+        return isValidReferenceWithoutBookPartNumber(refElements, currentIndex, fullReference);
+    }
 
-        if (isPureNumber(first)) {
-            int bookPart = Integer.parseInt(first);
+    private boolean isValidReferenceWithoutBookPartNumber(String[] refElements, int currentIndex, String fullReference) {
+        String bookPartReference = refElements[currentIndex];
+        if (isPureNumber(bookPartReference)) {
+            int bookPart = Integer.parseInt(bookPartReference);
             if (bookPart < 1 || bookPart > 5) {
-                logErrorMessage("Invalid book number", first, fullReference);
+                logErrorMessage("Invalid book part reference", bookPartReference, fullReference);
                 return false;
             } else {
                 currentIndex++;
             }
         }
 
-        return isValidReferenceWithoutBookPartNumber(refElements, currentIndex, fullReference);
-    }
-
-    private boolean isValidReferenceWithoutBookPartNumber(String[] refElements, int currentIndex, String fullReference) {
         String bookRef = refElements[currentIndex];
         if (ALLOWED_SHORTCUTS.stream().noneMatch(shortcut -> shortcut.equals(bookRef))) {
             logErrorMessage("Invalid shortcut name", bookRef, fullReference);

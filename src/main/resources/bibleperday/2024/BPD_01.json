@@ -3,7 +3,7 @@
     {
       "date": "01-01-2024",
       "firstStandard": "Iz 7,4",
-      "secondStandard": "Łk 4,18.19.21",
+      "secondStandard": "Łk 4,18-21",
       "firstAdditional": "",
       "secondAdditional": "",
       "quoteNotFromBible": "Udziel nam pokoju w te dni pełne znoju, Duchu Święty oświeć nas, drogę do Jezusa wskaż!",
@@ -19,7 +19,7 @@
           "sermonTextList": [
             "1 Kor 7,17-24"
           ],
-          "oldTestament": "1 Mż 17,1-5(6-8)9-13(23-27)",
+          "oldTestament": "1 Mż 17,1-13 | 1 Mż 17,23-27",
           "gospel": "Łk 2,21"
         },
         {
@@ -44,43 +44,18 @@
         "bibleReference": "Jk 4,15",
         "text": "Niby to takie proste i jasne. Ucz się i pracuj. Szukaj, a znajdziesz. Planuj krótkoterminowo i w długim horyzoncie, miej jasno określone cele i wytrwale je realizuj. Szczególnie na początku roku to ważne przypomnienie dla każdego, kto poważnie podchodzi do życia. Jednak czasem gdy jesteśmy mocno zaangażowani i pochłonięci planowaniem tak się zagalopujemy, że w naszych kalkulacjach – choć uwzględnimy prawie wszystkie logiczne elementy składowe i kryteria – efekty będą inne od oczekiwanych.\nNie wolno nam zapominać, że na szczęście przyszłość jest w Bożych rękach i urzeczywistni się tylko jeśli „Pan zechce”. Życie naprawdę jest kruche, a nasze zdolności przewidywania przyszłości ograniczone. Jakie jest lekarstwo na lęk przed nieznaną przyszłością? Odpowie nam werset: „Powierz Panu drogę swoją, zaufaj mu, a On wszystko dobrze uczyni” (Ps 37,5).",
         "textReference": "Adam Malina"
-      },
-      "bibleReferences": [
-        "Iz 7,4",
-        "Łk 4,18.19.21",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "1 Kor 7,17-24",
-        "1 Mż 17,1-5(6-8)9-13(23-27)",
-        "Łk 2,21",
-        "Hbr 13,8",
-        "Ps 8,2-10",
-        "",
-        "Jk 4,13-15",
-        "",
-        "Łk 4,16-21",
-        "Jk 4,15"
-      ]
+      }
     },
     {
       "date": "02-01-2024",
       "firstStandard": "Ps 54,8",
       "secondStandard": "Mk 12,42",
-      "firstAdditional": "Joz 24,1-2a.13-18.25.26",
+      "firstAdditional": "Joz 24,1-2 | Joz 24,13-18 | Joz 24,25-26",
       "secondAdditional": "Mk 1,1-8",
       "quoteNotFromBible": "Więc przyjąłeś nowe życie za swoją wiarę. Teraz drugi etap, czas, byś złożył ofiarę ze wszystkich talentów, którymi Bóg Cię obdarował, abyś innych budował, abyś innych ratował.",
       "quoteNotFromBibleReference": "Zespół Cześć",
       "specialOccasionList": [],
-      "contemplationDTO": null,
-      "bibleReferences": [
-        "Ps 54,8",
-        "Mk 12,42",
-        "Joz 24,1-2a.13-18.25.26",
-        "Mk 1,1-8"
-      ]
+      "contemplationDTO": null
     },
     {
       "date": "03-01-2024",
@@ -91,13 +66,7 @@
       "quoteNotFromBible": "Wierzę, że Bóg czeka na szczere modlitwy oraz odpowiedzialne czyny i odpowiada na nie.",
       "quoteNotFromBibleReference": "ks. Dietrich Bonhoeffer †1945",
       "specialOccasionList": [],
-      "contemplationDTO": null,
-      "bibleReferences": [
-        "4 Mż 22,18",
-        "Dz 5,29",
-        "2 Mż 2,1-10",
-        "Mk 1,9-13"
-      ]
+      "contemplationDTO": null
     },
     {
       "date": "04-01-2024",
@@ -108,30 +77,18 @@
       "quoteNotFromBible": "Niech tron Twój, Panie, stoi nadal, mocarstwa ziemskie miną wnet. W Królestwie Twoim, którym władasz, dzień nowy, wieczny, zbliża się.",
       "quoteNotFromBibleReference": "John F. Ellerton †1893, Śpiewnik ewangelicki 504, 5",
       "specialOccasionList": [],
-      "contemplationDTO": null,
-      "bibleReferences": [
-        "Iz 60,3",
-        "Obj 21,23-24",
-        "1 Mż 21,1-7",
-        "Mk 1,14-20"
-      ]
+      "contemplationDTO": null
     },
     {
       "date": "05-01-2024",
       "firstStandard": "Za 8,21",
       "secondStandard": "Dz 16,15",
-      "firstAdditional": "1 Mż 9,8-11(12.13)",
+      "firstAdditional": "1 Mż 9,8-13",
       "secondAdditional": "Mk 1,21-34",
       "quoteNotFromBible": "Niechaj Ewangelia bieży z wschodu do zachodu; wszędzie niech się jeden szerzy śpiew ludzkiego rodu. Wszystkie ludy wespół z nami nich wołają: Nad królami Królem Jezus Chrystus!",
       "quoteNotFromBibleReference": "Śpiewnik ewangelicki 553, 3",
       "specialOccasionList": [],
-      "contemplationDTO": null,
-      "bibleReferences": [
-        "Za 8,21",
-        "Dz 16,15",
-        "1 Mż 9,8-11(12.13)",
-        "Mk 1,21-34"
-      ]
+      "contemplationDTO": null
     },
     {
       "date": "06-01-2024",
@@ -146,7 +103,7 @@
           "occasion": "DAY",
           "title": "Święto Epifanii",
           "mainQuote": "1 J 2,8",
-          "psalm": "Ps 72,1-3.10-12.17b-19",
+          "psalm": "Ps 72,1-3 | Ps 72,10-12 | Ps 72,17-19",
           "worshipSongs": [
             "Jak pięknie nam jutrzenka lśni 105",
             "Mędrcy świata 109"
@@ -163,20 +120,7 @@
         "bibleReference": "1 Krl 10,1",
         "text": "Czasami celebryci organizują w ramach swoich koncertów spotkania typu „meet and greet”, co dosłownie znaczy „spotkaj się i przywitaj”. Chodzi w nich o to, że fani mają możliwość być krótko ze swymi idolami, zrobić zdjęcie, zadać pytanie. Reakcje fanów są niezwykłe: łzy wzruszenia, radość granicząca z euforią. Krótko mówiąc: spotkanie nie do zapomnienia do końca życia.Podobny nastrój musiał udzielić się królowej Saby, gdy wracała z odwiedzin u władcy Izraela – Salomona. Doświadczyła jego niezwykłej mądrości, zobaczyła wspaniałe budowle i świetnie funkcjonujące państwo. Krótko mówiąc: spotkanie nie do zapomnienia do końca życia.\nZnamy bohaterów dzisiejszego święta – mędrcy przyjechali na „meet and greet” z nowo narodzonym Królem. Zapewne było to spotkanie nie do zapomnienia do końca życia.\nChcę nam wszystkim uświadomić wartość spotkania człowieka z człowiekiem. To nie musi być władca ani celebryta. Czasem tzw. zwykłe spotkanie uczy nas czegoś nie do zapomnienia do końca życia. Jednak bezsprzecznie największą wartość w życiu człowieka mają osobiste spotkania z Jezusem Chrystusem. Gdy są one przeżywane głęboko w sercu, wtedy – jak mędrcy – inną drogą wracamy do swego domu, czyli zmienia się nasza życiowa droga.\nŻyczę dobrych spotkań z ludźmi i regularnych, najlepiej codziennych, spotkań z Królem Królów.",
         "textReference": null
-      },
-      "bibleReferences": [
-        "Ps 25,12",
-        "Mt 2,12",
-        "",
-        "",
-        "1 J 2,8",
-        "Ps 72,1-3.10-12.17b-19",
-        "",
-        "1 Krl 10,1-13",
-        "Ef 3,1-7",
-        "Mt 2,1-12",
-        "1 Krl 10,1"
-      ]
+      }
     },
     {
       "date": "07-01-2024",
@@ -191,7 +135,7 @@
           "occasion": "WEEK",
           "title": "1. po Epifanii – Święto Chrztu Pańskiego",
           "mainQuote": "Rz 8,14",
-          "psalm": "Ps 89,2-5.27-30",
+          "psalm": "Ps 89,2-5 | Ps 89,27-30",
           "worshipSongs": [
             "O najmilszy Zbawicielu 813"
           ],
@@ -207,20 +151,7 @@
         "bibleReference": "Rz 8,14",
         "text": "Z jaką przyjemnością trzymam w dłoni rączkę małego dziecka! To uczucie zwielokrotnione jest w dojrzałym wieku. Gdy niedawno wnuczka kurczowo chwytała mnie na dobranoc i nawet przez sen nie puszczała mojego palca – rozczulało mnie to i dawało do myślenia.\nCzy tak reaguje Ojciec w niebiesiech, gdy Jego dzieci, bez względu na wiek, w jakim są – nie chcą wypuścić Go z rąk? Myślę, że w swej nieskończonej i bezwarunkowej miłości Bóg trzyma każdego z nas. Podtrzymuje nawet wtedy, gdy nie chwytamy się Jego dłoni. Myślę, że zwłaszcza wtedy. Bez względu na datę urodzenia czuć się dzieckiem Bożym – to wielki przywilej. Im starsza jestem, tym bardziej cieszę się tą obietnicą!",
         "textReference": "Aleksandra Błahut-Kowalczyk"
-      },
-      "bibleReferences": [
-        "2 Mż 14,13",
-        "Dz 26,29",
-        "",
-        "",
-        "Rz 8,14",
-        "Ps 89,2-5.27-30",
-        "",
-        "1 Kor 1,26-31",
-        "Iz 42,1-9",
-        "Mt 3,13-17",
-        "Rz 8,14"
-      ]
+      }
     },
     {
       "date": "08-01-2024",
@@ -231,13 +162,7 @@
       "quoteNotFromBible": "Boże obietnice wolności, przebaczenia, sprawiedliwości i pokoju spełniają się w Jezusie. Jest On życiodajnym światłem, którego nawet najgłębsza ciemność nie może zgasić. To dzięki Jezusowi jesteśmy w stanie zbliżyć się do Boga i rozpoznać Boże plany wobec nas.",
       "quoteNotFromBibleReference": "modlitwa z Anglii, Walii, Irlandii Północnej",
       "specialOccasionList": [],
-      "contemplationDTO": null,
-      "bibleReferences": [
-        "Iz 9,2",
-        "Hbr 6,7",
-        "Dz 10,37-48",
-        "Mk 1,35-45"
-      ]
+      "contemplationDTO": null
     },
     {
       "date": "09-01-2024",
@@ -248,30 +173,18 @@
       "quoteNotFromBible": "Oto tajemnica szczęśliwego życia. Kto nie patrzy tylko pod siebie i naokoło siebie na cierpienie, krzywdę, brzydotę, lecz patrzy w górę w niebo, ten spokojny i szczęśliwy nawet wśród cierni i trosk, pośród burzy i zawieruchy życia.",
       "quoteNotFromBibleReference": "ks. Jan Lasota †1973",
       "specialOccasionList": [],
-      "contemplationDTO": null,
-      "bibleReferences": [
-        "1 Sm 2,10",
-        "J 1,29",
-        "Łk 18,15-17",
-        "Mk 2,1-12"
-      ]
+      "contemplationDTO": null
     },
     {
       "date": "10-01-2024",
-      "firstStandard": "Ps 34,15 (BE)",
+      "firstStandard": "Ps 34,15",
       "secondStandard": "Rz 14,19",
       "firstAdditional": "Rz 8,26-30",
       "secondAdditional": "Mk 2,13-17",
       "quoteNotFromBible": "Błogosławiony ten, który żyje w pokoju. Nie ma na ziemi większego szczęścia.",
       "quoteNotFromBibleReference": "Matthias Claudius †1815",
       "specialOccasionList": [],
-      "contemplationDTO": null,
-      "bibleReferences": [
-        "Ps 34,15 (BE)",
-        "Rz 14,19",
-        "Rz 8,26-30",
-        "Mk 2,13-17"
-      ]
+      "contemplationDTO": null
     },
     {
       "date": "11-01-2024",
@@ -282,13 +195,7 @@
       "quoteNotFromBible": "Modlitwa nie może nas zbawić, ale czyni nas godnymi zbawienia.",
       "quoteNotFromBibleReference": "Abraham J. Heschel †1972",
       "specialOccasionList": [],
-      "contemplationDTO": null,
-      "bibleReferences": [
-        "Iz 48,10",
-        "Kol 4,2",
-        "Ef 1,3-10",
-        "Mk 2,18-22"
-      ]
+      "contemplationDTO": null
     },
     {
       "date": "12-01-2024",
@@ -299,13 +206,7 @@
       "quoteNotFromBible": "Oni są tam już u Pana, oni żyją. (…) W owym dniu otworzą się drzwi do wielu mieszkań w domu Ojca Niebieskiego, gdzie Jezus przygotowuje miejsce tym, którzy wierzą w Boga i w Niego wierzą, a oni obleczeni w szaty nowej cielesności wejdą do pełni życia, życia wiecznego.",
       "quoteNotFromBibleReference": "ks. Alfred Jagucki †2004",
       "specialOccasionList": [],
-      "contemplationDTO": null,
-      "bibleReferences": [
-        "Ps 119,19",
-        "2 Kor 5,1",
-        "Łk 12,49-53",
-        "Mk 2,23-28"
-      ]
+      "contemplationDTO": null
     },
     {
       "date": "13-01-2024",
@@ -316,13 +217,7 @@
       "quoteNotFromBible": "Tydzień dobiega do końca, ale wierność Boga nie kończy się. Gdziekolwiek się zwrócę, tam zawsze dostrzegam coś nowego. Czas może się skończyć, ale dobroć Boga nigdy. Można ją odnaleźć każdego dnia, On daje mi pocieszenie i światłość.",
       "quoteNotFromBibleReference": "ks. Benjamin Schmolck †1737",
       "specialOccasionList": [],
-      "contemplationDTO": null,
-      "bibleReferences": [
-        "Ps 39,6",
-        "2 Kor 4,16",
-        "Mt 4,12-17",
-        "Mk 3,1-6"
-      ]
+      "contemplationDTO": null
     },
     {
       "date": "14-01-2024",
@@ -344,7 +239,7 @@
           ],
           "apostolicLesson": "",
           "sermonTextList": [
-            "Hbr 12,12-18(19-21)22-25a"
+            "Hbr 12,12-25"
           ],
           "oldTestament": "2 Mż 33,18-23",
           "gospel": "J 2,1-11"
@@ -354,37 +249,18 @@
         "bibleReference": "Hbr 12,14",
         "text": "Człowiek stawia sobie różne cele, nawet jeśli nie jest do końca ich świadomy. Mogą być one proste i banalne – na przykład przeżyć kolejny dzień. Albo bardziej skomplikowane – ukończyć odpowiedni kurs, dający kwalifikacje do pracy. Czasem sięgamy zdecydowanie dalej – dla przykładu studia medyczne, a potem zawód lekarza specjalisty.\nDziś autor Listu do Hebrajczyków stawia przed nami jeszcze inne cele. Nie wiem czy łatwiejsze, ale na pewno konkretne: dążenie do pokoju z wszystkimi i uświęcenie. Pojawiają się w parze, tak jakby bez jednego nie dało się osiągnąć drugiego. I chyba tak jest, bo tylko człowiek, który doświadczył mocy zbawienia może żyć w pokoju z innymi. A ten, który niesie pokój dla innych, jest na dobrej drodze do uświęcenia. Święty, Boży pokój.",
         "textReference": "Adam Malina"
-      },
-      "bibleReferences": [
-        "Iz 56,1",
-        "Mt 3,14-15",
-        "",
-        "",
-        "J 1,16",
-        "Ps 105,1-8",
-        "",
-        "Hbr 12,12-18(19-21)22-25a",
-        "2 Mż 33,18-23",
-        "J 2,1-11",
-        "Hbr 12,14"
-      ]
+      }
     },
     {
       "date": "15-01-2024",
       "firstStandard": "Ps 147,11",
       "secondStandard": "Rz 8,15",
-      "firstAdditional": "5 Mż 5,1-7(8-21)",
+      "firstAdditional": "5 Mż 5,1-7 | 5 Mż 5,8-21",
       "secondAdditional": "1 Tm 1,1-11",
       "quoteNotFromBible": "On jest zawsze blisko ciebie, by napotkać potrzeby twe. Ty zaufaj Jego Słowu, obietnic Jego uchwyć się. Niech twa wiara czyni kroki, duch twój wypowiada słowa. Niechaj Jezusa blask lśni w życiu twym.",
       "quoteNotFromBibleReference": "Stephanie, śpiewnik Będę śpiewał i grał 86",
       "specialOccasionList": [],
-      "contemplationDTO": null,
-      "bibleReferences": [
-        "Ps 147,11",
-        "Rz 8,15",
-        "5 Mż 5,1-7(8-21)",
-        "1 Tm 1,1-11"
-      ]
+      "contemplationDTO": null
     },
     {
       "date": "16-01-2024",
@@ -395,13 +271,7 @@
       "quoteNotFromBible": "Nie bój się, bo jestem z tobą. Jam cię odkupił, twoje imię znam, tyś dzieckiem mym, choćbyś musiał przez wodę, przez ogień przejść, sam będę cię strzegł.",
       "quoteNotFromBibleReference": "Phil Pringle, śpiewnik Będę śpiewał i grał 79",
       "specialOccasionList": [],
-      "contemplationDTO": null,
-      "bibleReferences": [
-        "Iz 43,1",
-        "Łk 19,5",
-        "Mk 2,23-28",
-        "1 Tm 1,12-20"
-      ]
+      "contemplationDTO": null
     },
     {
       "date": "17-01-2024",
@@ -412,13 +282,7 @@
       "quoteNotFromBible": "Ach, Panie Boże mój, ulituj się nade mną i objaw mi, czym jesteś dla mnie. Powiedz duszy mojej: „Zbawieniem twoim jestem”. Tak powiedz, abym usłyszał. Czeka na Twój głos dusza moja, przemów do niej, powiedz duszy mojej: „Zbawieniem twoim jestem”.",
       "quoteNotFromBibleReference": "Augustyn z Hippony †430",
       "specialOccasionList": [],
-      "contemplationDTO": null,
-      "bibleReferences": [
-        "Oz 11,3",
-        "J 14,18",
-        "Rz 9,31-10,8",
-        "1 Tm 2,1-7"
-      ]
+      "contemplationDTO": null
     },
     {
       "date": "18-01-2024",
@@ -429,13 +293,7 @@
       "quoteNotFromBible": "Ciebie tylko, Jezu drogi, chcę uznawać Panem swym. Że drogami przebłogimi mnie prowadzisz, dobrze wiem. Tylko Ty jesteś mi wiernym, Zbawco, tylko Ty!",
       "quoteNotFromBibleReference": "Frances J. Crosby †1915, Śpiewnik ewangelicki 722, 1",
       "specialOccasionList": [],
-      "contemplationDTO": null,
-      "bibleReferences": [
-        "1 Krl 18,21",
-        "Mt 6,24",
-        "Dz 15,22-31",
-        "1 Tm 2,8-15"
-      ]
+      "contemplationDTO": null
     },
     {
       "date": "19-01-2024",
@@ -446,30 +304,18 @@
       "quoteNotFromBible": "Największy skarb to czyste sumienie, bo tego ludziom nikt zabrać nie może. Ono cenniejsze niż drogie kamienie, Jego nagrodą jest królestwo Boże. Na nic bogactwo, na nic przepych złoty, gdy w sercu nie ma spokoju i cnoty.",
       "quoteNotFromBibleReference": "Jan Kochanowski †1584",
       "specialOccasionList": [],
-      "contemplationDTO": null,
-      "bibleReferences": [
-        "Prz 30,8",
-        "1 Tm 6,7-8",
-        "Ga 5,1-6",
-        "1 Tm 3,1-13"
-      ]
+      "contemplationDTO": null
     },
     {
       "date": "20-01-2024",
       "firstStandard": "Jr 10,12",
       "secondStandard": "Kol 1,17",
-      "firstAdditional": "5 Mż 33,1-4(7.12-16)",
+      "firstAdditional": "5 Mż 33,1-4 | 5 Mż 33,7 | 5 Mż 33,12-16",
       "secondAdditional": "1 Tm 3,14-16",
       "quoteNotFromBible": "Ty, Stwórco wszystkich rzeczy, Bóg moc Ci swoją dał, byś w swej potężniej pieczy nad światem władzę miał. Ku sobie serca kieruj i tak nam myśli steruj, by nie zgubiły Cię.",
       "quoteNotFromBibleReference": "Elisabeth Cruciger †1535, Śpiewnik ewangelicki 107, 4",
       "specialOccasionList": [],
-      "contemplationDTO": null,
-      "bibleReferences": [
-        "Jr 10,12",
-        "Kol 1,17",
-        "5 Mż 33,1-4(7.12-16)",
-        "1 Tm 3,14-16"
-      ]
+      "contemplationDTO": null
     },
     {
       "date": "21-01-2024",
@@ -484,14 +330,14 @@
           "occasion": "WEEK",
           "title": "3. po Epifanii",
           "mainQuote": "Łk 13,29",
-          "psalm": "Ps 86,1-2.5-11",
+          "psalm": "Ps 86,1-2 | Ps 86,5-11",
           "worshipSongs": [
             "Wszelki naród, wszelkie plemię 626",
             "Zjednoczył nas 573"
           ],
           "apostolicLesson": "Rz 1,13-17",
           "sermonTextList": [
-            "2 Krl 5,(1-8)9-15(16-18)19a"
+            "2 Krl 5,1-19"
           ],
           "oldTestament": "",
           "gospel": "Mt 8,5-13"
@@ -501,20 +347,7 @@
         "bibleReference": "2 Krl 5,15",
         "text": "Gdyby to zdanie skrócić, ludzie niewierzący potwierdzą: „nie ma na całej ziemi Boga”. Gdyby w całości wyrwać je z kontekstu, okaże się, że Bóg jest, ale działa tylko w Izraelu. Doświadczył tego wódz Naaman, który uleczony z trądu uwierzył, że wszyscy bogowie są martwi, a tylko Bóg Żydów pozostaje żywy. Współcześnie ludzie wiary zgodnie wyznają, że jest tylko jeden prawdziwy Bóg, który swoje działania rozciąga na cały świat.\nAle sednem tej historii jest postawa małej dziewczynki, służącej na dworze Naamana. To ona złożyła świadectwo o Bogu, a dalszy ciąg historii doprowadził do wielu cudów. Czasem wystarczy jedna osoba, by wprawić w ruch całą machinę prowadzącą ludzi do wiary. A czasem wyrywanie z kontekstu, skracanie, spłycanie może tak wykoślawić biblijną prawdę, tak że powstanie jej przeciwieństwo. Podobną krzywdę wyrządzamy człowiekowi, gdy osądzamy go lub obmawiamy wobec innych, nie znając pełnej historii. Czy potrafisz wyciągnąć z tego wniosek dla siebie?",
         "textReference": "Mirosław Czyż"
-      },
-      "bibleReferences": [
-        "Hi 2,10",
-        "Rz 8,28",
-        "",
-        "",
-        "Łk 13,29",
-        "Ps 86,1-2.5-11",
-        "Rz 1,13-17",
-        "2 Krl 5,(1-8)9-15(16-18)19a",
-        "",
-        "Mt 8,5-13",
-        "2 Krl 5,15"
-      ]
+      }
     },
     {
       "date": "22-01-2024",
@@ -525,13 +358,7 @@
       "quoteNotFromBible": "Niebiosa głosić chwałę chcą, ogłaszać sprawiedliwość dla Ciebie Panie więc, ponad Niebo, ziemię chcę, wywyższać Cię.",
       "quoteNotFromBibleReference": "Dan Stradwick, śpiewnik Będę śpiewał i grał 78,2",
       "specialOccasionList": [],
-      "contemplationDTO": null,
-      "bibleReferences": [
-        "Iz 45,8",
-        "2 P 3,13",
-        "Dz 16,9-15",
-        "1 Tm 4,1-11"
-      ]
+      "contemplationDTO": null
     },
     {
       "date": "23-01-2024",
@@ -542,13 +369,7 @@
       "quoteNotFromBible": "Wam troszczyć się nie trzeba, jakoby wasza moc Go ściągnąć miała z nieba staraniem w dzień i noc. On z dobrej woli idzie, miłością darzy was, zaradza wszelkiej biedzie, pociesza w każdy czas.",
       "quoteNotFromBibleReference": "ks. Paweł Gerhardt †1676, Śpiewnik ewangelicki 11, 7",
       "specialOccasionList": [],
-      "contemplationDTO": null,
-      "bibleReferences": [
-        "Ps 25,11",
-        "Mk 2,5",
-        "Rz 15,7-13",
-        "1 Tm 4,12-5,2"
-      ]
+      "contemplationDTO": null
     },
     {
       "date": "24-01-2024",
@@ -559,13 +380,7 @@
       "quoteNotFromBible": "Tak, świat jest ciemny. Nie traćmy jednak nadziei! Nigdy! Świat nie jest bowiem rządzony jedynie z Moskwy, Waszyngtonu czy Pekinu, ale z samej góry, z nieba.",
       "quoteNotFromBibleReference": "Karl Barth †1968",
       "specialOccasionList": [],
-      "contemplationDTO": null,
-      "bibleReferences": [
-        "Ps 102,27",
-        "Mt 28,20",
-        "Rt 4,7-12",
-        "1 Tm 5,3-16"
-      ]
+      "contemplationDTO": null
     },
     {
       "date": "25-01-2024",
@@ -585,58 +400,35 @@
             "Apostołów dziś wspomnijmy 244",
             "Zbudź, Panie, ducha ojców wiary 541"
           ],
-          "apostolicLesson": "Dz 9,1-19a",
+          "apostolicLesson": "Dz 9,1-19",
           "sermonTextList": [],
           "oldTestament": "",
           "gospel": "Mt 19,27-30"
         }
       ],
-      "contemplationDTO": null,
-      "bibleReferences": [
-        "Ps 89,16",
-        "J 8,12",
-        "",
-        "",
-        "Iz 52,7",
-        "",
-        "Dz 9,1-19a",
-        "",
-        "Mt 19,27-30"
-      ]
+      "contemplationDTO": null
     },
     {
       "date": "26-01-2024",
       "firstStandard": "Ps 16,11",
-      "secondStandard": "Mt 16,24.25",
-      "firstAdditional": "Kol 1,(21-23)24-29",
+      "secondStandard": "Mt 16,24-25",
+      "firstAdditional": "Kol 1,21-29",
       "secondAdditional": "1 Tm 6,1-10",
       "quoteNotFromBible": "Chcę zobaczyć nowy cel. Odkryć drogę, poczuć, że Tyś mocą i siłą mą jest. W słabości odnajduje Cię. To w Tobie nadzieją swą mam – Tobie ufam.",
       "quoteNotFromBibleReference": "Zespół CME",
       "specialOccasionList": [],
-      "contemplationDTO": null,
-      "bibleReferences": [
-        "Ps 16,11",
-        "Mt 16,24.25",
-        "Kol 1,(21-23)24-29",
-        "1 Tm 6,1-10"
-      ]
+      "contemplationDTO": null
     },
     {
       "date": "27-01-2024",
-      "firstStandard": "1 Krl 3,11.12",
+      "firstStandard": "1 Krl 3,11-12",
       "secondStandard": "Rz 12,2",
       "firstAdditional": "Obj 15,1-4",
       "secondAdditional": "1 Tm 6,11-21",
       "quoteNotFromBible": "W mych wszystkich sprawach, Panie, niech wola Twa się stanie, Ty moc i mądrość masz. Ty pragniesz w każdej rzeczy użyczyć możnej pieczy, więc mnie pomocą swoją darz.",
       "quoteNotFromBibleReference": "Paul Fleming †1640, Śpiewnik ewangelicki 707, 1",
       "specialOccasionList": [],
-      "contemplationDTO": null,
-      "bibleReferences": [
-        "1 Krl 3,11.12",
-        "Rz 12,2",
-        "Obj 15,1-4",
-        "1 Tm 6,11-21"
-      ]
+      "contemplationDTO": null
     },
     {
       "date": "28-01-2024",
@@ -659,7 +451,7 @@
           "sermonTextList": [
             "2 Kor 4,6-10"
           ],
-          "oldTestament": "2 Mż 3,1-8a(8b-9)10(11-12)13-14(15)",
+          "oldTestament": "2 Mż 3,1-15",
           "gospel": ""
         }
       ],
@@ -667,71 +459,40 @@
         "bibleReference": "Iz 60,2",
         "text": "Błysk i chwała. Chwała i błysk. Jak pojąć tę prorocką zapowiedź sprzed wielu, wielu wieków? W wydarzeniu Nocy Betlejemskiej? W oddaniu czci nowo narodzonemu Jezusowi przez mędrców ze Wschodu? W groźnej burzy na Błatniej w Beskidzie Śląskim, z której wyszło się bez szwanku? Jednak zdanie z pewnej książki, że „podstawę naszego istnienia stanowi codzienność”, przekonuje mnie do szukania błysku i chwały w dniu powszednim. I odnajduję je w Słowie Bożym i w zwyczajnym życiu. Każde zetknięcie się z Biblią, jej codzienna lektura – to rozświetlenie mojej ciemności. Bez względu na to, czy rozumiem to, co czytam, czy nie – rozświetla się rzeczywistość, Boża chwała niestrudzenie ukazuje się nad pogrążonym w mroku świecie, nad brnącą w ciemności mną. I robi się w sercu ciepło od Bożej miłości, od Jego światła i tak wielu obietnic. W swojej słabości wciąż potrzebuję powtarzać je sobie. A Ty?",
         "textReference": "Aleksandra Błahut-Kowalczyk"
-      },
-      "bibleReferences": [
-        "Ps 86,9",
-        "Obj 21,3",
-        "",
-        "",
-        "Iz 60,2",
-        "Ps 97",
-        "Mt 17,1-9",
-        "2 Kor 4,6-10",
-        "2 Mż 3,1-8a(8b-9)10(11-12)13-14(15)",
-        "",
-        "Iz 60,2"
-      ]
+      }
     },
     {
       "date": "29-01-2024",
       "firstStandard": "1 Krl 8,60",
       "secondStandard": "Mt 28,19-20",
-      "firstAdditional": "2 Kor 3,(9-11)12-18",
+      "firstAdditional": "2 Kor 3,9-18",
       "secondAdditional": "2 Tm 1,1-12",
       "quoteNotFromBible": "Chrzest jest fundamentem niewzruszonym naszego życia chrześcijańskiego. Fundament ten jest mocniejszy od naszej wiary. Co sam Bóg w nas uczynił, na tym oprzeć się możemy. Bóg uczynił nas w Chrzcie Świętym dziećmi swoimi i dziedzicami żywota wiecznego. Bóg darował nam prawo zadomowienia się w ojczyźnie niebieskiej. Jesteśmy przez chrzest, jako żywe kamienie włączone do budowy Jego świątyni.",
       "quoteNotFromBibleReference": "ks. Otton Krenz †1962",
       "specialOccasionList": [],
-      "contemplationDTO": null,
-      "bibleReferences": [
-        "1 Krl 8,60",
-        "Mt 28,19-20",
-        "2 Kor 3,(9-11)12-18",
-        "2 Tm 1,1-12"
-      ]
+      "contemplationDTO": null
     },
     {
       "date": "30-01-2024",
-      "firstStandard": "1 Sm 17,17.18",
+      "firstStandard": "1 Sm 17,17-18",
       "secondStandard": "Łk 5,18",
       "firstAdditional": "J 1,43-51",
       "secondAdditional": "2 Tm 1,13-18",
       "quoteNotFromBible": "Pomóż, Panie życia, bym w tym ziemskim bycie, bym w tym ziemskim bycie cele swoje miał. Panie dnia mojego, daj, bym plagą złego, daj, bym plagą złego, nie był bliźnim swym.",
       "quoteNotFromBibleReference": "ks. Gustav Lohmann, Śpiewnik ewangelicki 832, 1-2",
       "specialOccasionList": [],
-      "contemplationDTO": null,
-      "bibleReferences": [
-        "1 Sm 17,17.18",
-        "Łk 5,18",
-        "J 1,43-51",
-        "2 Tm 1,13-18"
-      ]
+      "contemplationDTO": null
     },
     {
       "date": "31-01-2024",
       "firstStandard": "Jr 3,23",
       "secondStandard": "Łk 1,46-47",
-      "firstAdditional": "Obj 1,(1.2)3-8",
+      "firstAdditional": "Obj 1,1-8",
       "secondAdditional": "2 Tm 2,1-13",
       "quoteNotFromBible": "Znajdź radość w zwykłych rzeczach, a będziesz szczęśliwy.",
       "quoteNotFromBibleReference": "Anne Frank †1945",
       "specialOccasionList": [],
-      "contemplationDTO": null,
-      "bibleReferences": [
-        "Jr 3,23",
-        "Łk 1,46-47",
-        "Obj 1,(1.2)3-8",
-        "2 Tm 2,1-13"
-      ]
+      "contemplationDTO": null
     }
   ]
 }
