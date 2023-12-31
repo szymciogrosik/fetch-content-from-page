@@ -1,0 +1,537 @@
+{
+  "biblePerDayList": [
+    {
+      "date": "01-03-2024",
+      "firstStandard": "Ps 63,8",
+      "secondStandard": "Rz 8,31",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Możemy być pewni, że Bóg da nam siłę i zasoby, których potrzebujemy, aby przetrwać każdą sytuację życiową, którą On zarządzi. Wola Boża nigdy nie zaprowadzi nas tam, gdzie łaska Boża nie może nas podtrzymać.",
+      "quoteNotFromBibleReference": "Billy Graham †2018",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "02-03-2024",
+      "firstStandard": "Ps 13,2",
+      "secondStandard": "Mt 27,46",
+      "firstAdditional": "Ga 2,16-21",
+      "secondAdditional": "Mk 10,46-52",
+      "quoteNotFromBible": "Zwątpienie jest wyzwaniem rzucanym przez Boga – bo czujesz wtedy Jego brak i cierpisz.",
+      "quoteNotFromBibleReference": "Antoine de Saint-Exupéry †1944",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "03-03-2024",
+      "firstStandard": "Prz 28,13",
+      "secondStandard": "Łk 19,8-9",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Kto doświadcza miłości i odpuszczenia win, bez problemu powie: Przykro mi. Drogi partnerze, kochane dziecko, drogi współpracowniku – źle się zachowałam.",
+      "quoteNotFromBibleReference": "Nicola Vollkommer",
+      "specialOccasionList": [
+        {
+          "occasion": "WEEK",
+          "title": "3. Pasyjna (Oculi – Oczy moje patrzą na Pana. Ps 25,15)",
+          "mainQuote": "Łk 9,62",
+          "psalm": "Ps 34,16-23",
+          "worshipSongs": [
+            "I za mnieś umarł 119",
+            "Pomóż rozważać, Panie 155"
+          ],
+          "apostolicLesson": "",
+          "sermonTextList": [
+            "1 P 1,13-21"
+          ],
+          "oldTestament": "1 Krl 19,1-13",
+          "gospel": "Łk 9,57-62"
+        }
+      ],
+      "contemplationDTO": {
+        "bibleReference": "1 P 1,18-19",
+        "text": "Przesłano mi takie opowiadanie: Pewnego dnia Szatan i Jezus odbywali rozmowę. Szatan właśnie wrócił z Edenu i chwalił się: – Mam w garści cały świat ludzi, tam na dole. Zastawiłem na nich pułapkę, zwabiłem ich. Wiedziałem, że nie będą w stanie się oprzeć. Mam ich wszystkich!\n– Co zamierzasz z nimi zrobić? – zapytał Jezus.\n– No, zamierzam się nimi pobawić! Nauczę ich jak się żenić, a potem rozwodzić, jak nienawidzić i wykorzystywać siebie nawzajem, jak pić, palić i przeklinać. Nauczę ich, jak wynaleźć broń i bomby, jak prowadzić wojny przeciwko sobie. Ależ będzie zabawa! – odpowiedział Szatan.\n– A co zrobisz, gdy skończysz? – zapytał Jezus.\n– No, zabiję ich wszystkich – odpowiedział dumnie Szatan.\n– Ile za nich chcesz? – zapytał Jezus.\n– Chyba nie chcesz tych ludzi? Oni nie są dobrzy. Ty ich weźmiesz, a oni Cię znienawidzą. Będą pluć na Ciebie, przeklinać Cię, aż w końcu Cię zabiją. Chyba nie chcesz tych ludzi!?\n– Ile? – zapytał ponownie Jezus.\nSzatan spojrzał na Jezusa i zadrwił: – Całą Twoją krew, Twoje życie. Jezus odpowiedział: – Wykonane! I wtedy zapłacił cenę.",
+        "textReference": "Mirosław Czyż"
+      }
+    },
+    {
+      "date": "04-03-2024",
+      "firstStandard": "Jl 3,21",
+      "secondStandard": "Mk 10,48-49",
+      "firstAdditional": "Łk 14,25-35",
+      "secondAdditional": "Mk 11,1-11",
+      "quoteNotFromBible": "O, jakże szczęśliwa jestem, widząc iż jestem niedoskonała i że potrzebuję Bożego miłosierdzia.",
+      "quoteNotFromBibleReference": "Teresa z Lisieux †1897",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "05-03-2024",
+      "firstStandard": "Jon 3,9",
+      "secondStandard": "Mk 11,24",
+      "firstAdditional": "Hi 7,11-21",
+      "secondAdditional": "Mk 11,12-25",
+      "quoteNotFromBible": "Wiem, że Ty jesteś Bogiem, więc proszę, objaw się znów. Ty możesz wszystko i wiem, Ty mnie nigdy nie zawiodłeś! Nie, Ty nigdy nie zawiodłeś i wiem to na pewno: nie zmienisz się.",
+      "quoteNotFromBibleReference": "Steven Furtick, Chris Brown, Tiffany Hammer",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "06-03-2024",
+      "firstStandard": "Ps 121,7",
+      "secondStandard": "J 17,15",
+      "firstAdditional": "Mt 19,16-26",
+      "secondAdditional": "Mk 11,27-33",
+      "quoteNotFromBible": "O, jak bogate dary w swym Synu zesłał nam! Miłuje nas bez miary, więc czegóż bać się mam? W Jezusie wszystko dał: i pokój, i zbawienie, i wszystkich win zgładzenie, bym w wierze wiecznej trwał.",
+      "quoteNotFromBibleReference": "Ludwig Helmbold †1598, Śpiewnik ewangelicki 687, 3",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "07-03-2024",
+      "firstStandard": "Iz 33,5-6",
+      "secondStandard": "Dz 9,31",
+      "firstAdditional": "1 Tes 2,13-20",
+      "secondAdditional": "Mk 12,1-12",
+      "quoteNotFromBible": "Choć Kościół nie jest z tego świata, to jednak jest i działa na tym świecie. Choć powołanie swoje ma z góry, to jednak tu na ziemi je wykonuje. Choć korzeniami swymi tkwi w tamtym, niebieskim świecie, to jednak dla wykonania swoich zadań na ziemi ma swoją widzialną ludzką organizację. Dlatego Kościół musi się jakoś do tej ziemskiej rzeczywistości ustosunkować. Nie może być tylko widzem na tym świecie.",
+      "quoteNotFromBibleReference": "bp Karol Kotula †1968",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "08-03-2024",
+      "firstStandard": "2 Krl 13,23",
+      "secondStandard": "Rz 11,29",
+      "firstAdditional": "Mk 9,38-47",
+      "secondAdditional": "Mk 12,13-17",
+      "quoteNotFromBible": "Chcę być wdzięczny za Twą bliskość, zawsze wierzyć. Twoja łaska zmienia wszystko, Twoja łaska. Niepojęta łaska Twa. Wciąż niezmienna łaska Twa. Twoja łaska zmienia wszystko.",
+      "quoteNotFromBibleReference": "Zespół CME",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "09-03-2024",
+      "firstStandard": "Jr 15,18",
+      "secondStandard": "Ef 3,12-13",
+      "firstAdditional": "Mt 16,24-28",
+      "secondAdditional": "Mk 12,18-27",
+      "quoteNotFromBible": "Jestem w ręce Bożej, śmiercią się nie trwożę, bać się nie mam czego, Pan już moce złego pokonał. Bo Ten przy mnie stoi, który złych rozbroi, szermierz ten waleczny, Pan i Bóg mój wieczny mnie koi!",
+      "quoteNotFromBibleReference": "ks. Jerzy Trzanowski †1637, Śpiewnik ewangelicki 694, 3-4",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "10-03-2024",
+      "firstStandard": "Iz 65,19",
+      "secondStandard": "Obj 7,17",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Jeśli smutek w sercu masz, Jezusowi to powiedz. On rozjaśni twoją twarz, w serce radość ci da! Przyjacielem wiernym On, nie zwlekając daj Mu dłoń. Pokój, radość możesz mieć, jeśli tylko sam chcesz!",
+      "quoteNotFromBibleReference": "śpiewnik Będę śpiewał i grał 58",
+      "specialOccasionList": [
+        {
+          "occasion": "WEEK",
+          "title": "4. Pasyjna (Laetare – Radujcie się z Jeruzalemem. Iz 66,10)",
+          "mainQuote": "J 12,24",
+          "psalm": "Ps 84,2-13",
+          "worshipSongs": [
+            "Jezu ma radości 795",
+            "Jezusa umęczenie 129",
+            "O Jezu, wszak to sprawa Twa 558"
+          ],
+          "apostolicLesson": "2 Kor 1,3-7",
+          "sermonTextList": [
+            "Łk 22,54-62"
+          ],
+          "oldTestament": "Iz 54,7-10",
+          "gospel": ""
+        }
+      ],
+      "contemplationDTO": {
+        "bibleReference": "J 12,24",
+        "text": "Urodziłam się pod koniec marca w niedzielę Laetare, wiele lat temu. Uśmiechać się czy płakać, czy dziękować? Wybieram to trzecie: Dziękować! I wyjść do ogrodu i siać. W ogrodzie za oknem odnajduję czworaką rolę. Kamienną ścieżkę, skalisty grunt, rozrośnięte krzewy, które duszą inne rośliny – po niektórych już nie ma śladu – i mały już skrawek urodzajnej ziemi. Do którego podłoża podobne jest moje serce?\nPodczas ostatniego publicznego wystąpienia Pan Jezus przekazuje słuchaczom treści brzmiące jak paradoks: trzeba umrzeć, by żyć, trzeba wziąć krzyż, by osiągnąć chwałę. Mogę to zrozumieć, bo gdy trzymam w dłoni maleńkie, jakby zamrożone, „umarłe” ziarno i sadzę je – za jakiś czas rozwinie się w leczniczy nagietek lub pachnącą maciejkę. Małe ziarno, a posiada tyle znaczeń, od refleksji nad wzbudzeniem z umarłych – do drążenia w człowieku Słowem – na kształt rzuconego w glebę nasionka.",
+        "textReference": "Aleksandra Błahut-Kowalczyk"
+      }
+    },
+    {
+      "date": "11-03-2024",
+      "firstStandard": "1 Mż 28,16-17",
+      "secondStandard": "Ef 5,14",
+      "firstAdditional": "J 6,26-29",
+      "secondAdditional": "Mk 12,28-34",
+      "quoteNotFromBible": "Ledwie oczy przetrzeć zdołam, wnet do mego Pana wołam, do mego Boga na niebie i szukam go koło siebie. Wielu snem śmierci upadli, co się wczoraj spać pokładli, my się jeszcze obudzili, byśmy Cię, Boże, chwalili.",
+      "quoteNotFromBibleReference": "Franciszek Karpiński †1825, Śpiewnik ewangelicki 480, 3-4",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "12-03-2024",
+      "firstStandard": "Prz 3,29",
+      "secondStandard": "1 Tes 2,8",
+      "firstAdditional": "Hi 9,14-23 | Hi 9,32-35",
+      "secondAdditional": "Mk 12,35-40",
+      "quoteNotFromBible": "Będę patrzył przez palce na przeszkody świata. Zamiast przeklinać tego, kto chce zająć moje miejsce, zachęcę go, żeby to uczynił. Zamiast narzekać, że czekam na coś zbyt długo, podziękuję Bogu za wolną chwilę, którą przeznaczę na modlitwę. Zamiast zaciskać pięść, szykując się do nowych zadań, stawię im czoła radośnie i odważnie.",
+      "quoteNotFromBibleReference": "Max Lucado",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "13-03-2024",
+      "firstStandard": "1 Mż 18,19",
+      "secondStandard": "1 Tm 1,8",
+      "firstAdditional": "J 6,30-36",
+      "secondAdditional": "Mk 12,41-44",
+      "quoteNotFromBible": "Twe Słowo się spełniło i słońce mnie zbudziło, mnie ominęła trwoga, doznałem mocy Boga. Na domiar łaski Twojej racz dla obrony mojej anioła zesłać swego, by dziś mnie strzegł od złego.",
+      "quoteNotFromBibleReference": "ks. Paweł Gerhardt †1676, Śpiewnik ewangelicki 490, 4.7",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "14-03-2024",
+      "firstStandard": "Iz 30,19",
+      "secondStandard": "Mt 15,28",
+      "firstAdditional": "2 Kor 4,11-18",
+      "secondAdditional": "Mk 13,1-13",
+      "quoteNotFromBible": "Panie mów, Twój sługa słucha, niech się pełni wola Twa, a w skupieniu mego ducha strumień wody życia daj. Podaj mi żywota chleb, duszę nim w niedoli krzep!",
+      "quoteNotFromBibleReference": "ks. Benjamin Schmolck †1737, Śpiewnik ewangelicki 306, 6",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "15-03-2024",
+      "firstStandard": "5 Mż 14,1",
+      "secondStandard": "Ga 3,26",
+      "firstAdditional": "J 16,16-23",
+      "secondAdditional": "Mk 13,14-23",
+      "quoteNotFromBible": "Przyjmij, o Boże, dary, które przynosimy. Ty sam przyjmij nas chlebem i winem. Wszystkie wysiłki, niepowodzenia i sukcesy chcemy w zaufaniu oddać Tobie, naszemu Ojcu.",
+      "quoteNotFromBibleReference": "Raymund Weber",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "16-03-2024",
+      "firstStandard": "Ps 105,1",
+      "secondStandard": "Rz 10,17",
+      "firstAdditional": "Pnp 2,8-13",
+      "secondAdditional": "Mk 13,24-37",
+      "quoteNotFromBible": "W akcie wiary zawsze jest czas, kiedy trzeba zamknąć oczy i wskoczyć do wody z nieustraszonym sercem i bez wyraźnej gwarancji.",
+      "quoteNotFromBibleReference": "Paul Claudel †1955",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "17-03-2024",
+      "firstStandard": "Iz 44,3",
+      "secondStandard": "J 7,37",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Bóg jest wierny słowom swoim i obietnice swoje spełnia. Nie chce, aby człowiek – dusza żyjąca tchnieniem Jego ożywiona – miał zginąć w posusze świata. Wylał przeto wody na pragnącego, a potoki na ziemię suchą. Wylał Ducha Świętego, aby dusza ludzka spragniona mogła pić ze źródeł wód żywych.",
+      "quoteNotFromBibleReference": "ks. Adolf Gloc †1979",
+      "specialOccasionList": [
+        {
+          "occasion": "WEEK",
+          "title": "5. Pasyjna (Judica – Bądź sędzią moim, Boże. Ps 43,1)",
+          "mainQuote": "Mt 20,28",
+          "psalm": "Ps 43",
+          "worshipSongs": [
+            "Tysiąckrotnie pozdrowiony 165",
+            "W krzyżu cierpienie 167",
+            "Wzgardzony i opuszczony 168"
+          ],
+          "apostolicLesson": "Hbr 5,1-10",
+          "sermonTextList": [
+            "1 Mż 22,1-19"
+          ],
+          "oldTestament": "",
+          "gospel": "Mk 10,35-45"
+        }
+      ],
+      "contemplationDTO": {
+        "bibleReference": "1 Mż 22,8",
+        "text": "Rozmowa Abrahama z Izaakiem to jeden z najbardziej przejmujących dialogów zapisanych na kartach Biblii. Po wielu latach Abraham, który całe życie wierzył, że Bóg sprawi, iż nie będzie ostatnim przedstawicielem swego rodu na świecie, doczekał się wreszcie wypełnienia Bożej obietnicy. Pojawił się syn, w którym urzeczywistniła się nadzieja na przyszłość. Do czasu, gdy ojciec usłyszał wezwanie do złożenia syna na ofiarę.\nW drodze na górę w kraju Moria trwał cichy dialog, w którym ojciec i syn szukali odpowiedzi na pytania, które były coraz trudniejsze. Szczególnie wybrzmiewa to ostatnie pytanie o przedmiot, który zostanie złożony na ofiarę. A jego nie było… Na ludzki sposób nie było żadnego wyjścia. Abraham miał tylko jedną odpowiedź, która widnieje na początku tego tekstu. Nic więcej, resztę pozostawił Bogu. I to zadziałało, i nam też to pozostało. Zamknąć oczy i wyszeptać – wierzę.",
+        "textReference": "Adam Malina"
+      }
+    },
+    {
+      "date": "18-03-2024",
+      "firstStandard": "Iz 10,1-2",
+      "secondStandard": "Mt 7,12",
+      "firstAdditional": "J 1,29-34",
+      "secondAdditional": "Mk 14,1-11",
+      "quoteNotFromBible": "Bądźcie Bogu podobnymi, przed Nim równy wszelki stan; litość miejcie nad bliźnimi, by wam był miłościw Pan; ocierajcie bliźnim łzy, osładzajcie gorzkie dni. Biednym na ratunek spieszyć,żal łagodzić, pomoc nieść, rany goić, smętnych cieszyć, nagich odziać, podać jeść, to miłości świętej czyn – taki wzór dał Boży Syn.",
+      "quoteNotFromBibleReference": "Śpiewnik ewangelicki 827, 3-4",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "19-03-2024",
+      "firstStandard": "5 Mż 33,27",
+      "secondStandard": "J 14,1-2",
+      "firstAdditional": "Hi 19,21-27",
+      "secondAdditional": "Mk 14,12-16",
+      "quoteNotFromBible": "Panie, pokaż drogę mi gdzie schronienie jest. Dom – zabierz mnie już tam, gdzie nie będę czuł się sam. Otulony chcę w cieple Twoim być, w tej miłości żyć bliżej Nieba.",
+      "quoteNotFromBibleReference": "Zespół CME",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "20-03-2024",
+      "firstStandard": "Ps 116,12",
+      "secondStandard": "Łk 17,15-16",
+      "firstAdditional": "Tr 3,1-8 | Tr 3,14-20",
+      "secondAdditional": "Mk 14,17-26",
+      "quoteNotFromBible": "Nie ma większego i lepszego dzieła, jakie możemy wykonać względem Boga, ani nie ma też szlachetniejszego oddawania czci niż dziękowanie Mu.",
+      "quoteNotFromBibleReference": "Marcin Luter †1546",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "21-03-2024",
+      "firstStandard": "Dn 2,21",
+      "secondStandard": "1 Kor 1,30-31",
+      "firstAdditional": "Jr 15,15-21",
+      "secondAdditional": "Mk 14,27-31",
+      "quoteNotFromBible": "Niech się nie szczyci mędrzec mądrością, ani kto mocny potęgą swą. Niech się nie szczyci bogacz bogactwem, lecz niech pokorni oddadzą cześć Temu, który stworzył nas i zbawił.",
+      "quoteNotFromBibleReference": "Paul Baloche, śpiewnik Będę śpiewał i grał 194",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "22-03-2024",
+      "firstStandard": "Ps 102,26",
+      "secondStandard": "Kol 1,16",
+      "firstAdditional": "Hbr 10,1 | Hbr 10,11-18",
+      "secondAdditional": "Mk 14,32-42",
+      "quoteNotFromBible": "Rzeczywistym darem natury jest ten, który przypomina nam o Bogu; a rzeczywistym sensem radości jest to, co odczuwamy, stykając się z podstawą naszego jestestwa i czując jego głęboką siłę tak, że nasza radość staje się wdzięcznością i uwielbieniem.",
+      "quoteNotFromBibleReference": "Rudolf Bultmann †1976",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "23-03-2024",
+      "firstStandard": "Jr 16,20",
+      "secondStandard": "Kol 3,5",
+      "firstAdditional": "Obj 14,1-5",
+      "secondAdditional": "Mk 14,43-52",
+      "quoteNotFromBible": "Ciągły niepokój w człowieku, ucieczka w hałas, zabawy, szukamy wciąż nowych wrażeń, a w głębi ciszy pragniemy. Pokój zostawiam wam, pokój swój daję wam, nie tak jak daje dzisiaj świat – powiedział do nas Pan. Pokój budować na co dzień, w sobie, w rodzinie, w pracy, nasze mozolne wysiłki Pan swoją łaską wzbogaci. Pokój zostawiam wam, pokój swój daję wam, nie tak jak daje dzisiaj świat – powiedział do nas Pan.",
+      "quoteNotFromBibleReference": "Zofia Jasnota, Śpiewnik ewangelicki 841, 2-3",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "24-03-2024",
+      "firstStandard": "1 Krn 17,27",
+      "secondStandard": "Mt 25,34",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Szczęśliwa jest kraina ta, co berło tego Króla zna, i błogo sercom, w których On królewski swój zakłada tron! Bo On prawdziwym słońcem sam, gdzie On, błogości strumień tam. O Boże, chwała Ci, Pocieszycielu cny!",
+      "quoteNotFromBibleReference": "ks. Georg Weissel †1635, Śpiewnik ewangelicki 18, 3",
+      "specialOccasionList": [
+        {
+          "occasion": "WEEK",
+          "title": "6. Pasyjna – Niedziela Palmowa",
+          "mainQuote": "J 3,14-15",
+          "psalm": "Ps 69,2-4 | Ps 69,8-10 | Ps 69,21-22 | Ps 69,30",
+          "worshipSongs": [
+            "Wejdź już do nas 166",
+            "Wzgardzony i opuszczony 168"
+          ],
+          "apostolicLesson": "",
+          "sermonTextList": [
+            "Flp 2,5-11"
+          ],
+          "oldTestament": "Iz 50,4-9",
+          "gospel": "J 12,12-19"
+        }
+      ],
+      "contemplationDTO": {
+        "bibleReference": "Flp 2,10-11",
+        "text": "Znów otwieramy te szczególne drzwi z napisem Wielki Tydzień. W tych dniach Syn Boży wypełnia do końca swoją misję. Podejmijmy próbę przyjrzenia się centralnej postaci poprzez pryzmat kilku tytułów, jakie są Mu przypisane:\n– Jezus (hebr. Je(ho)szua) – Bóg zbawia, ratuje od grzechu i wiecznej śmierci;\n– Chrystus (hebr. Masziah) – Namaszczony (oliwą); termin ten odnosi się do obrzędu namaszczania kogoś na króla, kiedy to na głowę kandydata wylewano oliwę; co ważne – ukrzyżowany i zmartwychwstały Chrystus nie został namaszczony na króla Polski;\n– Pan (gr. kyrios) – w sensie, że wszystko zostało mu poddane.\nTych tytułów w Nowym Testamencie jest więcej. Każdy z nich akcentuje konkretny wymiar charakteru Syna Bożego. Ma się wrażenie, że oto wyruszamy w tę szczególną drogę z kimś Wielkim. Zapytam więc, odwołując się do hymnu apostoła Pawła: Czy zginasz swe kolana wobec Jezusa? Wyznajesz, że jest twoim Panem?",
+        "textReference": "Mirosław Czyż"
+      }
+    },
+    {
+      "date": "25-03-2024",
+      "firstStandard": "2 Krn 18,13",
+      "secondStandard": "2 Tm 4,2",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "O, jak dobrze jest głosić Ciebie Panie. Nieść w darze słowa Twe wszystkim ludziom w krąg. Niech wszystkich ludzi oświeca światło Twe, a pokój Twój niech uwalnia z lęku ich.",
+      "quoteNotFromBibleReference": "Bernardo Lafonte, Francesca Lota, śpiewnik Będę śpiewał i grał 53, 2",
+      "specialOccasionList": [
+        {
+          "occasion": "DAY",
+          "title": "Dzień zwiastowania Marii Pannie",
+          "mainQuote": "Ga 4,4",
+          "psalm": "Ps 19,2-7",
+          "worshipSongs": [
+            "Chwal, duszo moja, Pana 584",
+            "Błogosław Panu, o duszo moja 581"
+          ],
+          "apostolicLesson": "Ga 4,4-7",
+          "sermonTextList": [],
+          "oldTestament": "Iz 7,10-14",
+          "gospel": "Łk 1,26-38"
+        }
+      ],
+      "contemplationDTO": null
+    },
+    {
+      "date": "26-03-2024",
+      "firstStandard": "Iz 43,16",
+      "secondStandard": "J 14,3-4",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Toruj, Jezu, sam drogę życia nam! My, gdy Wodzem Cię ujrzymy, śladem Twoim podążymy; wskaż do niebios bram, wąską ścieżkę nam!",
+      "quoteNotFromBibleReference": "bp Mikołaj L. Zinzendorf †1760, Śpiewnik ewangelicki 758, 1",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "27-03-2024",
+      "firstStandard": "Ps 109,31",
+      "secondStandard": "Jk 2,5",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Pysznego w przepaść strąci z wyżyn skinieniem swoim jednym Bóg, a pokornego dźwiga z nizin i wyprowadza z matni trwóg. Obleka chwałą nędzny pył, a nędzą, kto tu w chwale żył.",
+      "quoteNotFromBibleReference": "Georg Neumark †1681, Śpiewnik ewangelicki 680, 6",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "28-03-2024",
+      "firstStandard": "Prz 14,34",
+      "secondStandard": "Łk 22,39-40",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Chociaż tyle zła dookoła Ciebie, choć tyle pokus w krąg, to obiecał Bóg, że Cię nie opuści. Po prostu uwierz Mu.",
+      "quoteNotFromBibleReference": "Ron Kenoly",
+      "specialOccasionList": [
+        {
+          "occasion": "DAY",
+          "title": "Wielki Czwartek, Dzień Ustanowienia Wieczerzy Pańskiej",
+          "mainQuote": "Ps 111,4",
+          "psalm": "Ps 111",
+          "worshipSongs": [
+            "Podnieśmy wszyscy społem 407",
+            "Zbliżmy się do Chrystusa Stołu 413"
+          ],
+          "apostolicLesson": "1 Kor 11,17-29 | 1 Kor 11,33-34",
+          "sermonTextList": [
+            "J 13,1-15 | J 13,34-35"
+          ],
+          "oldTestament": "2 Mż 12,1-14",
+          "gospel": ""
+        }
+      ],
+      "contemplationDTO": null
+    },
+    {
+      "date": "29-03-2024",
+      "firstStandard": "1 Mż 35,15",
+      "secondStandard": "Mt 27,54",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "I właśnie w tym miejscu, gdzie rozpoznajemy siebie jako sprawców i ofiary, jako morderców i jako zamordowanych w Ukrzyżowanym, właśnie w tym miejscu jest Bóg. W tym skrajnym przesileniu winy i jej konsekwencji spotykamy samego Boga, jako Tego, który przebacza, takiego, jakiego głosił Jezus.",
+      "quoteNotFromBibleReference": "Klaus Berger †2020",
+      "specialOccasionList": [
+        {
+          "occasion": "DAY",
+          "title": "Wielki Piątek,Dzień Ukrzyżowania Pana Jezusa",
+          "mainQuote": "J 3,16",
+          "psalm": "Ps 22,2-6 | Ps 22,12 | Ps 22,16 | Ps 22,19-20",
+          "worshipSongs": [
+            "Baranek niesie brzemię win 112",
+            "O głowo, coś zraniona 142",
+            "Na Golgotę, duszo, śpiesz 137"
+          ],
+          "apostolicLesson": "2 Kor 5,14-21",
+          "sermonTextList": [
+            "Mt 27,33-54"
+          ],
+          "oldTestament": "Iz 52,13-15 | Iz 53,1-12",
+          "gospel": ""
+        }
+      ],
+      "contemplationDTO": {
+        "bibleReference": "J 3,16",
+        "text": "Kolejny Wielki Piątek w życiu. Ile ran, cierpień, ile bólu, moich czynów, wyborów, słów, myśli – dostrzegam na zmaltretowanym ciele Pana Jezusa, które zaniósł na Golgotę? Ile? Czy łuski z moich oczu już opadły? Czy wciąż myślę: Mnie to nie dotyczy. To nie ja. Jestem przecież porządnym człowiekiem. Tegoroczny Wielki Piątek obnaża mój egocentryzm, wszystkie zakamuflowane słabości, błędy, pokusy i upadki.\nRany, straszliwe rany i sponiewieranie Syna Bożego, Jego pokora i milczenie – krzyczą wręcz o sile Jego miłości i przebaczeniu naszych grzechów raz na zawsze – z Bożego umiłowania człowieka. Dzisiejszy Wielki Piątek niech będzie jednym wielkim dziękczynieniem za niewyobrażalną miłość Boga i jedyną, niepodważalną ofiarę Pana Jezusa. Jak proponuje pewien scenarzysta: „Miłość to fundament i dach. To początek, a końca nie ma!”.",
+        "textReference": "Aleksandra Błahut-Kowalczyk"
+      }
+    },
+    {
+      "date": "30-03-2024",
+      "firstStandard": "Iz 30,18",
+      "secondStandard": "J 3,17",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Krzyż stoi, podczas gdy świat się obraca.",
+      "quoteNotFromBibleReference": "Bruno z Kolonii †965",
+      "specialOccasionList": [
+        {
+          "occasion": "DAY",
+          "title": "Wielka Sobota",
+          "mainQuote": "Ef 4,10",
+          "psalm": "Ps 88,2-7 | Ps 88,11-13",
+          "worshipSongs": [
+            "O Jezu, bądź pochwalony 143",
+            "Dziękuję Ci za śmierć Twoją 118",
+            "Kiedy Pana pochowali 131"
+          ],
+          "apostolicLesson": "",
+          "sermonTextList": [
+            "Hbr 9,11-12 | Hbr 9,24"
+          ],
+          "oldTestament": "Ez 37,1-14",
+          "gospel": "Mt 27,57-66"
+        }
+      ],
+      "contemplationDTO": null
+    },
+    {
+      "date": "31-03-2024",
+      "firstStandard": "Iz 42,16",
+      "secondStandard": "Łk 24,30-31",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Obchodźmy więc to święto ze szczerą dziś radością; bo sam Pan niepojęty obdarza nas światłością. On prześwieca cały byt, w Nim dany nam, łask Bożych świt, noc grzechu przeminęła. Alleluja!",
+      "quoteNotFromBibleReference": "Marcin Luter †1546, Śpiewnik ewangelicki 172, 6",
+      "specialOccasionList": [
+        {
+          "occasion": "WEEK",
+          "title": "1. Dzień Świąt Zmartwychwstania Pańskiego",
+          "mainQuote": "Obj 1,18",
+          "psalm": "Ps 118,14-24",
+          "worshipSongs": [
+            "Chrystus był w śmierci mocy 172",
+            "Kiedy rankiem 180"
+          ],
+          "apostolicLesson": "1 Kor 15,1-11",
+          "sermonTextList": [
+            "1 Sm 2,1-8"
+          ],
+          "oldTestament": "",
+          "gospel": "Mk 16,1-8"
+        },
+        {
+          "occasion": "NONE",
+          "title": "Jutrznia lub rezurekcja",
+          "mainQuote": "",
+          "psalm": "",
+          "worshipSongs": [],
+          "apostolicLesson": "Kol 3,1-4",
+          "sermonTextList": [
+            "J 5,19-21"
+          ],
+          "oldTestament": "Iz 26,13-19",
+          "gospel": ""
+        }
+      ],
+      "contemplationDTO": {
+        "bibleReference": "J 5,21",
+        "text": "W Jerozolimie przy Owczej Bramie była sadzawka, zwana po hebrajsku Betezda, mająca pięć krużganków. Było to miejsce, w którym spełniały się nadzieje ludzi chorych i czekających na uzdrowienie, bowiem zdarzało się czasami, że odzyskiwali tam zdrowie. Na pewno zdarzyło się to w przypadku chorującego od 38 lat człowieka i obecności tam Jezusa z Nazaretu. W sumie nie było potrzeby sadzawki, wystarczył sam Jezus, żeby stał się cud.\nDziś Wielkanoc, noc i dzień cudu życia. Ale co do tego ma sadzawka w Jerozolimie? Po wydarzeniach przy sadzawce Jezus wyjaśnił, iż On sam, tak jak Jego Ojciec, ma moc ożywiania i obdarowania życiem. A skoro Chrystus zmartwychwstał, to wszystko staje się możliwe. Wierzysz w to?",
+        "textReference": "Adam Malina"
+      }
+    }
+  ]
+}

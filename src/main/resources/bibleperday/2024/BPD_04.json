@@ -1,0 +1,452 @@
+{
+  "biblePerDayList": [
+    {
+      "date": "01-04-2024",
+      "firstStandard": "Iz 1,17",
+      "secondStandard": "Dz 11,28-29",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Troska o mój chleb powszedni to kwestia materialna. Troska o chleb mojego bliźniego to kwestia duchowa.",
+      "quoteNotFromBibleReference": "Nikołaj Bierdiajew †1948",
+      "specialOccasionList": [
+        {
+          "occasion": "DAY",
+          "title": "2. Dzień Świąt Zmartwychwstania Pańskiego",
+          "mainQuote": "Obj 1,18",
+          "psalm": "Ps 118,14-24",
+          "worshipSongs": [
+            "Szli do Emaus dwaj uczniowie 196",
+            "Wesoły nam dziś dzień 199"
+          ],
+          "apostolicLesson": "",
+          "sermonTextList": [
+            "1 Kor 15,50-58"
+          ],
+          "oldTestament": "Iz 25,6-9",
+          "gospel": "Łk 24,13-35"
+        }
+      ],
+      "contemplationDTO": {
+        "bibleReference": "1 Kor 15,53",
+        "text": "Cały 15. rozdział swego listu apostoł Paweł poświęca zagadnieniu zmartwychwstania. Najpierw ukazuje tę doktrynę biblijną jako doświadczenie świadków, którzy naocznie oglądali wzbudzonego z martwych Zbawiciela. W dalszej części snuje teologiczne wywody, które potwierdza prawdami z codziennego życia. Przykład stanowi powyższy werset dotyczący innego ciała po zmartwychwstaniu. Ciało Jezusa, choć przed śmiercią nie było skażone, zostało przemienione. Dowód na poparcie tej tezy stanowi spotkanie Zbawiciela z Marią, która bierze Jezusa za ogrodnika, bo nie rozpoznała Jego innego ciała. Podobnie stanie się z ludźmi zbawionymi, gdy ich ciała – skażone i śmiertelne – zostaną przemienione. Z tego względu w Apostolskim wyznaniu wiary padają słowa „wierzę w ciała zmartwychwstanie”. W wieczności otrzymamy nieskażone i nieśmiertelne ciała. To – nie jedyna – konsekwencja śmierci i zmartwychwstania Jezusa Chrystusa.",
+        "textReference": "MCz"
+      }
+    },
+    {
+      "date": "02-04-2024",
+      "firstStandard": "Iz 57,15",
+      "secondStandard": "Łk 24,29",
+      "firstAdditional": "J 20,1-10",
+      "secondAdditional": "1 P 1,1-12",
+      "quoteNotFromBible": "Musimy zaufaniem przezwyciężyć każdy lęk i każdą nieufność. Tak właśnie najlepiej okażemy Jezusowi naszą dziecięcą wdzięczność.",
+      "quoteNotFromBibleReference": "Matka Ewa †1930",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "03-04-2024",
+      "firstStandard": "Ez 34,27",
+      "secondStandard": "Obj 21,4",
+      "firstAdditional": "J 20,11-18",
+      "secondAdditional": "1 P 1,13-16",
+      "quoteNotFromBible": "Nie będzie płaczu, nie będzie łez, kiedy Kościół ujrzy Cię. Wierny jesteś pośród nas, gdy wielbimy Panie Cię.",
+      "quoteNotFromBibleReference": "Zespół CME",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "04-04-2024",
+      "firstStandard": "Iz 45,6-7",
+      "secondStandard": "Obj 1,18",
+      "firstAdditional": "J 21,1-14",
+      "secondAdditional": "1 P 1,17-21",
+      "quoteNotFromBible": "Spadają na nas ciosy, abyśmy mogli być mocni. Przychodzą zwątpienia, aby nasza wiara rosła. Ogarniają nas cienie i mroki, abyśmy szukali światła. Ukazuje się nam nicość doczesności, abyśmy zwracali się ku temu, co wieczne. Bóg każe nam ponosić bolesne straty, abyśmy z jego ręki mogli brać nowe, cenniejsze dary. I abyśmy zawsze na nowo się uczyli, że najcenniejszym darem jest Jego łaska, Jego dobroć, Jego błogosławieństwo, On sam.",
+      "quoteNotFromBibleReference": "bp Andrzej Wantuła †1976",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "05-04-2024",
+      "firstStandard": "Ez 16,60",
+      "secondStandard": "2 Kor 3,6",
+      "firstAdditional": "Łk 24,36-47",
+      "secondAdditional": "1 P 1,22-2,3",
+      "quoteNotFromBible": "Że Twe przymierze wiecznie trwa, Twe Słowo nam potwierdza. Niech każdy je w pamięci ma, niech szczycą się nim serca! Wśród młodych też, o Panie, szerz to Słowo, co ich wszędzie strzec, wodzić, cieszyć będzie.",
+      "quoteNotFromBibleReference": "ks. Karl Bernhard Garve †1841, Śpiewnik ewangelicki 388, 4",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "06-04-2024",
+      "firstStandard": "Ps 35,28",
+      "secondStandard": "Kol 3,16",
+      "firstAdditional": "Łk 24,1-12",
+      "secondAdditional": "1 P 2,4-10",
+      "quoteNotFromBible": "Chcę dobroć Twoją wielką głosić, dopóki język służy mi. Chcę Ci ofiarne modły wznosić, dopóki serce w piersiach drży. Gdy w uściech już zabraknie sił, westchnieniem będę Ciebie czcił.",
+      "quoteNotFromBibleReference": "ks. Johann Mentzer †1734, Śpiewnik ewangelicki 594, 5",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "07-04-2024",
+      "firstStandard": "Sdz 10,15",
+      "secondStandard": "Łk 18,13",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Zacznij modlić się do Niego. Codziennie rozmawiaj z Nim o twoich grzechach, o wszystkim, co obciąża twoje sumienie. To doprowadzi cię do wiary i do żywej społeczności z niewidzialnym Chrystusem.",
+      "quoteNotFromBibleReference": "Ole Hallesby †1961",
+      "specialOccasionList": [
+        {
+          "occasion": "WEEK",
+          "title": "1. po Wielkanocy (Quasimodogeniti – Jak nowo narodzone niemowlęta. 1 P 2,2)",
+          "mainQuote": "1 P 1,3",
+          "psalm": "Ps 116,1-9 | Ps 116,13",
+          "worshipSongs": [
+            "Przed Boga tron pośpieszmy wznieść 193"
+          ],
+          "apostolicLesson": "1 P 1,3-9",
+          "sermonTextList": [
+            "J 20,19-29"
+          ],
+          "oldTestament": "Iz 40,26-31",
+          "gospel": ""
+        }
+      ],
+      "contemplationDTO": {
+        "bibleReference": "1 P 1,3",
+        "text": "To zdanie zaczynam czytać od końca. Zmartwychwstanie Jezusa Chrystusa rodzi we mnie przeświadczenie, żywą nadzieję, której doświadczam dzięki Bożemu miłosierdziu. I z wdzięczności błogosławię Boga i Ojca Pana naszego, Jezusa Chrystusa. Ta nadzieja dotyczy życia wiecznego. Bez wiary w zmartwychwstanie i życie wieczne moja wiara w Pana Jezusa jest daremna. Chcę być w tym podobna do nowo narodzonego niemowlęcia, które zależne od mamy i taty przyjmuje wszystko, co następuje, jedno po drugim. Jest kochane bezwarunkowo i ufa.\nDzisiejsza niedziela, pierwsza po Wielkanocy, w swej nazwie tak mocno mi to uzmysławia. W odrodzeniu, którego sprawcą jest wyłącznie Zbawiciel, sięgam wzrokiem poza horyzont. I tam, w zderzeniu z wieloma trudnymi doświadczeniami, śmiercią bliskich, tą nagłą – mamy – i tą, która okazuje się wybawieniem od straszliwego cierpienia – moich sióstr – refleksja o zmartwychwstaniu i wieczności jest wielkim błogosławieństwem.",
+        "textReference": "Aleksandra Błahut-Kowalczyk"
+      }
+    },
+    {
+      "date": "08-04-2024",
+      "firstStandard": "Ps 112,1",
+      "secondStandard": "1 P 2,21",
+      "firstAdditional": "1 J 5,1-5",
+      "secondAdditional": "1 P 2,11-17",
+      "quoteNotFromBible": "Najdroższy mój Jezusie, ma ostojo, chcę Tobie służyć, dzieckiem Twoim być! Ty bądź mi Panem, przyjacielem, zbroją, bym z Twą pomocą mógł na świecie żyć!",
+      "quoteNotFromBibleReference": "Tadeusz Sikora †2016, Śpiewnik ewangelicki 740, 3",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "09-04-2024",
+      "firstStandard": "Ez 18,23",
+      "secondStandard": "Rz 6,23",
+      "firstAdditional": "Hi 42,7-17",
+      "secondAdditional": "1 P 2,18-25",
+      "quoteNotFromBible": "Śmierć nie jest dołem, lecz tunelem, nie jest końcem, lecz przełomem, nie jest stratą, lecz zyskiem, nie jest upadkiem, lecz wzlotem. Śmierć, dzięki zmartwychwstaniu, przestała być przejściem w nieznaną ciemność, lecz jest wyjściem z ciała i zamieszkaniem u Pana.",
+      "quoteNotFromBibleReference": "ks. Alfred Jagucki †2004",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "10-04-2024",
+      "firstStandard": "Iz 43,3",
+      "secondStandard": "Łk 9,35-36",
+      "firstAdditional": "Iz 66,6-14",
+      "secondAdditional": "1 P 3,1-7",
+      "quoteNotFromBible": "Tyś jest panów Pan i królów Król, zwycięski wódz, wszechmogący Bóg. Tyś Emmanuel, wielkie imię Twe. Tyś Zastępów Pan, wszechobecny Duch. Tyś jest żywy Bóg i łaskawy Pan, Twe Królestwo trwa, Tyś odwieczny Bóg. Tyś jest Alfa, Omega, miłość i moc, Odkupiciel, Przyjaciel, Mesjasz, co zbawił świat. Tyś pokojem mym, to dla Ciebie pragnę żyć.",
+      "quoteNotFromBibleReference": "Mark Imboden, Tammi Rhoton, śpiewnik Będę śpiewał i grał 138",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "11-04-2024",
+      "firstStandard": "Iz 51,12",
+      "secondStandard": "1 P 3,15",
+      "firstAdditional": "1 P 2,1-10",
+      "secondAdditional": "1 P 3,8-12",
+      "quoteNotFromBible": "Warto ciągle na nowo podejmować walkę, bo nadzieja którą złożyliśmy w Nim nie zawodzi. Sąd zapowiedziany przez Niego to nadzieja, że ostatecznym przeznaczeniem nie jest zniewolenie, ale wyzwolenie, nie unicestwienie, lecz przemienione nowe życie.",
+      "quoteNotFromBibleReference": "bp Mieczysław Cieślar †2010",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "12-04-2024",
+      "firstStandard": "Ez 16,62",
+      "secondStandard": "Rz 9,16",
+      "firstAdditional": "Obj 7,13-17",
+      "secondAdditional": "1 P 3,13-17",
+      "quoteNotFromBible": "Czyżbym nie miał śpiewać Bogu ani Jemu wdzięcznym być? Wszędzie dobroć Jego mnogą widzę jakby złotą nić, co przez wszystko się przesnuwa. Miłość wierna w każdy czas, tu bez końca dźwiga nas i nad dziećmi swymi czuwa. Wszystko w świecie kres swój ma, miłość Boża wiecznie trwa!",
+      "quoteNotFromBibleReference": "ks. Paweł Gerhardt †1676, Śpiewnik ewangelicki 588, 1",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "13-04-2024",
+      "firstStandard": "Dn 6,28",
+      "secondStandard": "Ga 2,20",
+      "firstAdditional": "Dz 8,26-39",
+      "secondAdditional": "1 P 3,18-22",
+      "quoteNotFromBible": "To nie twoje trzymanie się Chrystusa cię zbawia; to jest Chrystus. To nie twoja radość w Chrystusie cię zbawia; to jest Chrystus. To nie jest nawet twoja wiara w Chrystusa, chociaż jest narzędziem; to jest Krew Chrystusa i Jego zasługi.",
+      "quoteNotFromBibleReference": "Charles H. Spurgeon †1892",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "14-04-2024",
+      "firstStandard": "Ps 18,33",
+      "secondStandard": "1 Kor 1,25",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Kościół składa świadectwo o obecności swego Pana, którego moc na niebie i na ziemi jest dziś jak zawsze aktualna. Kościół chrześcijański stwierdza wobec świata, kim jest Jezus Chrystus, wyznaje Go i przekazuje wiarę w Niego ciągle następnym pokoleniom. W ten sposób wypełnia Kościół polecenie Chrystusa.",
+      "quoteNotFromBibleReference": "ks. Tadeusz Wojak †2000",
+      "specialOccasionList": [
+        {
+          "occasion": "WEEK",
+          "title": "2. po Wielkanocy (Misericordias Domini – Pełna jest ziemia łaski Pana. Ps 33,5)",
+          "mainQuote": "J 10,11 | J 10,27-28",
+          "psalm": "Ps 23",
+          "worshipSongs": [
+            "Mój wiekuisty Pasterz 602"
+          ],
+          "apostolicLesson": "1 P 2,21-25",
+          "sermonTextList": [
+            "1 Mż 16,1-16"
+          ],
+          "oldTestament": "",
+          "gospel": "J 10,11-16 | J 10,27-30"
+        }
+      ],
+      "contemplationDTO": {
+        "bibleReference": "1 Mż 16,13",
+        "text": "Co za czasy, co za obyczaje – powtarzają ludzie, gdy nie mogą się nadziwić światu, w którym żyją. Czasem zaglądamy do starych tekstów źródłowych – jak dziś, no i… mamy problem. No bo jak to?! Może się to wydawać dziwne, ale patriarcha Abraham otrzymuje od swojej żony Sary dodatkową żonę – niewolnicę Hagar, która zachodzi z nim w ciążę. Hagar zaczyna z góry traktować swoją właścicielkę, a Sara z zazdrości i mając władzę wymusza na mężu, aby wyrzucił z domu ową kobietę, na co Abraham godzi się bez większych problemów. Ciężarna nałożnica ląduje na pustyni.\nMoże ktoś chciałby chwycić kamień i rzucić nim w bohaterów. Przecież tak nie można! Nie żyjemy jednak w raju albo i w niebie, lecz na ziemi pełnej grzeszników, do których sami się zaliczamy. Co ważne, nie odpowiadamy za grzechy Abrahama i Sary, ale za swoje własne. W każdym przypadku Bóg nas widzi. A to oznacza, iż doskonale wie, co dziś robimy, nawet wtedy, gdy nam się wydaje, że ma zamknięte oczy. On widzi i wie.",
+        "textReference": "Adam Malina"
+      }
+    },
+    {
+      "date": "15-04-2024",
+      "firstStandard": "Am 7,2-3",
+      "secondStandard": "Łk 22,31-32",
+      "firstAdditional": "J 10,1-10",
+      "secondAdditional": "1 P 4,1-11",
+      "quoteNotFromBible": "Dziś, kiedy cienie nocy trzymały mnie w swej mocy i szatan mnie pożądał, jam pomoc Twą oglądał. Twe Słowo się spełniło i słońce mnie zbudziło, mnie ominęła trwoga, doznałem mocy Boga.",
+      "quoteNotFromBibleReference": "ks. Paweł Gerhardt †1676, Śpiewnik ewangelicki 490, 2.4",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "16-04-2024",
+      "firstStandard": "Ps 18,29",
+      "secondStandard": "Łk 1,78-79",
+      "firstAdditional": "Mt 9,35-10,1",
+      "secondAdditional": "1 P 4,12-19",
+      "quoteNotFromBible": "Latarnią Tyś, latarnią Tyś! Świecisz w mych ciemnościach, chcę za Tobą iść. Latarnią Tyś, latarnią Tyś! Wierzę w obietnicę, że przeprowadzisz mnie na drugi brzeg.",
+      "quoteNotFromBibleReference": "zespół Rend Collective",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "17-04-2024",
+      "firstStandard": "Ps 103,1",
+      "secondStandard": "1 P 1,3",
+      "firstAdditional": "J 17,20-26",
+      "secondAdditional": "1 P 5,1-7",
+      "quoteNotFromBible": "Sam znaczę tak niewiele, bym chwalił Jego cześć; Pan – Królem jest w Kościele, jam – zwiędłym kwiatem jest. A jednak mi otworzy w Syjonie namiot swój, więc Jego chwałę mnożę, przed światem wielbię Go.",
+      "quoteNotFromBibleReference": "ks. Paweł Gerhardt †1676, Śpiewnik ewangelicki 629, 6",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "18-04-2024",
+      "firstStandard": "Iz 12,6",
+      "secondStandard": "J 1,14",
+      "firstAdditional": "Ef 4,11-16",
+      "secondAdditional": "1 P 5,8-14",
+      "quoteNotFromBible": "Dziś przyszedłem sam do Ciebie, Panie, więc i do mnie przyjdź. Gdzie Ty mieszkasz, tam jak w niebie, tam zapewne błogo żyć. W sercu mym zamieszkać chciej, jakbyś był w świątyni swej!",
+      "quoteNotFromBibleReference": "ks. Benjamin Schmolck †1737, Śpiewnik ewangelicki 306, 2",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "19-04-2024",
+      "firstStandard": "1 Mż 6,22",
+      "secondStandard": "Mt 7,24",
+      "firstAdditional": "Ez 34,23-31",
+      "secondAdditional": "1 Kor 1,1-9",
+      "quoteNotFromBible": "Nie czytaj sobie Pisma Świętego, jako fabuł, tylko dla rozkoszy a dla krotofile swojej, ale sobie pilnie uważaj a rozważaj, iż co się kolwiek z wiernymi działo w dziwnych niebezpieczeństwach a prześladowaniu, to się też iście z tobą nieomylnie dziać będzie.",
+      "quoteNotFromBibleReference": "Mikołaj Rej †1569",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "20-04-2024",
+      "firstStandard": "Jr 39,18",
+      "secondStandard": "Łk 23,43",
+      "firstAdditional": "J 14,1-6",
+      "secondAdditional": "1 Kor 1,10-17",
+      "quoteNotFromBible": "Rzekł do mnie: Nie odstępuj Mnie, a będzie ci z tym dobrze, za ciebie się poświęcić chcę i walczyć będę chrobrze. Bo Jam jest twój, a tyś jest Mój, przy boku Moim wiernie stój, a wróg nas nie rozłączy.",
+      "quoteNotFromBibleReference": "Marcin Luter †1546, Śpiewnik ewangelicki 641, 7",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "21-04-2024",
+      "firstStandard": "Prz 11,13",
+      "secondStandard": "Ef 4,15",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Oznajmiono ci, człowiecze, co jest dobre, czego żąda Bóg od ciebie. Byś wypełniał prawo, okazywał miłość i w pokorze chodził z nim.",
+      "quoteNotFromBibleReference": "śpiewnik Chwalmy Pana 151",
+      "specialOccasionList": [
+        {
+          "occasion": "WEEK",
+          "title": "3. po Wielkanocy (Jubilate – Radośnie wysławiajcie Boga. Ps 66,1)",
+          "mainQuote": "2 Kor 5,17",
+          "psalm": "Ps 66,1-9",
+          "worshipSongs": [
+            "Wesel się serdecznie 198",
+            "Wesoły nam dziś dzień 199"
+          ],
+          "apostolicLesson": "",
+          "sermonTextList": [
+            "2 Kor 4,14-18"
+          ],
+          "oldTestament": "1 Mż 1,1-31 | 1 Mż 2,1-4",
+          "gospel": "J 15,1-8"
+        }
+      ],
+      "contemplationDTO": {
+        "bibleReference": "2 Kor 4,15",
+        "text": "Apostoł Paweł zestawia w tym wierszu dwa słowa, które powinny w naszym życiu chrześcijańskim funkcjonować jak dwie strony jednej monety. Chodzi o wyrazy „łaska” i „dziękczynienie”. W oryginale greckim ma tutaj miejsce gra słów „charis” i „eu–charis–tia”. Autor prezentuje poprzez te odniesienia swego rodzaju matematyczną proporcję: im więcej osób, które doświadczają łaski, tym większe dziękczynienie powinno płynąć na chwałę Bożą. Zatem moje codzienne chrześcijaństwo, indywidualnie i w parafii, ma być przyjmowaniem Bożej łaski, abym mógł lepiej wyrażać wdzięczność. Pięknie, jeśli ktoś swoim życiem odzwierciedla tę prawidłowość. Gorzej, gdy ktoś przyjmuje łaskę, ale nie potrafi być wdzięczny. A jeszcze gorzej, według mnie, gdy ktoś odrzuca Bożą łaskę, ponieważ to oznacza, że z takiego serca dziękczynienie raczej nie popłynie.",
+        "textReference": "Mirosław Czyż"
+      }
+    },
+    {
+      "date": "22-04-2024",
+      "firstStandard": "Dn 3,28",
+      "secondStandard": "Mk 1,13",
+      "firstAdditional": "Rz 1,18-25",
+      "secondAdditional": "1 Kor 1,18-25",
+      "quoteNotFromBible": "Duch mój nic już się nie trwoży, mnie prowadzi anioł Boży. Alleluja! Bądź Bogu chwała! Radość, którą mam u Pana, już nie będzie odebrana. Alleluja! Bądź Bogu chwała!",
+      "quoteNotFromBibleReference": "ks. Johann Heermann †1647, Śpiewnik ewangelicki 180, 6",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "23-04-2024",
+      "firstStandard": "Ps 18,31",
+      "secondStandard": "Mk 4,26-28",
+      "firstAdditional": "1 Tm 4,1-5",
+      "secondAdditional": "1 Kor 1,26-31",
+      "quoteNotFromBible": "Panie, nasz Boże, Ty masz niezliczone „ciche” sposoby, dzięki którym umożliwiasz to, co wydaje się niemożliwe. Wczoraj nic nie było dostrzegalne, dziś niewiele zobaczymy, ale jutro wszystko się wypełni. Dopiero teraz, patrząc wstecz, zauważamy, jak niepostrzeżenie stworzyłeś to, czego nie udało nam się osiągnąć przy większym zgiełku.",
+      "quoteNotFromBibleReference": "Jeremias Gotthelf †1854",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "24-04-2024",
+      "firstStandard": "Iz 54,4",
+      "secondStandard": "Mt 28,5-6",
+      "firstAdditional": "J 8,31-36",
+      "secondAdditional": "1 Kor 2,1-5",
+      "quoteNotFromBible": "Jeśli nie czujesz się godny, by wyrosły Ci skrzydła, nigdy nie oderwiesz się od ziemi.",
+      "quoteNotFromBibleReference": "Nick Vujicic",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "25-04-2024",
+      "firstStandard": "Ps 3,9",
+      "secondStandard": "Łk 24,50",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "To Boże zrządzenie, że przez niego – czy to ponownie, czy po raz pierwszy – jesteśmy z jego stworzeniem wciągani w nurt historii Bożych błogosławieństw.",
+      "quoteNotFromBibleReference": "Marion Obitz",
+      "specialOccasionList": [
+        {
+          "occasion": "DAY",
+          "title": "Dzień ewangelisty Marka",
+          "mainQuote": "Iz 52,7",
+          "psalm": "",
+          "worshipSongs": [
+            "Apostołów dziś wspomnijmy 244",
+            "Zbudź, Panie, ducha ojców wiary 541"
+          ],
+          "apostolicLesson": "Dz 15,36-41",
+          "sermonTextList": [],
+          "oldTestament": "",
+          "gospel": "Łk 10,1-9"
+        }
+      ],
+      "contemplationDTO": null
+    },
+    {
+      "date": "26-04-2024",
+      "firstStandard": "Kz 12,13",
+      "secondStandard": "Mk 12,29-31",
+      "firstAdditional": "J 19,1-7",
+      "secondAdditional": "1 Kor 3,1-4",
+      "quoteNotFromBible": "Chcemy świętować naszą różnorodność i cieszyć się z tego, że jesteśmy wezwani, by żyć jako siostry i bracia. Panie, Ty prowadzisz nas ku solidarności, niezależnie od naszego pochodzenia, języka, wyglądu i charakteru. Dziękujemy Ci za Twoją łaskę, którą darzysz nas wszystkich jako Twoje dzieci.",
+      "quoteNotFromBibleReference": "modlitwa z Francji",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "27-04-2024",
+      "firstStandard": "Jr 2,35",
+      "secondStandard": "Łk 23,42",
+      "firstAdditional": "Obj 22,1-5",
+      "secondAdditional": "1 Kor 3,5-8",
+      "quoteNotFromBible": "Sumienie można ukryć przed obcymi, ale nie przed sobą, uciec od własnego sumienia jest tym samym, co ucieczka od samego siebie – jedno i drugie zawsze nas dogoni.",
+      "quoteNotFromBibleReference": "Augustyn z Hippony †430",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "28-04-2024",
+      "firstStandard": "Ps 86,11",
+      "secondStandard": "Flp 2,9-11",
+      "firstAdditional": "",
+      "secondAdditional": "",
+      "quoteNotFromBible": "Imię Jezus niechaj zabrzmi, niechaj je pozna cały świat! Wszak w nim tylko pokój znajdziesz, znajdziesz lek na grzechu jad. Przed Jezusem złość ucieka, przed Jezusem pierzcha noc, bo w imieniu Jego tylko znajdziesz do zwycięstwa moc. Imię Jezus najpiękniejsze, niesie w serca światła blask, w tym imieniu znajdziesz niebo, wybawienie, hojność łask.",
+      "quoteNotFromBibleReference": "David Welander †1967, Śpiewnik ewangelicki 787, 2",
+      "specialOccasionList": [
+        {
+          "occasion": "WEEK",
+          "title": "4. po Wielkanocy (Cantate – Śpiewajcie Panu pieśń nową. Ps 98,1)",
+          "mainQuote": "Ps 98,1",
+          "psalm": "Ps 98",
+          "worshipSongs": [
+            "Niech cały się raduje świat 641",
+            "Pochwal, mój duchu 620"
+          ],
+          "apostolicLesson": "",
+          "sermonTextList": [
+            "Obj 15,2-4"
+          ],
+          "oldTestament": "1 Sm 16,14-23",
+          "gospel": "Łk 19,37-40"
+        }
+      ],
+      "contemplationDTO": {
+        "bibleReference": "Ps 98,1",
+        "text": "W Niedzielę Cantate chcę o tym właśnie napisać. O śpiewie poprzez milczenie i krzyk; przez milczenie nieobecnych i krzyk kamieni. Jestem w Rozumicach na Opolszczyźnie, w dawnym kościele ewangelickim, obecnie w stanie zniszczenia. W 1946 roku wyjechał stamtąd ostatni ewangelik. W latach 30. XX wieku i w czasie II wojny światowej – miejsce szczególne! Miejscowi ewangelicy i pastor – wierni Kościoła Wyznającego – Bekennende Kirche – w tym zakątku Górnego Śląska mają odwagę sprzeciwiać się nazizmowi i oddawać cześć jedynie Jezusowi Chrystusowi. Gdy nie mogą już modlić się i śpiewać otwarcie, zbierają się w leśnym kościele, głuszy, pełnej drzew, z usypaną na zboczu jaru amboną, czyli Kanzel. Teraz kościół w Rozumicach jest zabezpieczoną ruiną. Rzędy samosiejek w miejscu parafian w ławkach – szumią drobnymi liśćmi swoją melodię, kamienie wokoło milczą. A może krzyczą? Może tam właśnie, w bolesny, przeszywający serce sposób – zmaterializowany jest hebrajski znak muzyczny Sela – sygnał dla przewodników chóru, który śpiewa psalmy, że następuje przerwa, milczenie? Może?",
+        "textReference": "Aleksandra Błahut-Kowalczyk"
+      }
+    },
+    {
+      "date": "29-04-2024",
+      "firstStandard": "Tr 1,18",
+      "secondStandard": "Mt 21,28-30",
+      "firstAdditional": "Prz 8,22-36",
+      "secondAdditional": "1 Kor 3,9-17",
+      "quoteNotFromBible": "Każdy człowiek tęskni za sprawiedliwością, z natury jednak jesteśmy dziećmi niesprawiedliwości. Dlatego najbardziej ze wszystkiego potrzebna nam jest sprawiedliwość, lecz sprawiedliwość inna, nie nasza. A świadomość tego prowadzi nas do jedynego źródła tej sprawiedliwości: do krzyża na Golgocie, do krwi Syna Bożego, przelanej z powodu naszej wrodzonej niesprawiedliwości.",
+      "quoteNotFromBibleReference": "Matka Ewa †1930",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    },
+    {
+      "date": "30-04-2024",
+      "firstStandard": "Ps 25,6",
+      "secondStandard": "Tt 3,4-5",
+      "firstAdditional": "Rz 15,14-21",
+      "secondAdditional": "1 Kor 3,18-23",
+      "quoteNotFromBible": "On, ten, który zna po imieniu nas. On, Bóg troski i miłosierdzia, Święty, Wieczny, Ojciec, Pan Bóg Wszechmocny. Oddajmy Bogu pieśń chwały, cześć!",
+      "quoteNotFromBibleReference": "Steve Frey, śpiewnik Będę śpiewał i grał 94",
+      "specialOccasionList": [],
+      "contemplationDTO": null
+    }
+  ]
+}
