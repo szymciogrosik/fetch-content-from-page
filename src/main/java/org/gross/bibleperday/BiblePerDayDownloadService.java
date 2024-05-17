@@ -166,8 +166,10 @@ public class BiblePerDayDownloadService {
     }
 
     private void fetchAdditionalElements(WebDriver driver, BiblePerDayDTO.Builder biblePerDayBuilder) {
-        List<WebElement> standardElements = PageUtils.findWebElementsByAndWait(driver, By.cssSelector("div.txt-container p.txt-item"));
-
+        List<WebElement> standardElements = PageUtils.findOptionalWebElementsByAndWait(driver, By.cssSelector("div.txt-container p.txt-item"));
+        if (standardElements.isEmpty()) {
+            return;
+        }
         biblePerDayBuilder.setFirstAdditional(standardElements.get(0).getText());
         biblePerDayBuilder.setSecondAdditional(standardElements.get(1).getText());
     }

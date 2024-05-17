@@ -1,12 +1,14 @@
 package org.gross.utils;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.TimeoutException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
@@ -29,6 +31,14 @@ public class PageUtils {
 
     public static List<WebElement> findWebElementsByAndWait(WebDriver driver, By by) {
         return findWebElementsByAndWait(driver, by, QUICK_CHECK_TIMEOUT_MILLIS);
+    }
+
+    public static List<WebElement> findOptionalWebElementsByAndWait(WebDriver driver, By by) {
+        try {
+            return findWebElementsByAndWait(driver, by, QUICK_CHECK_TIMEOUT_MILLIS);
+        } catch (TimeoutException e) {
+            return new ArrayList<>();
+        }
     }
 
     public static List<WebElement> findWebElementsByAndWait(WebDriver driver, By by, long durationMillis) {
